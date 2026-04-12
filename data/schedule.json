@@ -1,0 +1,1193 @@
+{
+  "MA-INF 4242": {
+    "title": "MA-INF 4242 - Self-supervised Learning",
+    "events": [
+      {
+        "type": "Lecture",
+        "day": "Fri",
+        "time": "2:00 PM - 4:00 PM c.t.",
+        "room": "Hörsaal 4, Friedrich-Hirzebruch-Allee 5"
+      },
+      {
+        "type": "Exercise",
+        "day": "Mon",
+        "time": "4:00 PM - 6:00 PM c.t.",
+        "room": "Hörsaal 2, Friedrich-Hirzebruch-Allee 5"
+      }
+    ]
+  },
+  "MA-INF 4114": {
+    "title": "MA-INF 4114 - Robot Learning",
+    "events": [
+      {
+        "type": "Lecture",
+        "day": "Tue",
+        "time": "2:00 PM - 4:00 PM c.t.",
+        "room": "Hörsaal 7, Friedrich-Hirzebruch-Allee 5"
+      }
+    ]
+  },
+  "MA-INF 1223": {
+    "title": "MA-INF 1223 - Privacy Enhancing Technologies",
+    "events": [
+      {
+        "type": "Lecture",
+        "day": "Mon",
+        "time": "2:00 PM - 4:00 PM c.t.",
+        "start_date": "Apr 13, 2026",
+        "end_date": "Jul 20, 2026",
+        "lecturers": [
+          "Dr. Michael Nusken"
+        ],
+        "room": "0.107, Friedrich-Hirzebruch-Allee 6-8 - B-IT / INF"
+      },
+      {
+        "type": "Exercise",
+        "day": "Wed",
+        "time": "12:00 PM - 2:00 PM c.t.",
+        "start_date": "Apr 15, 2026",
+        "end_date": "Jul 22, 2026",
+        "lecturers": [
+          "Dr. Michael Nusken"
+        ],
+        "room": "0.107, Friedrich-Hirzebruch-Allee 6-8 - B-IT / INF"
+      }
+    ]
+  },
+  "MA-INF 1222": {
+    "title": "MA-INF 1222 - Lab High Performance Optimization",
+    "events": [
+      {
+        "type": "Lab",
+        "day": "Thu",
+        "time": "2:00 PM - 4:00 PM c.t.",
+        "start_date": "Apr 16, 2026",
+        "end_date": "Jul 23, 2026",
+        "lecturers": [
+          "Krishna Sai Lakshmi Gayatri Manda"
+        ],
+        "room": "Seminarraum 3.035b, Informatik II, Friedrich-Hirzebruch-Allee 6-8 - B-IT / INF"
+      }
+    ]
+  },
+  "MA-INF 1221": {
+    "title": "MA-INF 1221 - Lab Computational Analytics",
+    "events": [
+      {
+        "type": "Lab",
+        "day": "By arrangement",
+        "time": "By arrangement",
+        "start_date": "Apr 13, 2026",
+        "end_date": "Jul 24, 2026",
+        "lecturers": [
+          "Laura Bulte",
+          "Aurora Rossi"
+        ],
+        "room": "By arrangement"
+      }
+    ]
+  },
+  "MA-INF 1213": {
+    "title": "MA-INF 1213 - Randomized Algorithms and Probabilistic Analysis",
+    "events": [
+      {
+        "type": "Lecture",
+        "day": "Wed",
+        "time": "10:00 AM - 12:00 PM c.t.",
+        "start_date": "Apr 15, 2026",
+        "end_date": "Jul 22, 2026",
+        "lecturers": [
+          "Prof. Dr. Heiko Röglin"
+        ],
+        "room": "Hörsaal 6, Friedrich-Hirzebruch-Allee 5 - Hörsaalzentrum"
+      },
+      {
+        "type": "Lecture",
+        "day": "Fri",
+        "time": "12:00 PM - 2:00 PM c.t.",
+        "start_date": "Apr 17, 2026",
+        "end_date": "Jul 24, 2026",
+        "lecturers": [
+          "Prof. Dr. Heiko Röglin"
+        ],
+        "room": "Hörsaal 7, Friedrich-Hirzebruch-Allee 5 - Hörsaalzentrum"
+      }
+    ]
+  },
+  "MA-INF 1209": {
+    "title": "MA-INF 1209 - Seminar Advanced Topics in Cryptography",
+    "events": [
+      {
+        "type": "Seminar",
+        "day": "Mon",
+        "time": "4:00 PM - 6:00 PM c.t.",
+        "start_date": "Apr 13, 2026",
+        "end_date": "Jul 20, 2026",
+        "lecturers": [
+          "Dr. Michael Nüsken"
+        ],
+        "room": "0.107, Friedrich-Hirzebruch-Allee 6-8 - B-IT / INF"
+      }
+    ]
+  },
+  "MA-INF 1206": {
+    "title": "MA-INF 1206 - Seminar Design and Analysis of Randomized Approximation Algorithms",
+    "events": [
+      {
+        "type": "Seminar",
+        "day": "Tue",
+        "time": "12:00 PM - 2:00 PM s.t.",
+        "start_date": "Apr 14, 2026",
+        "end_date": "Jul 21, 2026",
+        "lecturers": [
+          "Prof. Dr. Heiko Röglin"
+        ],
+        "room": "Seminarraum 2.050, Informatik V"
+      }
+    ]
+  },
+  "S4C1": {
+    "title": "S4C1 GS Discrete Optimization - Approximation Algorithms for Vehicle Routing",
+    "events": [
+      {
+        "type": "Advanced seminar",
+        "day": "Mon",
+        "time": "2:00 PM - 4:00 PM",
+        "start_date": "Apr 13, 2026",
+        "end_date": "Jul 20, 2026",
+        "lecturers": [
+          "Prof. Dr. Stephan Held",
+          "Prof. Dr. Stefan Hougardy",
+          "Prof. Dr. Jens Vygen",
+          "Dr. Ulrich Brenner"
+        ],
+        "room": "Seminarraum, Lennéstraße 2-4"
+      }
+    ]
+  },
+  "MA-INF 3233": {
+    "title": "MA-INF 3233 - L2E2 6 CP Advanced Sensor Data Fusion in Distributed Systems .................... 93",
+    "events": [
+      {
+        "type": "TBD",
+        "day": "By arrangement",
+        "time": "TBD",
+        "start_date": "Summer 2026",
+        "end_date": "Summer 2026",
+        "lecturers": [
+          "TBD"
+        ],
+        "room": "See BASIS"
+      }
+    ]
+  },
+  "MA-INF 3246": {
+    "title": "MA-INF 3246 - MA-INF 3246",
+    "events": [
+      {
+        "type": "TBD",
+        "day": "By arrangement",
+        "time": "TBD",
+        "start_date": "Summer 2026",
+        "end_date": "Summer 2026",
+        "lecturers": [
+          "TBD"
+        ],
+        "room": "See BASIS"
+      }
+    ]
+  },
+  "MA-INF 3322": {
+    "title": "MA-INF 3322 - Applied Binary Exploitation",
+    "events": [
+      {
+        "type": "TBD",
+        "day": "By arrangement",
+        "time": "TBD",
+        "start_date": "Summer 2026",
+        "end_date": "Summer 2026",
+        "lecturers": [
+          "TBD"
+        ],
+        "room": "See BASIS"
+      }
+    ]
+  },
+  "MA-INF 2316": {
+    "title": "MA-INF 2316 - Lab Digital Material Appearance",
+    "events": [
+      {
+        "type": "TBD",
+        "day": "By arrangement",
+        "time": "TBD",
+        "start_date": "Summer 2026",
+        "end_date": "Summer 2026",
+        "lecturers": [
+          "TBD"
+        ],
+        "room": "See BASIS"
+      }
+    ]
+  },
+  "MA-INF 1307": {
+    "title": "MA-INF 1307 - Seminar Advanced Algorithms",
+    "events": [
+      {
+        "type": "TBD",
+        "day": "By arrangement",
+        "time": "TBD",
+        "start_date": "Summer 2026",
+        "end_date": "Summer 2026",
+        "lecturers": [
+          "TBD"
+        ],
+        "room": "See BASIS"
+      }
+    ]
+  },
+  "MA-INF 1314": {
+    "title": "MA-INF 1314 - MA-INF 1314",
+    "events": [
+      {
+        "type": "TBD",
+        "day": "Mon",
+        "time": "12:00 PM - 2:00 PM c.t.",
+        "start_date": "Summer 2026",
+        "end_date": "Summer 2026",
+        "lecturers": [
+          "TBD"
+        ],
+        "room": "See BASIS"
+      }
+    ]
+  },
+  "MA-INF 2216": {
+    "title": "MA-INF 2216 - Lab4 9 CP Lab Visual Computing ................................................... 61",
+    "events": [
+      {
+        "type": "TBD",
+        "day": "By arrangement",
+        "time": "TBD",
+        "start_date": "Summer 2026",
+        "end_date": "Summer 2026",
+        "lecturers": [
+          "TBD"
+        ],
+        "room": "See BASIS"
+      }
+    ]
+  },
+  "MA-INF 2309": {
+    "title": "MA-INF 2309 - MA-INF 2309",
+    "events": [
+      {
+        "type": "TBD",
+        "day": "By arrangement",
+        "time": "TBD",
+        "start_date": "Summer 2026",
+        "end_date": "Summer 2026",
+        "lecturers": [
+          "TBD"
+        ],
+        "room": "See BASIS"
+      }
+    ]
+  },
+  "MA-INF 3317": {
+    "title": "MA-INF 3317 - MA-INF 3317",
+    "events": [
+      {
+        "type": "TBD",
+        "day": "By arrangement",
+        "time": "TBD",
+        "start_date": "Summer 2026",
+        "end_date": "Summer 2026",
+        "lecturers": [
+          "TBD"
+        ],
+        "room": "See BASIS"
+      }
+    ]
+  },
+  "MA-INF 3242": {
+    "title": "MA-INF 3242 - Security of Distributed and",
+    "events": [
+      {
+        "type": "TBD",
+        "day": "By arrangement",
+        "time": "TBD",
+        "start_date": "Summer 2026",
+        "end_date": "Summer 2026",
+        "lecturers": [
+          "TBD"
+        ],
+        "room": "See BASIS"
+      }
+    ]
+  },
+  "MA-INF 1202": {
+    "title": "V4C3 Chip Design",
+    "events": [
+      {
+        "type": "Lecture",
+        "day": "Tue",
+        "time": "12:00 PM - 2:00 PM c.t.",
+        "start_date": "Apr 14, 2026",
+        "end_date": "Jul 21, 2026",
+        "lecturers": [
+          "Prof. Dr. Jens Vygen"
+        ],
+        "room": "Gerhard-Konow-Hörsaal, Lennéstraße 2-4"
+      },
+      {
+        "type": "Lecture",
+        "day": "Thu",
+        "time": "12:00 PM - 2:00 PM c.t.",
+        "start_date": "Apr 16, 2026",
+        "end_date": "Jul 23, 2026",
+        "lecturers": [
+          "Prof. Dr. Jens Vygen"
+        ],
+        "room": "Gerhard-Konow-Hörsaal, Lennéstraße 2-4"
+      }
+    ]
+  },
+  "MA-INF 3304": {
+    "title": "MA-INF 3304 - Lab4 9 CP Lab Communication and Communicating Devices ....................... 103",
+    "events": [
+      {
+        "type": "TBD",
+        "day": "By arrangement",
+        "time": "TBD",
+        "start_date": "Summer 2026",
+        "end_date": "Summer 2026",
+        "lecturers": [
+          "TBD"
+        ],
+        "room": "See BASIS"
+      }
+    ]
+  },
+  "MA-INF 3321": {
+    "title": "MA-INF 3321 - Sem2 4 CP Seminar Usable Security and Privacy ................................... 109",
+    "events": [
+      {
+        "type": "TBD",
+        "day": "By arrangement",
+        "time": "TBD",
+        "start_date": "Summer 2026",
+        "end_date": "Summer 2026",
+        "lecturers": [
+          "TBD"
+        ],
+        "room": "See BASIS"
+      }
+    ]
+  },
+  "MA-INF 2308": {
+    "title": "MA-INF 2308 - Lab4 9 CP Lab Graphics ............................................................ 74",
+    "events": [
+      {
+        "type": "TBD",
+        "day": "By arrangement",
+        "time": "TBD",
+        "start_date": "Summer 2026",
+        "end_date": "Summer 2026",
+        "lecturers": [
+          "TBD"
+        ],
+        "room": "See BASIS"
+      }
+    ]
+  },
+  "MA-INF 1230": {
+    "title": "MA-INF 1230 - MA-INF 1230",
+    "events": [
+      {
+        "type": "TBD",
+        "day": "Fri",
+        "time": "12:00 PM - 2:00 PM c.t.",
+        "start_date": "Summer 2026",
+        "end_date": "Summer 2026",
+        "lecturers": [
+          "TBD"
+        ],
+        "room": "See BASIS"
+      }
+    ]
+  },
+  "MA-INF 3312": {
+    "title": "MA-INF 3312 - Lab Sensor Data Fusion",
+    "events": [
+      {
+        "type": "TBD",
+        "day": "By arrangement",
+        "time": "TBD",
+        "start_date": "Summer 2026",
+        "end_date": "Summer 2026",
+        "lecturers": [
+          "TBD"
+        ],
+        "room": "See BASIS"
+      }
+    ]
+  },
+  "MA-INF 1225": {
+    "title": "MA-INF 1225 - Lab Exploring HPC technologies",
+    "events": [
+      {
+        "type": "TBD",
+        "day": "By arrangement",
+        "time": "TBD",
+        "start_date": "Summer 2026",
+        "end_date": "Summer 2026",
+        "lecturers": [
+          "TBD"
+        ],
+        "room": "See BASIS"
+      }
+    ]
+  },
+  "MA-INF 2307": {
+    "title": "MA-INF 2307 - MA-INF 2307",
+    "events": [
+      {
+        "type": "TBD",
+        "day": "By arrangement",
+        "time": "TBD",
+        "start_date": "Summer 2026",
+        "end_date": "Summer 2026",
+        "lecturers": [
+          "TBD"
+        ],
+        "room": "See BASIS"
+      }
+    ]
+  },
+  "MA-INF 2213": {
+    "title": "MA-INF 2213 - Advanced Computer Vision",
+    "events": [
+      {
+        "type": "Lecture",
+        "day": "Wed",
+        "time": "10:00 AM - 12:00 PM c.t.",
+        "start_date": "Apr 15, 2026",
+        "end_date": "Jul 22, 2026",
+        "lecturers": [
+          "Prof. Dr. Jürgen Gall"
+        ],
+        "room": "Hörsaal 3, Friedrich-Hirzebruch-Allee 5 - Hörsaalzentrum"
+      }
+    ]
+  },
+  "MA-INF 3319": {
+    "title": "MA-INF 3319 - Lab4 9 CP Lab Usable Security and Privacy ....................................... 107",
+    "events": [
+      {
+        "type": "TBD",
+        "day": "By arrangement",
+        "time": "TBD",
+        "start_date": "Summer 2026",
+        "end_date": "Summer 2026",
+        "lecturers": [
+          "TBD"
+        ],
+        "room": "See BASIS"
+      }
+    ]
+  },
+  "MA-INF 1316": {
+    "title": "MA-INF 1316 - MA-INF 1316",
+    "events": [
+      {
+        "type": "TBD",
+        "day": "Mon",
+        "time": "4:00 PM - 6:00 PM c.t.",
+        "start_date": "Summer 2026",
+        "end_date": "Summer 2026",
+        "lecturers": [
+          "TBD"
+        ],
+        "room": "See BASIS"
+      }
+    ]
+  },
+  "MA-INF 3320": {
+    "title": "MA-INF 3320 - MA-INF 3320",
+    "events": [
+      {
+        "type": "TBD",
+        "day": "By arrangement",
+        "time": "TBD",
+        "start_date": "Summer 2026",
+        "end_date": "Summer 2026",
+        "lecturers": [
+          "TBD"
+        ],
+        "room": "See BASIS"
+      }
+    ]
+  },
+  "MA-INF 3237": {
+    "title": "MA-INF 3237 - Array Signal and Multi-channel Processing",
+    "events": [
+      {
+        "type": "TBD",
+        "day": "By arrangement",
+        "time": "TBD",
+        "start_date": "Summer 2026",
+        "end_date": "Summer 2026",
+        "lecturers": [
+          "TBD"
+        ],
+        "room": "See BASIS"
+      }
+    ]
+  },
+  "MA-INF 3241": {
+    "title": "MA-INF 3241 - Practical Challenges in Human Factors of Security and Privacy.",
+    "events": [
+      {
+        "type": "TBD",
+        "day": "By arrangement",
+        "time": "TBD",
+        "start_date": "Summer 2026",
+        "end_date": "Summer 2026",
+        "lecturers": [
+          "TBD"
+        ],
+        "room": "See BASIS"
+      }
+    ]
+  },
+  "MA-INF 3229": {
+    "title": "MA-INF 3229 - MA-INF 3229",
+    "events": [
+      {
+        "type": "TBD",
+        "day": "By arrangement",
+        "time": "TBD",
+        "start_date": "Summer 2026",
+        "end_date": "Summer 2026",
+        "lecturers": [
+          "TBD"
+        ],
+        "room": "See BASIS"
+      }
+    ]
+  },
+  "MA-INF 1229": {
+    "title": "MA-INF 1229 - Lab4 9 CP Lab Advanced Algorithm Engineering .................................... 31",
+    "events": [
+      {
+        "type": "TBD",
+        "day": "By arrangement",
+        "time": "TBD",
+        "start_date": "Summer 2026",
+        "end_date": "Summer 2026",
+        "lecturers": [
+          "TBD"
+        ],
+        "room": "See BASIS"
+      }
+    ]
+  },
+  "MA-INF 1322": {
+    "title": "MA-INF 1322 - Sem2 4 CP Seminar Focus Topics in High Performance Computing .................. 41",
+    "events": [
+      {
+        "type": "TBD",
+        "day": "By arrangement",
+        "time": "TBD",
+        "start_date": "Summer 2026",
+        "end_date": "Summer 2026",
+        "lecturers": [
+          "TBD"
+        ],
+        "room": "See BASIS"
+      }
+    ]
+  },
+  "MA-INF 1201": {
+    "title": "V4C2 Approximation Algorithms",
+    "events": [
+      {
+        "type": "Lecture",
+        "day": "Tue",
+        "time": "2:00 PM - 4:00 PM c.t.",
+        "start_date": "Apr 14, 2026",
+        "end_date": "Jul 21, 2026",
+        "lecturers": [
+          "Prof. Dr. Stefan Hougardy"
+        ],
+        "room": "Gerhard-Konow-Hörsaal, Lennéstraße 2-4"
+      },
+      {
+        "type": "Lecture",
+        "day": "Thu",
+        "time": "2:00 PM - 4:00 PM c.t.",
+        "start_date": "Apr 16, 2026",
+        "end_date": "Jul 23, 2026",
+        "lecturers": [
+          "Prof. Dr. Stefan Hougardy"
+        ],
+        "room": "Gerhard-Konow-Hörsaal, Lennéstraße 2-4"
+      }
+    ]
+  },
+  "MA-INF 2311": {
+    "title": "MA-INF 2311 - Lab Computer Animation",
+    "events": [
+      {
+        "type": "TBD",
+        "day": "By arrangement",
+        "time": "TBD",
+        "start_date": "Summer 2026",
+        "end_date": "Summer 2026",
+        "lecturers": [
+          "TBD"
+        ],
+        "room": "See BASIS"
+      }
+    ]
+  },
+  "MA-INF 3202": {
+    "title": "MA-INF 3202 - Mobile Communication",
+    "events": [
+      {
+        "type": "TBD",
+        "day": "Tue",
+        "time": "2:00 PM - 4:00 PM c.t.",
+        "start_date": "Summer 2026",
+        "end_date": "Summer 2026",
+        "lecturers": [
+          "TBD"
+        ],
+        "room": "See BASIS"
+      }
+    ]
+  },
+  "MA-INF 3209": {
+    "title": "MA-INF 3209 - MA-INF 3209",
+    "events": [
+      {
+        "type": "TBD",
+        "day": "By arrangement",
+        "time": "TBD",
+        "start_date": "Summer 2026",
+        "end_date": "Summer 2026",
+        "lecturers": [
+          "TBD"
+        ],
+        "room": "See BASIS"
+      }
+    ]
+  },
+  "MA-INF 3110": {
+    "title": "MA-INF 3110 - MA-INF 3110",
+    "events": [
+      {
+        "type": "TBD",
+        "day": "Tue",
+        "time": "11:00 AM - 12:00 PM s.t.",
+        "start_date": "Summer 2026",
+        "end_date": "Summer 2026",
+        "lecturers": [
+          "TBD"
+        ],
+        "room": "See BASIS"
+      }
+    ]
+  },
+  "MA-INF 1309": {
+    "title": "MA-INF 1309 - Lab4 9 CP Lab Eﬃcient Algorithms: Design, Analysis and Implementation .......... 36",
+    "events": [
+      {
+        "type": "TBD",
+        "day": "Tue",
+        "time": "10:00 AM - 12:00 PM s.t.",
+        "start_date": "Summer 2026",
+        "end_date": "Summer 2026",
+        "lecturers": [
+          "TBD"
+        ],
+        "room": "See BASIS"
+      }
+    ]
+  },
+  "MA-INF 1301": {
+    "title": "MA-INF 1301 - L4E2 9 CP Algorithmic Game Theory ............................................... 34",
+    "events": [
+      {
+        "type": "TBD",
+        "day": "Mon",
+        "time": "10:00 AM - 12:00 PM c.t.",
+        "start_date": "Summer 2026",
+        "end_date": "Summer 2026",
+        "lecturers": [
+          "TBD"
+        ],
+        "room": "See BASIS"
+      }
+    ]
+  },
+  "MA-INF 4235": {
+    "title": "MA-INF 4235 - Reinforcement Learning",
+    "events": [
+      {
+        "type": "Lecture",
+        "day": "Mon",
+        "time": "12:00 PM - 2:00 PM c.t.",
+        "room": "Hörsaal IV, Meckenheimer Allee 176"
+      },
+      {
+        "type": "Exercise",
+        "day": "Fri",
+        "time": "2:00 PM - 4:00 PM c.t.",
+        "room": "Hörsaal IV, Meckenheimer Allee 176"
+      }
+    ]
+  },
+  "MA-INF 4237": {
+    "title": "MA-INF 4237 - Lab Natural Language Processing",
+    "events": [
+      {
+        "type": "Lab",
+        "day": "Wed",
+        "time": "4:00 PM - 6:00 PM c.t.",
+        "room": "Room 2.113 (Friedrich-Hirzebruch-Allee 5)",
+        "lecturers": [
+          "Prof. Dr. Lucie Flek"
+        ],
+        "start_date": "Apr 15, 2026"
+      }
+    ]
+  },
+  "MA-INF 4243": {
+    "title": "MA-INF 4243 - Mining Media Data II",
+    "events": [
+      {
+        "type": "Lecture",
+        "day": "Thu",
+        "time": "2:00 PM - 4:00 PM c.t.",
+        "room": "0.107, Friedrich-Hirzebruch-Allee 6-8"
+      },
+      {
+        "type": "Exercise",
+        "day": "Thu",
+        "time": "12:00 PM - 2:00 PM c.t.",
+        "room": "0.107, Friedrich-Hirzebruch-Allee 6-8"
+      }
+    ]
+  },
+  "MA-INF 4330": {
+    "title": "MA-INF 4330 - Lab Explainable AI and Applications",
+    "events": [
+      {
+        "type": "Lab",
+        "day": "Fri",
+        "time": "2:00 PM - 4:00 PM c.t.",
+        "room": "0.108, Friedrich-Hirzebruch-Allee 6-8"
+      }
+    ]
+  },
+  "MA-INF 4325": {
+    "title": "MA-INF 4325 - Lab Data Science in Practice",
+    "events": [
+      {
+        "type": "Lab",
+        "day": "Mon",
+        "time": "10:00 AM - 1:00 PM s.t.",
+        "room": "Seminarraum 1.047"
+      }
+    ]
+  },
+  "MA-INF 4244": {
+    "title": "MA-INF 4244 - Lab Deep Learning for the Physical Sciences",
+    "events": [
+      {
+        "type": "Lab",
+        "day": "Wed",
+        "time": "10:00 AM - 12:00 PM c.t.",
+        "room": "Seminarraum 3.035b"
+      }
+    ]
+  },
+  "MA-INF 4329": {
+    "title": "MA-INF 4329 - Seminar Biological Intelligence",
+    "events": []
+  },
+  "MA-INF 2206": {
+    "title": "MA-INF 2206 - Seminar Vision",
+    "events": [
+      {
+        "type": "Seminar",
+        "day": "",
+        "time": "Block Seminar",
+        "start_date": "Jul 15, 2026",
+        "end_date": "Sep 30, 2026",
+        "lecturers": [
+          "Prof. Dr. Jürgen Gall"
+        ],
+        "room": "Block Date"
+      }
+    ]
+  },
+  "MA-INF 2209": {
+    "title": "MA-INF 2209 - Advanced Topics in Computer Graphics I",
+    "events": [
+      {
+        "type": "Lecture",
+        "day": "Tue",
+        "time": "12:00 PM - 2:00 PM c.t.",
+        "start_date": "Apr 14, 2026",
+        "end_date": "Jul 21, 2026",
+        "lecturers": [
+          "Prof. Dr. Reinhard Klein"
+        ],
+        "room": "Hörsaal 3, Friedrich-Hirzebruch-Allee 5 - Hörsaalzentrum"
+      },
+      {
+        "type": "Lecture",
+        "day": "Thu",
+        "time": "12:00 PM - 2:00 PM c.t.",
+        "start_date": "Apr 16, 2026",
+        "end_date": "Jul 23, 2026",
+        "lecturers": [
+          "Prof. Dr. Reinhard Klein"
+        ],
+        "room": "Seminarraum 3.035b, Informatik II, Friedrich-Hirzebruch-Allee 6-8 - B-IT / INF"
+      }
+    ]
+  },
+  "MA-INF 2212": {
+    "title": "MA-INF 2212 - Pattern Matching and Machine Learning for Audio Signal Processing",
+    "events": [
+      {
+        "type": "Lecture",
+        "day": "Thu",
+        "time": "4:00 PM - 6:00 PM c.t.",
+        "start_date": "Apr 16, 2026",
+        "end_date": "Jul 23, 2026",
+        "lecturers": [
+          "PD Dr. Frank Kurth"
+        ],
+        "room": "Hörsaal 3, Friedrich-Hirzebruch-Allee 5 - Hörsaalzentrum"
+      }
+    ]
+  },
+  "MA-INF 2202": {
+    "title": "MA-INF 2202 - Computer Animation",
+    "events": [
+      {
+        "type": "Lecture",
+        "day": "Mon",
+        "time": "4:00 PM - 6:00 PM c.t.",
+        "start_date": "Apr 13, 2026",
+        "end_date": "Jul 20, 2026",
+        "lecturers": [
+          "Prof. Dr. Björn-Peter Krüger"
+        ],
+        "room": "Seminarraum 3.035b, Informatik II, Friedrich-Hirzebruch-Allee 6-8 - B-IT / INF"
+      },
+      {
+        "type": "Lecture",
+        "day": "Thu",
+        "time": "4:00 PM - 6:00 PM c.t.",
+        "start_date": "Apr 16, 2026",
+        "end_date": "Jul 23, 2026",
+        "lecturers": [
+          "Prof. Dr. Björn-Peter Krüger"
+        ],
+        "room": "Seminarraum 3.035b, Informatik II, Friedrich-Hirzebruch-Allee 6-8 - B-IT / INF"
+      }
+    ]
+  },
+  "MA-INF 4116": {
+    "title": "MA-INF 4116 - Seminar AI Safety",
+    "events": [
+      {
+        "type": "Seminar",
+        "day": "Wed",
+        "time": "2:15 PM - 3:45 PM s.t.",
+        "room": "2.113a (Friedrich-Hirzebruch-Allee 5)",
+        "start_date": "Apr 15, 2026",
+        "lecturers": [
+          "Prof. Dr. Lucie Flek",
+          "Dr. Florian Mai"
+        ]
+      }
+    ]
+  },
+  "MA-INF 4201": {
+    "title": "MA-INF 4201 - Artificial Life",
+    "events": [
+      {
+        "type": "Lecture",
+        "day": "Mon",
+        "time": "2:00 PM - 4:00 PM c.t.",
+        "room": "Hörsaal 2, Friedrich-Hirzebruch-Allee 5 - Hörsaalzentrum",
+        "lecturers": [
+          "Dr. Nils Goerke"
+        ],
+        "start_date": "Apr 13, 2026",
+        "end_date": "Jul 20, 2026"
+      }
+    ]
+  },
+  "MA-INF 4208": {
+    "title": "MA-INF 4208 - Seminar Vision Systems",
+    "events": [
+      {
+        "type": "Intro Meeting",
+        "day": "Fri",
+        "time": "10:00 AM - 11:00 AM",
+        "start_date": "Apr 17, 2026",
+        "end_date": "Apr 17, 2026",
+        "lecturers": [
+          "Prof. Dr. Sven Behnke",
+          "Luca Eichler"
+        ],
+        "room": "0.057"
+      }
+    ]
+  },
+  "MA-INF 4209": {
+    "title": "MA-INF 4209 - Seminar Principles of Data Mining",
+    "events": [
+      {
+        "type": "Seminar",
+        "day": "Wed",
+        "time": "2:00 PM - 4:00 PM c.t.",
+        "room": "Seminarraum 2.025"
+      }
+    ]
+  },
+  "MA-INF 4211": {
+    "title": "MA-INF 4211 - Seminar Cognitive Robotics",
+    "events": []
+  },
+  "MA-INF 4213": {
+    "title": "MA-INF 4213 - Seminar Humanoid Robots",
+    "events": [
+      {
+        "type": "Intro Meeting",
+        "day": "Wed",
+        "time": "10:00 AM - 11:00 AM",
+        "start_date": "Apr 15, 2026",
+        "end_date": "Apr 15, 2026",
+        "lecturers": [
+          "Prof. Dr. Maren Bennewitz",
+          "M.Sc. Xuying Huang"
+        ],
+        "room": "Room 2.025"
+      },
+      {
+        "type": "Seminar Day",
+        "day": "Fri",
+        "time": "10:00 AM - 1:00 PM",
+        "start_date": "Jun 26, 2026",
+        "end_date": "Jun 26, 2026",
+        "lecturers": [
+          "Prof. Dr. Maren Bennewitz",
+          "M.Sc. Xuying Huang"
+        ],
+        "room": "TBD"
+      }
+    ]
+  },
+  "MA-INF 4214": {
+    "title": "MA-INF 4214 - Lab Humanoid Robots",
+    "events": [
+      {
+        "type": "Intro Meeting",
+        "day": "Wed",
+        "time": "10:00 AM - 11:00 AM",
+        "start_date": "Apr 15, 2026",
+        "end_date": "Apr 15, 2026",
+        "lecturers": [
+          "Prof. Dr. Maren Bennewitz",
+          "M.Sc. Xuying Huang"
+        ],
+        "room": "Room 2.025"
+      },
+      {
+        "type": "Midterm Presentation",
+        "day": "Thu",
+        "time": "12:00 PM - 1:00 PM",
+        "start_date": "Jun 25, 2026",
+        "end_date": "Jun 25, 2026",
+        "lecturers": [
+          "Prof. Dr. Maren Bennewitz",
+          "M.Sc. Xuying Huang"
+        ],
+        "room": "Room 2.044"
+      },
+      {
+        "type": "Lab Demonstration",
+        "day": "Mon",
+        "time": "10:00 AM - 12:00 PM",
+        "start_date": "Aug 24, 2026",
+        "end_date": "Aug 24, 2026",
+        "lecturers": [
+          "Prof. Dr. Maren Bennewitz",
+          "M.Sc. Xuying Huang"
+        ],
+        "room": "Room 2.044"
+      }
+    ]
+  },
+  "MA-INF 4215": {
+    "title": "MA-INF 4215 - Humanoid Robotics",
+    "events": [
+      {
+        "type": "Lecture",
+        "day": "Thu",
+        "time": "8:30 AM - 10:00 AM s.t.",
+        "start_date": "Apr 16, 2026",
+        "end_date": "Jul 23, 2026",
+        "lecturers": [
+          "Prof. Dr. Maren Bennewitz",
+          "Subham Agrawal"
+        ],
+        "room": "Hörsaal 7, Friedrich-Hirzebruch-Allee 5"
+      }
+    ]
+  },
+  "MA-INF 4216": {
+    "title": "MA-INF 4216 - Biomedical Data Science & AI",
+    "events": [
+      {
+        "type": "Lecture",
+        "day": "Mon",
+        "time": "9:00 AM - 10:30 AM s.t.",
+        "room": "0.109, Informatik"
+      },
+      {
+        "type": "Exercise",
+        "day": "Wed",
+        "time": "10:00 AM - 12:00 PM s.t.",
+        "room": "TBD"
+      }
+    ]
+  },
+  "MA-INF 4217": {
+    "title": "MA-INF 4217 - Seminar Machine Learning Methods in the Life Sciences",
+    "events": [
+      {
+        "type": "Seminar",
+        "day": "Tue",
+        "time": "9:00 AM - 10:30 AM s.t.",
+        "room": "0.107, Friedrich-Hirzebruch-Allee 6-8"
+      }
+    ]
+  },
+  "MA-INF 4226": {
+    "title": "MA-INF 4226 - Lab Parallel Computing for Mobile Robotics",
+    "events": [
+      {
+        "type": "Intro Meeting",
+        "day": "Tue",
+        "time": "2:00 PM - 3:00 PM",
+        "start_date": "Apr 14, 2026",
+        "end_date": "Apr 14, 2026",
+        "lecturers": [
+          "Prof. Dr. Maren Bennewitz",
+          "M.Sc. Sicong Pan",
+          "M.Sc. Benno Wingender"
+        ],
+        "room": "Room 2.025"
+      }
+    ]
+  },
+  "MA-INF 4232": {
+    "title": "MA-INF 4232 - Lab Information Retrieval in Practice",
+    "events": [
+      {
+        "type": "Lab",
+        "day": "Tue",
+        "time": "10:00 AM - 1:00 PM s.t.",
+        "room": "Seminarraum 1.047, Informatik III"
+      }
+    ]
+  },
+  "MA-INF 4241": {
+    "title": "MA-INF 4241 - Lab Cognitive Modelling of Biological Agents",
+    "events": [
+      {
+        "type": "Lab",
+        "day": "Thu",
+        "time": "10:00 AM - 1:00 PM s.t.",
+        "room": "TBD"
+      }
+    ]
+  },
+  "MA-INF 4304": {
+    "title": "MA-INF 4304 - Lab Cognitive Robotics",
+    "events": []
+  },
+  "MA-INF 4306": {
+    "title": "MA-INF 4306 - Lab Development and Application of Data Mining",
+    "events": []
+  },
+  "MA-INF 4308": {
+    "title": "MA-INF 4308 - Lab Vision Systems",
+    "events": [
+      {
+        "type": "Intro Meeting",
+        "day": "Fri",
+        "time": "10:00 AM - 11:00 AM",
+        "start_date": "Apr 17, 2026",
+        "end_date": "Apr 17, 2026",
+        "lecturers": [
+          "Prof. Dr. Sven Behnke",
+          "Luca Eichler"
+        ],
+        "room": "0.057"
+      }
+    ]
+  },
+  "MA-INF 4228": {
+    "title": "MA-INF 4228 - Foundations of Data Science",
+    "events": [
+      {
+        "type": "Lecture",
+        "day": "Tue",
+        "time": "10:15 AM - 11:45 AM",
+        "start_date": "Apr 14, 2026",
+        "end_date": "Jul 21, 2026",
+        "lecturers": [
+          "Prof. Dr. Lucie Flek",
+          "David Kaczér",
+          "Dr. João A. Gonçalves"
+        ],
+        "room": "Room 0.109 (B-IT-Max)"
+      },
+      {
+        "type": "Lecture",
+        "day": "Thu",
+        "time": "10:15 AM - 11:45 AM",
+        "start_date": "Apr 16, 2026",
+        "end_date": "Jul 23, 2026",
+        "lecturers": [
+          "Prof. Dr. Lucie Flek",
+          "David Kaczér",
+          "Dr. João A. Gonçalves"
+        ],
+        "room": "Room 0.109 (B-IT-Max)"
+      },
+      {
+        "type": "Exercise",
+        "day": "Tue",
+        "time": "12:15 PM - 1:45 PM",
+        "start_date": "Apr 21, 2026",
+        "end_date": "Jul 21, 2026",
+        "lecturers": [
+          "David Kaczér",
+          "Dr. João A. Gonçalves"
+        ],
+        "room": "Room 0.109 (B-IT-Max)"
+      }
+    ]
+  }
+}

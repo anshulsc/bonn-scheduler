@@ -1,0 +1,1794 @@
+› * MA-INF 2308 - Lab Graphics
+.. › * MA-INF 2309 - Lab Audio
+• * MA-INF 2311 - Lab Computer Animation
+• * MA-INF 2316 - Lab Digital Material Appearance
+• & Security, Information and Communication Management
+• * MA-INF 3110 - Lab Basics of iOS-Development
+> * MA-INF 3202 - Mobile Communication
+› * MA-INF 3209 - Seminar Selected Topics in Communication Management
+• * MA-INF 3229 - Lab IT Security
+› * MA-INF 3233 - Advanced Sensor Data Fusion in Distributed Systems
+> *MA-INF 3237 - Array Signal and Multi-channel Processing
+• * MA-INF 3241 - Practical Challenges in Human Factors of Security and Privacy
+> * MA-INF 3242 - Security of Distributed and Resource-constrained Systems
+> *MA-INF 3246 - Security in Digital Supply Chains
+• * MA-INF 3304 - Lab Communication and Communicating Devices
+› * MA-INF 3312 - Lab Sensor Data Fusion
+• * MA-INF 3317 - Seminar Selected Topics in IT Security
+> * MA-INF 3319 - Lab Usable Security and Privacy.
+> * MA-INF 3320 - Lab Security in Distributed Systems
+• * MA-INF 3321 - Seminar Usable Security and Privacy.
+• *MA-INF 3322-Applied Binary Exploitation
+• @ Intelligent Systems
+> #MA-INF 4114 - Robot Learning
+" YV
+її Пі
+їi m
+
+MA-INF 3209 - Seminar Selected Topics in Communication Management | 614032090 | course
+Back
+Choose term
+Term summer semester 2026
+Term planning
+Events
+Contents
+Basic data V
+Title
+Short text
+Long text
+Number
+Organizational unit
+University course catalog
+Linked examinations
+Modules / Courses of study
+Documents
+MA-INF 3209 - Seminar Selected Topics in Communication Management
+MA-INF 3209
+Selected Topics in Communication Management
+614032090
+• Fachgruppe Informatik (person responsible)
+MA-INF 3209 Seminar Selected Topics in Communication Management V
+Basic data
+Hours per week
+Teaching Language
+Responsible
+2.0
+English
+Prof. Dr. Peter Marti
+Prof. Dr. Michael Me
+Events
+Ly pre-booking for schedule Ed Export data as Calendar (ics) Lz Showing single dates.Q, Open details
+Rhythm
+Weekday.
+From - To
+Cancellation date
+By arrangement
+IMPRINT
+PRIVACY
+ACCESSIBILITY STATEMENT
+Eventtype
+Frequency of offer
+Credits
+Hours per week
+Links
+admitted:
+Start date - End date
+HISinOne™*
+Exp. Att.
+Seminar
+every semester
+0.0
+2.0
+Course Website
+Course application
+Comment
+Performing lecturers
+• Prof. Dr. Peter Martin
+Prof. Dr. Michael Meie
+Room
+
+Detail view
+MA-INF 3202 - Mobile Communication | 614332020 | course
+Back
+Choose term
+More functions
+Term summer semester 2026 V
+R Apply
+Term planning
+Events
+Contents
+University course catalog
+Basic data V
+Title
+Short text
+Long text
+Number
+Short comment
+Organizational unit
+Linked examinations
+Modules / Courses of study
+Documents
+MA-INF 3202 - Mobile Communication
+MA-INF 3202
+Mobile Communication
+614332020
+Pool 305
+Eventtype
+Frequency of offer
+Credits
+Hours per week
+Period
+Links
+Lecture and coursework
+irregularly
+0.0
+2.0
+• Veranstaltungen Informatik - Belegung (Sommer) from Apr 1, 2026 00:00:00 to
+Apr 30, 2026 23:59:59 - active
+Course Website
+MA-INF 3202 - Mobile Communication V
+Basic data
+Hours per week
+Teaching Language
+Responsible
+2.0
+English
+Dr. Matthias Fra
+of. Dr. Peter Mart
+Events
+E Apply El pre-booking for schedule ld Export data as icalendar (ics) tal Showing single dates. Q, open details
+Changes Rhythm
+weekly
+Weekday.
+From - To
+Tue
+2:00 PM - 4:00 PM c.t.
+Cancellation date
+• 05/26/2026
+Start date - End date
+Apr 14, 2026 - Jul 21, 2026
+registered:
+admitted:
+Waiting list:
+Exp. Att.
+Comment
+Performing lecturers
+or Morter nation
+Room
+Hörsaal 3, Friedrich-Hirzebruch-Allee 5 - Hörsaalzentrum
+
+MA-INF 3110 - Lab Basics of IOS-Development 614031100 course
+Back
+Choose term
+Term summer semester 2026 V
+Term planning
+Events
+Contents
+Basic data V
+Title
+Short text
+Long text
+Number
+Organizational unit
+University course catalog
+Linked examinations
+Modules / Courses of study
+Documents
+MA-INF 3110 - Lab Basics of ios-Development
+MA-INF 3110
+Lab Basics of ios-Development
+614031100
+Mathematisch-Naturwissenschaftliche Fakultät (person responsibl
+Fachgruppe Informatik (person responsibl
+MA-INF 3110 - Lab Basics of iOS-Development V
+Basic data
+Type
+Hours per week
+Teaching Language
+Responsible
+Events
+Semesterkurs
+5.0
+English
+• Prof. Dr. Stephan Michael Jonas
+Marko Jovanovi
+Lara Marie Reime
+E pre-booking for schedule ld Export data as icalendar (ics) tay showing single dates.
+Rhythm
+single date
+Weekday.
+From - To
+Tue
+11:00 AM - 12:00 PM s.t.
+• Open details
+Cancellation date
+Eventtype
+Frequency of offer
+Credits
+Hours per week
+Internship
+irregularly
+Maximum attendee
+Minimum number fatendes for the occurence of the 1
+course
+admitted:
+Start date - End date
+Apr 14, 2026
+Exp. Att.
+Comment
+Kickoff-Termin
+Performing lecturers
+Room
+
+Detail view
+MA-INF 2316 - Lab Digital Material Appearance | 614023160 | course
+Back
+Choose term
+Term summer semester 2026
+Term planning
+Events
+Contents
+University course catalog
+Basic data V
+Title
+Short text
+Long text
+Number
+Organizational unit
+MA-INF 2316 - Lab Digital Material Appearance V
+Linked examinations
+Modules / Courses of study
+Documents
+MA-INF 2316 - Lab Digital Material Appearance
+MA-INF 2316
+Lab Digital Material Appearance
+614023160
+• Fachgruppe Informatik (person responsible)
+Eventtype
+Frequency of offer
+Basic data
+Type
+Hours per week
+Teaching Language
+Responsible
+Events
+Semesterkurs
+4.0
+English
+• Prof. Dr. Matthias Hullin
+Ey pre-booking for schedule Ed Export data as iCalendar (ics) ta Showing single dates.
+Weekday.
+From - To
+Cancellation date
+Q Open details
+Rhythm
+By arrangement
+admitted:
+Start date - End date
+Exp. Att.
+Comment
+Internship
+every semester
+Performing lecturers
+Room
+
+MA-INF 2311 - Lab Computer Animation | 614023110 | course
+Back <
+Choose term
+Term summer semester 2026
+Term planning
+Events
+Contents
+University course catalog
+Basic data V
+Title
+Short text
+Long text
+Number
+Organizational unit
+MA-INF 2311 - Lab Computer Animation V
+Linked examinations
+Modules / Courses of study | Documents
+MA-INF 2311 - Lab Computer Animation
+MA-INF 2311
+Lab Computer Animation
+614023110
+• Fachgruppe Informatik (person responsible)
+Eventtype
+Frequency of offer
+Internship
+every semester
+Basic data
+Type
+Hours per week
+Teaching Language
+Responsible
+Events
+Semesterkurs
+4.0
+English
+• Prof. Dr. Björn-Peter Krüger
+El pre-booking for schedule ld Export data as iCalendar (ics) Lz Showing single dates. Q Open details
+Weekday
+From -To
+Cancellation date
+Rhythm
+By arrangement
+admitted:
+Start date - End date
+Exp. Att.
+Comment
+Introductory meeting: 08.04.2026, 2pm
+Please register by email to: ispindle@cs.uni-bonn.de
+Performing lecturers
+Room
+
+Detail view
+MA-INF 2309 - Lab Audio | 614023090 | course
+Back
+Choose term
+Term summer semester 2026
+Term planning
+Events
+(Contents
+Basic data V
+University course catalog
+Linked examinations
+Modules / Courses of study
+Documents
+Title
+Short text
+Long text
+Number
+Organizational unit
+MA-INF 2309 - Lab Audio V
+MA-INF 2309 - Lab Audio
+MA-INF 2309
+Lab Audio
+614023090
+• Fachgruppe Informatik (person responsible)
+Eventtype
+Frequency of offer
+Hours per week
+Links
+Internship
+only in the summer semester
+4.0
+Course Website
+Ly pre-booking for schedule id Export data as iCalendar (ics) Lay Showing single dates. Q Open details
+Weekday.
+From -To
+Cancellation date
+Basic data
+Responsible
+Events
+Rhythm
+By arrangement
+• PD Dr. Frank Kurth
+admitted:
+Start date - End date
+Exp. Att.
+Comment
+Performing lecturers
+• PD Dr. Frank Kurth
+Room
+
+MA-INF 2308 - Lab Graphics | 614023080 | course
+Back <
+Choose term
+Term summer semester 2026
+Term planning
+Events
+Contents
+Basic data V
+University course catalog
+Linked examinations
+Modules / Courses of study | Documents
+Title
+Short text
+Long text
+Number
+Organizational unit
+MA-INF 2308 - Lab Graphics
+MA-INF 2308
+Lab Graphics
+614023080
+• Fachgruppe Informatik (person responsible)
+MA-INF 2308 - Lab Graphics V
+Collapse of the section: MA-INF 2308 - Lab Graphics
+Basic data
+Type
+Hours per week
+Teaching Language
+Responsible
+Events
+Semesterkurs
+4.0
+English
+• Prof. Dr. Reinhard Klein
+Ex pre-booking for schedule ld Export data as iCalendar (ics) liz Showing single dates.
+Q Open details
+Weekday
+From -To
+Cancellation date
+Rhythm
+By arrangement
+Start date - End date
+Eventtype
+Frequency of offer
+Internship
+every semester
+admitted:
+Exp. Att.
+Comment
+Introductory-Meeting: 08.04.2026, 2 pm
+Please register by email to: jspindle@cs.uni-bonn.de
+Performing lecturers
+Room
+
+Detail view
+MA-INF 2307 - Lab Vision | 614023070 | course
+Back
+Choose term
+Term summer semester 2026
+Term planning
+Events
+Contents
+University course catalog
+Linked examinations
+Modules / Courses of study
+Basic data V
+Title
+Short text
+Long text
+Number
+Organizational unit
+MA-INF 2307 - Lab Vision
+MA-INF 2307
+Lab Vision
+614023070
+• Fachgruppe Informatik (person responsible)
+MA-INF 2307 - Lab Vision V
+Basic data
+Hours per week
+Teaching Language
+Events
+4.0
+English
+El pre-booking for schedule Ed Export data as iCalendar (ics) İz Showing single dates.
+Open details
+Weekday
+From - To
+Cancellation date
+Rhythm
+By arrangement
+-
+Documents
+Eventtype
+Frequency of offer
+Links
+Internship
+irregularly
+https://pagessiai.uni-bonn.de/gall_juergen/index.htm|#teaching
+admitted:
+Start date - End date
+Exp. Att.
+Comment
+Performing lecturers
+• Prof. Dr. Jürgen Gall
+Room
+
+Back
+Choose term
+Term summer semester 2026
+Term planning
+Events
+Contents
+university course calalog
+…inked examinatlons
+Modules / Courses of study Documents
+Basic data V
+Title
+Short text
+Long text
+Number
+Organizational unit
+MA-INF 2216 - Lab Visual Computing
+MA-INF 2216
+Lab Visual Computing
+614022160
+• Fachgruppe Informatik (person responsible)
+MA-INF 2216 - Lab Visual Computing V
+Basic data
+Type
+Hours per week
+Teaching Language
+Responsible
+Events
+Semesterkurs
+4.0
+English
+• Prof. Dr. Florian Bernard
+Ex pre-booking for schedule ld Export data as iCalendar (ics) liz4 Showing single dates. Q, Open details
+Weekday.
+From -To
+Cancellation date
+Start date.- End date
+Rhythm
+By arrangement
+Eventtype
+Frequency of offer
+Internship
+every semester
+admitted:
+Exp. Att.
+Comment
+Kick-off Meeting on 14th of April at 2 pm via Zoom:
+https://uni-bonn.z0om-x.de/j/69057502968?pwd=|FbCB7vr1QSh4RJvJ1Q4f1VgdzddzA.1
+Meeting ID: 690 5750 2968
+Passcode: 075646
+Performing lecturers
+Room
+
+Detail view
+MA-INF 2213 - Advanced Computer Vision | 614322130 | course
+Back <
+Choose term
+Term summer semester 2026 V
+More functions
+Et Apply
+Term planning
+Events
+/ Contents
+Basic data V
+Title
+Short text
+Long text
+Number
+Short comment
+Organizational unit
+University course catalog
+Linked examinations
+Modules / Courses of study
+Documents
+MA-INF 2213 - Advanced Computer Vision
+MA-INF 2213
+Advanced Computer Vision
+614322130
+Pool 305
+• Fachgruppe Informatik (person responsible)
+university (person responsible
+• Mathematisch-Naturwissenschaftliche Fakultät (person responsible
+MA-INF 2213 - Advanced Computer Vision - Vorlesung V
+Basic data
+Hours per week
+Teaching Language
+Responsible
+Events
+Changes Rhythm
+2.0
+English
+• Prof. Dr. Jürgen Gall
+E Apply E pre-booking. forschedule td Export data as iCalendar ics) tel Showing single dates. Q, Open details
+Weekday.
+From - To
+Cancellation date
+Start date - End date
+Eventtype
+Frequency of offer
+Credits
+Hours per week
+Period
+Links
+Lecture and coursework
+irregularly
+0.0
+0.0
+• Veranstaltungen Informatik - Belegung (Sommer) from Apr 1, 2026 00:00:00 to
+Apr 30, 2026 23:59:59 - active
+https://pages.iai.uni-bonn.de/gall_juergen/index.html#teaching
+Zum eCampus-Kurs
+registered:
+admitted:
+Waiting list:
+18
+Exp. Att.
+Comment
+Performing lecturers
+Room
+
+Detail view
+MA-INF 1322 - Seminar Focus Topics in High Performance Computing | 614013220 | course
+Back
+Choose term
+Term summer semester 2026
+Term planning
+Events
+Contents
+University course catalog
+Modules / Courses of study
+Basic data V
+Documents
+Title
+Short text
+Long text
+Number
+Organizational unit
+MA-INF 1322 Seminar High Performance Computing V
+MA-INF 1322 - Seminar Focus Topics in High Performance Computing
+MA-INF 1322
+Seminar Focus Topics in High Performance Computing
+614013220
+• Fachgruppe Informatik (person responsible)
+Eventtype
+Frequency of offer
+Hours per week
+Links
+Block course
+only in the summer semester
+2.0
+https://ca.cs.uni-bonn.de/doku.php?id=teaching:hpc-seminar
+Basic data
+Hours per week
+Teaching Language
+Responsible
+Events
+Rhythm
+By arrangement
+4.0
+English
+• Prof. Dr. Maria Estela Suarez Garcia
+admitted:
+Ey pre-booking for schedule ld Export data as iCalendar (ics) tz Showing single dates. Q, Open details
+Weekday.
+From - To
+Cancellation date
+Start date - End date
+Exp. Att.
+Comment
+https://ca.cs.uni-bonn.de/doku.php?id=teaching:hpc-seminar
+Performing lecturers
+• Prof. Dr. Maria Estela Suarez Garcia
+Room
+
+MA-INF 1316 - Lab Cryptography | 614013160 | course
+Back
+Choose term
+Term summer semester 2026 V
+Term planning
+Events
+Contents
+University course catalog
+Linked examinations
+Modules / Courses of study
+Basic data V
+Title
+Short text
+Long text
+Number
+Organizational unit
+MA-INF 1316 - Lab Cryptography
+MA-INF 1316
+Lab Cryptography
+614013160
+• Fachgruppe Informatik (person responsible)
+MA-INF 1316 - Lab Cryptography V
+Basic data
+Hours per week
+Teaching Language
+Responsible
+Events
+4.0
+English
+• Dr. Michael Nüsken
+Ey pre-booking for schedule ld Export data as Calendar (ics) (2 Showing single dates. Q, Open details
+Changes Rhythm
+weekly
+Weekday.
+Mon
+From - To
+Cancellation date
+4:00 PM - 6:00 PM c.t.
+• 05/25/2026
+A
+weekly
+Fri
+10:00 AM - 12:00 PM c.t.
+05/01/202
+05/29/202
+Documents
+Eventtype
+Frequency of offer
+Credits
+Hours per week
+Links
+Internship
+every 2nd semester
+0.0
+4.0
+Homebase
+admitted:
+Start date - End date
+Apr 13, 2026 - Jul 20, 2026
+Apr 17, 2026 - Jul 24, 2026
+Exp. Att.
+Comment
+Performing lecturers
+• Dr. Michael Nüsken
+• Dr. Michael Nüsken
+Room
+0.107, Friedrich-Hirzebruch-Allee 6-8 - B-IT / INF
+2.113, Friedrich-Hirzebruch-Allee 6-8 - B-IT/ INF
+
+Choose term
+Term summer semester 2026 V
+Term planning
+Events
+Contents
+Basic data V
+Title
+Short text
+Long text
+Number
+Short comment
+Organizational unit
+More functions
+B Apply
+University course catalog
+Linked examinations
+Modules / Courses of study
+Documents
+MA-INF 1314 - Online Motion Planning
+MA-INF 1314
+Online Motion Planning
+614313140
+Pool 305
+• Fachgruppe Informatik (person responsible)
+• university (person responsible)
+• Mathematisch-Naturwissenschaftliche Fakultät (person responsible
+Eventtype
+Frequency of offer
+Credits
+Hours per week
+Period
+Links
+Lecture and coursework
+irregularly
+0.0
+0.0
+• Veranstaltungen Informatik - Belegung (Sommer) from Apr 1, 2026 00:00:00 to
+Apr 30, 2026 23:59:59 - active
+Notice the eCampus Link. The lecture and the tutorials will be organized there!
+Zum eCampus-Kurs
+MA-INF 1314 - Online Motion Planning V
+Basic data
+Teaching Language
+Responsible
+English
+• Dr. Elmar Langetepe
+Events
+E Apply E pre-booking.for schedule lid Export data as iCalendar (ics) tel Showing single dates.
+Changes Rhythm
+weekly
+Weekday.
+Mon
+From - To
+Cancellation date
+12:00 PM - 2:00 PM c.t.
+04/13/202
+05/25/202
+weekly
+Tue
+10:00 AM - 12:00 PM c.t.
+• 05/26/2026
+registered:
+admitted:
+Waiting list:
+Q Open details
+Start date - End date
+Apr 20, 2026 - Jul 20, 2026
+Apr 14, 2026 - Jul 21, 2026
+Exp. Att.
+Comment
+Performing lecturers
+Room
+Hörsaal 3, Friedrich-Hirzebruch-Allee 5 - Hörsaalzentrum
+Hörsaal 7, Friedrich-Hirzebruch-Allee 5 - Hörsaalzentrum
+
+MA-INF 1309 - Lab Efficient Algorithms for Selected Problems: Design, Analysis and Implementation | 614013090 | course
+Back
+Choose term
+Term summer semester 2026 V
+Term planning
+Events
+Contents
+University course catalog
+Linked examinations
+Basic data V
+Title
+Short text
+Long text
+Number
+Organizational unit
+Modules / Courses of study
+Documents
+MA-INF 1309 - Lab Efficient Algorithms for Selected Problems: Design, Analysis and
+Implementation
+MA-INF 1309
+Lab Efficient Algorithms for Selected Problems: Design, Analysis and Implementation
+614013090
+• Fachgruppe Informatik (person responsible)
+MA-INF 1309 - Lab Efficient Algorithms for Selected Problems: Design, Analysis and Implementation V
+Eventtype
+Frequency of offer
+Links
+Internship
+irregularly
+website with further information
+Basic data
+Type
+Hours per week
+Teaching Language
+Responsible
+Events
+Semesterkurs
+4.0
+English
+• Prof. Dr. Heiko Röglin
+Ey pre-booking for schedule ld Export data as Calendar (ics) ['zý Showing single dates. Q, Open details
+Changes Rhythm
+weekly
+Weekday.
+Tue
+From - To
+Cancellation date
+10:00 AM - 12:00 PM s.t.
+• 05/26/2026
+admitted:
+Start date - End date
+Apr 14, 2026 - Jul 21, 2026
+Exp. Att.
+Comment
+Performing lecturers
+Room
+Seminarraum 2.050, Informatik V, Friedrich-Hirzebruch-Allee 6-8 - B-IT / INF
+
+Detail view
+MA-INF 1307 - Seminar Advanced Algorithms | 614013070 | course
+Back
+Choose term
+Term summer semester 2026
+Term planning
+Events
+Contents
+Basic data V
+University course catalog
+Modules / Courses of study
+Documents
+Title
+Short text
+Long text
+Number
+Organizational unit
+MA-INF 1307 - Seminar Advanced Algorithms V
+MA-INF 1307 - Seminar Advanced Algorithms
+MA-INF 1307
+Seminar Advanced Algorithms
+614013070
+• Fachgruppe Informatik (person responsible)
+Eventtype
+Frequency of offer
+Credits
+Block course
+irregularly
+0.0
+Basic data
+Responsible
+Events
+Rhythm
+By arrangement
+• Prof. Dr. Thomas Kesselheim
+admitted:
+Ly pre-booking for schedule Ed Export data as Calendar (ics) [z Showing single dates. Q Open details
+Weekday.
+From -To
+Cancellation date
+Start date - End date
+Exp. Att.
+Comment
+Performing lecturers
+• Prof. Dr. Thomas Kesselheim
+Room
+
+Back
+Choose term
+Term summer semester 2026 V
+Term planning
+Events
+Contents
+Basic data V
+Title
+Short text
+Long text
+Number
+Short comment
+Organizational unit
+More functions
+I Apply
+University course catalog
+Linked examinations
+Modules / Courses of study
+Documents
+MA-INF 1301 - Algorithmic Game Theory
+MA-INF 1301
+Algorithmic Game Theory
+614313010
+Pool 305
+MA-INF 1301 - Algorithmic Game Theory V
+Basic data
+Hours per week
+Teaching Language
+Responsible
+Events
+Changes Rhythm
+weekly
+weekly
+0.0
+English
+• Prof. Dr. Thomas Kesselheim
+E Apply E pre-booking.for schedule Ed Export data as iCalendar (ics) tal Showing single dates, Q, Open details
+Weekday.
+From - To
+Mon
+10:00 AM - 12:00 PM c.t.
+Wed
+12:00 PM - 2:00 PM c.t.
+Cancellation date
+• 05/25/2026
+• 05/27/2026
+Start date - End date
+Apr 13, 2026 -Jul 20,2026
+Apr 15, 2026 - Jul 22, 2026
+Eventtype
+Frequency of offer
+Credits
+Hours per week
+Period
+Links
+registered:
+admitted:
+Waiting list:
+Exp. Att.
+Comment
+Lecture and coursework
+irregularly
+0.0
+0.0
+• Veranstaltungen Informatik - Belegung (Sommer) from Apr 1, 2026 00:00:00 to
+Apr 30, 2026 23:59:59 - active
+Zum eCampus-Kurs
+Performing lecturers
+• Prof. Dr. Thomas Kesselheim
+• Prof. Dr. Thomas Kesselheim
+Room
+Hörsaal 3, Friedrich-Hirzebruch-Allee 5 - Hörsaalzentrum
+Hörsaal 3, Friedrich-Hirzebruch-Allee 5 - Hörsaalzentrum
+
+........O
+Detail view
+MA-INF 1230 - Algorithmic Knot Theory | 614312300 | course
+Back
+Choose term
+More functions
+Term summer semester 2026 V
+Et Apply
+Term planning
+Events
+Contents
+University course catalog
+Basic data V
+Title
+Short text
+Long text
+Number
+Organizational unit
+MA-INF 1230 - Algorithmic Knot Theory V
+Basic data
+Hours per week
+Teaching Language
+Responsible
+Events
+Linked examinations
+Modules / Courses of study| Documents
+MA-INF 1230 - Algorithmic Knot Theory
+MA-INF 1230
+Algorithmic Knot Theory
+614312300
+• Fachgruppe Informatik (person responsible)
+2.0
+English
+RApply pre-booking for schedule d Export data as iCalendar (ics) ay Showing single dates. O, Open details
+Changes Rhythm Weekday
+weekly
+Fri
+From - To
+12:00 PM - 2:00 PM c.t.
+Cancellation date
+Start date - End date
+• 05/01/2026
+Ar 17, 2026 - 124. 2026
+• 05/29/2026
+Eventtype
+Frequency of offer
+Hours per week
+Period
+Lecture and coursework
+irregularly
+2.0
+• Veranstaltungen Informatik - Belegung (Sommer) from Apr 1, 2026 00:00:00 to
+Apr 30, 2026 23:59:59 - active
+registered:
+admitted:
+Waiting list:
+:
+Exp. Att.
+Comment Performing lecturers
+: Dr. Bene ont Manian Kolbe
+Room
+Hörsaal 4, Friedrich-Hirzebruch-Allee 5 - Hörsaalzentrum Hörsaal Il, Meckenheimer Allee 176. Haupthaus
+
+Detail view
+MA-INF 1229 - Lab Advanced Algorithm Engineering | 614012290 | course
+Back
+Choose term
+Term summer semester 2026 V
+Term planning
+Events
+Contents
+University course catalog
+Linked examinations
+Basic data V
+Title
+Short text
+Long text
+Number
+Organizational unit
+MA-INF 1229 - Lab Advanced Algorithm Engineering V
+Modules / Courses of study
+Documents
+MA-INF 1229 - Lab Advanced Algorithm Engineering
+MA-INF 1229
+Lab Advanced Algorithm Engineering
+614012290
+• Fachgruppe Informatik (person responsible)
+Eventtype
+Frequency of offer
+Hours per week
+Internship
+irregularly
+4.0
+Basic data
+Hours per week
+Teaching Language
+Responsible
+Events
+4.0
+English
+• Prof. Dr. Petra Mutzel
+Ey pre-booking for schedule d Export data as iCalendar (ics) L Showing single dates. Q Open details
+Weekday.
+From -To
+Cancellation date
+Rhythm
+By arrangement
+admitted:
+Start date - End date
+Exp. Att.
+Comment
+Performing lecturers
+• Daniel Faber
+Room
+
+....
+Detail view
+MA-INF 1225 - Lab Exploring HPC technologies | 614012250 | course
+Back
+Choose term
+Term summer semester 2026 V
+Term planning
+Events
+Contents
+University course catalog
+Linked examinations
+Modules / Courses of study
+Basic data V
+Title
+Short text
+Long text
+Number
+Organizational unit
+MA-INF 1225 - Lab Exploring HPC technologies
+MA-INF 1225
+Lab Exploring HPC technologies
+614012250
+• Fachgruppe Informatik (person responsible)
+MA-INF 1225 - Lab Exploring HPC technologies V
+Collapse of the section: MA-INF 1225 - Lab Exploring HPC
+technologies
+Hours per week
+Teaching Language
+Responsible
+Events
+4.0
+English
+• Prof. Dr. Maria Estela Suarez Garcia
+Ey pre-booking for schedule d Export data as iCalendar (ics) L Showing single dates. Q Open details
+Weekday.
+From -To
+Cancellation date
+Rhythm
+By arrangement
+Documents
+Eventtype
+Frequency of offer
+Hours per week
+Links
+Block course
+irregularly
+4.0
+https://ca.cs.uni-bonn.de/doku.php?id=teaching:hpc-lab
+admitted:
+Start date - End date
+Exp. Att.
+Comment
+Performing lecturers
+• Prof. Dr. Maria Estela Suarez Garcia
+Room
+
+Choose term
+Term summer semester 2026 V
+Term planning
+Events
+Contents
+Basic data V
+Title
+Short text
+Long text
+Number
+Short comment
+Organizational unit
+More functions
+R Apply
+University course catalog
+Linked examinations
+Modules / Courses of study
+Documents
+MA-INF 1223 - Privacy Enhancing Technologies
+MA-INF 1223
+Privacy Enhancing Technologies
+614312230
+Pool 305
+• Bonn-Aachen International Center for Information Technology b-it (person
+responsible)
+• Fachgruppe Informatik (person responsible)
+• university (person responsible
+Vathematisch-Naturwissenschaftliche Fakultät (person responsible
+Eventtype
+Frequency of offer
+Credits
+Hours per week
+Period
+Links
+Lecture and coursework
+only in the summer semester
+0.0
+0.0
+• Veranstaltungen Informatik - Belegung (Sommer) from Apr 1, 2026 00:00:00 to
+Apr 30, 2026 23:59:59 - active
+Homebase
+Zum eCampus-Kurs
+MA-INF 1223 - Privacy Enhancing Technologies (PETs) V
+Basic data
+Hours per week
+Teaching Language
+Responsible
+Events
+0.0
+English
+• Dr. Michael Nüsken
+R Apply Ex pre-booking. for schedule td Export data as Calendar (ics) Lay Showing single dates. Q Open details
+Changes Rhythm
+weekly
+Weekday.
+Mon
+From - To
+Cancellation date
+2:00 PM - 4:00 PM c.t.
+• 05/25/2026
+weekly
+Wed
+12:00 PM - 2:00 PM c.t.
+• 05/27/2026
+registered:
+admitted:
+Waiting list:
+Start date - End date
+Apr 13, 2026 - Jul 20, 2026
+Apr 15, 2026 - Jul 22, 2026
+Exp. Att.
+Comment
+Performing lecturers
+• Dr. Michael Nüsken
+• Dr. Michael Nüsken
+Room
+0.107, Friedrich-Hirzebruch-Allee 6-8 - B-IT / INF
+0.107. Friedrich-Hirzebruch-Allee 6-8 - B-IT / INF
+
+Detail view
+MA-INF 1222 - Lab High Performance Optimization | 614012220 | course
+Back
+Choose term
+Term summer semester 2026
+Term planning
+Events
+Contents
+University course catalog
+Linked examinations
+Modules / Courses of study
+Documents
+Basic data V
+Title
+Short text
+Long text
+Number
+Organizational unit
+MA-INF 1222 - Lab High Performance Optimization
+MA-INF 1222
+Lab High Performance Optimization
+614012220
+• Fachgruppe Informatik (person responsible)
+MA-INF 1222 - Lab High Performance Optimization V
+Basic data
+Hours per week
+Teaching Language
+Responsible
+Events
+5.0
+German
+• Prof. Dr. Petra Mutzel
+Ey pre-booking for schedule ld Export data as iCalendar (ics) (2) Showing single dates.
+Changes Rhythm
+weekly
+Weekday.
+Thu
+From - To
+Cancellation date
+2:00 PM - 4:00 PM c.t.
+• 05/14/2026
+• 05/28/2026
+• 06/04/2026
+Q Open details
+Start date - End date
+Apr 16, 2026 - Jul 23, 2026
+Eventtype
+Frequency of offer
+Credits
+Hours per week
+Internship
+irregularly
+0.0
+4.0
+admitted:
+Exp. Att.
+Comment
+Performing lecturers
+• Krishna Sai Lakshmi Gayatri Manda
+Room
+Seminarraum 3.035b, Informatik II, Friedrich-Hirzebruch-Allee 6-8 - B-IT / INF
+
+Detail view
+MA-INF 1221 - Lab Computational Analytics | 614012210 | course
+Back
+Choose term
+Term summer semester 2026 V
+Term planning
+Events Contents
+University course catalog
+Linked examinations
+Modules / Courses of study
+Basic data V
+Title
+Short text
+Long text
+Number
+Organizational unit
+MA-INF 1221 - Lab Computational Analytics
+MA-INF 1221
+Lab Computational Analytics
+614012210
+• Fachgruppe Informatik (person responsible)
+MA-INF 1221 - Lab Computational Analytics V
+Basic data
+Hours per week
+Responsible
+Events
+4.0
+• Prof. Dr. Petra Mutzel
+E pre-booking for schedule rd Export data as iCalendar (ics) l' Showing single dates.
+Q Open details
+Rhythm
+Weekday.
+From - To
+Cancellation date
+By arrangement
+Documents
+Eventtype
+Frequency of offer
+Hours per week
+Internship
+irregularly
+4.0
+admitted:
+Start date - End date
+Exp. Att.
+Comment
+Performing lecturers
+• Laura Bült
+urora Ros:
+Room
+
+Detail view
+MA-INF 1221 - Lab Computational Analytics | 614012210 | course
+Back
+Choose term
+Term summer semester 2026 V
+Term planning
+Events Contents
+University course catalog
+Linked examinations
+Modules / Courses of study
+Basic data V
+Title
+Short text
+Long text
+Number
+Organizational unit
+MA-INF 1221 - Lab Computational Analytics
+MA-INF 1221
+Lab Computational Analytics
+614012210
+• Fachgruppe Informatik (person responsible)
+MA-INF 1221 - Lab Computational Analytics V
+Basic data
+Hours per week
+Responsible
+Events
+4.0
+• Prof. Dr. Petra Mutzel
+E pre-booking for schedule rd Export data as iCalendar (ics) l' Showing single dates.
+Q Open details
+Rhythm
+Weekday.
+From - To
+Cancellation date
+By arrangement
+Documents
+Eventtype
+Frequency of offer
+Hours per week
+Internship
+irregularly
+4.0
+admitted:
+Start date - End date
+Exp. Att.
+Comment
+Performing lecturers
+• Laura Bült
+urora Ros:
+Room
+
+Choose term
+Term summer semester 2026 V
+Term planning
+Events
+Contents
+Basic data V
+Title
+Short text
+Long text
+Number
+Short comment
+Organizational unit
+More functions
+Et Apply
+University course catalog
+Linked examinations
+Modules / Courses of study
+Documents
+MA-INF 1213 - Randomized Algorithms and Probabilistic Analysis
+MA-INF 1213
+Randomized Algorithms and Probabilistic Analysis
+614312130
+Pool 305
+• Fachgruppe Informatik (person responsible)
+• Mathematisch-Naturwissenschaftliche Fakultät (person responsible)
+• university (person responsible)
+MA-INF 1213 - Randomized Algorithms and Probabilistic Analysis V
+Basic data
+Hours per week
+Teaching Language
+Responsible
+Events
+4.0
+English
+• Prof. Dr. Heiko Röglin
+# Apply Ex pre-booking for schedule Ed Export data as Calendar (ics) la Showing single dates.
+Q Open details
+Changes Rhythm
+weekly
+Weekday.
+Wed
+From - To
+10:00 AM - 12:00 PM c.t.
+Cancellation date
+Start date - End date
+• 05/27/2026
+Apr 15, 2026 - Jul 22, 2026
+weekly
+Fri
+12:00 PM - 2:00 PM c.t.
+05/01/20
+Apr 17, 2026 - Jul 24, 2026
+Eventtype
+Frequency of offer
+Credits
+Hours per week
+Period
+Links
+Lecture and coursework
+irregularly
+0.0
+0.0
+/eranstaltungen Informatik - Belegung (Sommer) from Apr 1, 2026 00:00:00
+r 30, 2026 23:59:59 - act
+Zum eCampus-Kurs
+registered:
+admitted:
+Waiting list:
+15
+Exp. Att.
+Comment
+Performing lecturers
+Room
+Hörsaal 6, Friedrich-Hirzebruch-Allee 5 - Hörsaalzentrum
+Hörsaal 7, Friedrich-Hirzebruch-Allee 5 - Hörsaalzentrum
+
+Detail view
+MA-INF 1209 - Seminar Advanced Topics in Cryptography | 614012090 | course
+Back <
+Choose term
+Term summer semester 2026
+Term planning
+Events
+Contents
+University course catalog
+Linked examinations
+Modules / Courses of study
+Documents
+Basic data V
+Title
+Short text
+Long text
+Number
+Organizational unit
+MA-INF 1209 - Seminar Advanced Topics in Cryptography
+MA-INF 1209
+Seminar Advanced Topics in Cryptography
+614012090
+• Fachgruppe Informatik (person responsible)
+MA-INF 1209 - Seminar Advanced Topics in Cryptography V
+Basic data
+Hours per week
+Teaching Language
+Responsible
+Events
+2.0
+English
+• Dr. Michael Nüsken
+E pre-booking for schedule ld Export data as iCalendar (ics) tay Showing.single dates.
+Q Open details
+Changes Rhythm
+Weekday.
+From -To
+Cancellation date
+weekly
+Mon
+4:00 PM - 6:00 PM c.t.
+• 05/25/2026
+Eventtype
+Frequency of offer
+Credits
+Hours per week
+Links
+Seminar
+every semester
+0.0
+2.0
+Homebase
+admitted:
+Start date - End date
+Apr 13, 2026 - Jul 20, 2026
+Exp. Att.
+Comment
+Performing lecturers
+• Dr. Michael Nüsken
+Room
+0.107, Friedrich-Hirzebruch-Allee 6-8 - B-IT / INF
+
+MA-INF 1206 - Seminar Design and Analysis of Randomized Approximation Algorithms | 614012060 | course
+Back
+Choose term
+Term summer semester 2026 V
+Term planning
+Events
+Contents
+University course catalog
+Linked examinations
+nations Modules Courses orstudy Documen
+Documents
+Basic data V
+Title
+Short text
+Long text
+Number
+Organizational unit
+MA-INF 1206 - Seminar Design and Analysis of Randomized Approximation Algorithms
+MA-INF 1206
+Seminar Design and Analysis of Randomized Approximation Algorithms
+614012060
+• Fachgruppe Informatik (person responsible)
+MA-INF 1206 - Seminar Design and Analysis of Randomized Approximation Algorithms V
+Eventtype
+Frequency of offer
+Seminar
+irregularly
+Basic data
+Type
+Hours per week
+Teaching Language
+Responsible
+Events
+Semesterkurs
+2.0
+English
+• Prof. Dr. Heiko Röglin
+Ey pre-booking for schedule ld Export data as Calendar (ics) ['zý Showing.single dates.
+Changes Rhythm
+weekly
+Weekday
+Tue
+From - To
+12:00 PM - 2:00 PM s.t.
+Cancellation date
+• 05/26/2026
+admitted:
+•, Open details
+Start date - End date
+Apr 14, 2026 - Jul 21, 2026
+Exp. Att.
+Comment
+Performing lecturers
+Room
+Seminarraum 2.050, Informatik V, Friedrich-Hirzebruch-Allee 6-8 - B-IT / INF
+
+S4C1 GS Discrete Optimization | 611501012 | course
+Back
+Choose term
+Term summer semester 2026
+Term planning
+Events
+Contents
+Basic data V
+Title
+Short text
+Long text
+Number
+Organizational unit
+University course catalog
+Linked examinations
+Modules / Courses of study
+Documents
+S4C1 GS Discrete Optimization
+V S4C1
+Graduate Seminar on Discrete Optimization
+611501012
+• Fachgruppe Mathematik (person responsible
+• Mathematisch-Naturwissenschaftliche Fakultät (person responsible
+Eventtype
+Frequency of offer
+Links
+Advanced seminar
+irregularly
+https://www.or.uni-bonn.de/lectures/ss26/graduate_sem ss26.html
+more information seminar Prof. Driemel:
+Zum eCampus-Kurs
+S4C1 GS Discrete Optimization - Approximation Algorithms for Vehicle Routing (1. parallelgroup) V
+Basic data
+Responsible
+• Prof. Dr. Stephan Held
+• Prof. Dr. Stefan Hougardy
+• Prof. Dr. Jens Vygen
+• Dr. Ulrich Brenner
+admitted:
+Events
+Ey pre-booking for schedule ld Export data as iCalendar (ics) ty showing single dates. Q, Open details
+Changes Rhythm
+weekly
+Weekday.
+Mon
+From -To
+Cancellation date
+2:00 PM - 4:00 PM
+• 05/25/2026
+Start date - End date
+Apr 13, 2026 - Jul 20, 2026
+Exp. Att.
+Comment
+Performing lecturers
+Room
+Seminarraum, Lennéstraße 2-4
+
+Detail view
+MA-INF 1209 - Seminar Advanced Topics in Cryptography | 614112090 | module
+Back
+Term planning
+Module details
+Lectures and examinations
+Basic data V
+Title
+Short text (Module code)
+Long text (Certificate)
+Number
+Teaching languages
+Information about activity and allocation, assignment specific
+University course catalog
+Courses of study
+MA-INF 1209 - Seminar Advanced Topics in Cryptography
+MA-INF 1209
+Seminar Advanced Topics in Cryptography
+614112090
+English
+Mandatory participation
+Organisational unit
+semester periods per week
+Comment
+Compulsory
+Bonn-Aachen International Center for Information Technology b-it
+Fachgruppe Informatik
+Mathematisch-Naturwissenschaftliche Fakultät
+university
+Seminar
+
+Detail view
+M1206 Sem. Rand. Approx. | 614112060 | module
+Back
+Term planning
+Module details
+Lectures and examinations
+Basic data V
+Title
+Short text (Module code)
+Long text (Certificate)
+Number
+Teaching languages
+Information about activity and allocation, assignment specific
+University course catalog
+M1206 Sem. Rand. Approx.
+Seminar Design and Analysis of Randomized Approximation Algorithms
+614112060
+English
+Courses of study
+Mandatory participation
+Organisational unit
+semester periods per week
+Comment
+Compulsory
+Fachgruppe Informatik
+Mathematisch-Naturwissenschaftliche Fakultät
+university
+Seminar
+
+....
+Detail view
+M1205 Sem. Discret. Opt. | 614112050 | module
+Back
+Term planning
+Module details
+Lectures and examinations
+Basic data V
+Title
+Short text (Module code)
+Long text (Certificate)
+Number
+Teaching languages
+Module details V
+Frequency of offer V
+every semester
+Information about activity and allocation, assignment specific
+M1205 Sem. Discret. Opt.
+M1205
+Graduate Seminar Discrete Optimization
+614112050
+English
+University course catalog
+Courses of study
+Mandatory participation
+Organisational unit
+semester periods per week
+Comment
+Compulsory
+Mathematisch-Naturwissenschaftliche Fakultät
+university
+Fachgruppe Informatik
+Seminar
+
+...O
+Detail view
+V4C3 / MA-INF 1202 - Chip Design | 614112020 | module
+Back <
+Term planning
+Module details
+Lectures and examinations
+Basic data V
+Title
+Short text (Module code)
+Long text (Certificate)
+Number
+Information about activity and allocation, assignment specific
+University course catalog
+Courses of study
+V4C3 / MA-INF 1202 - Chip Design
+V4C3 / MA-INF 1202
+Chip Design
+614112020
+Teaching languages
+Mandatory participation
+Organisational unit
+Compulsory
+Mathematisch-Naturwissenschaftliche Fakultät
+Fachgruppe Informatik
+semester periods per week
+
+.....
+Detail view
+V4C2 / MA-INF 1201- Approximation Algorithms for NP-Hard-Problems | 614112010 | module
+Back <
+Term planning
+Module details
+Lectures and examinations
+Information about activity and allocation, assignment specific
+Basic data V
+Title
+Short text (Module code)
+Long text (Certificate)
+Number
+V4C2 / MA-INF 1201- Approximation Algorithms for NP-Hard-Problems
+MA-INF 1201
+Approximation Algorithms for NP-Hard-Problems
+614112010
+University course catalog
+Module details V
+Frequency of offer V
+every semester
+Courses of study
+Teaching languages
+Mandatory participation
+Organisational unit
+semester periods per week
+English
+Compulsory
+Mathematisch-Naturwissenschaftliche Fakultät
+university
+Fachgruppe Informatik
+

@@ -1,0 +1,163 @@
+{
+  "student": {
+    "name": "Anshul Singh",
+    "program": "MSc Computer Science",
+    "university": "University of Bonn",
+    "startSemester": "Summer 2026",
+    "mainTrack": "Intelligent Systems",
+    "interests": ["ML", "NLP", "LLMs", "VLMs", "RAG", "Robotics"],
+    "goal": "Top-tier PhD",
+    "totalRequired": 120
+  },
+  "rules": {
+    "mainTrackMinECTS": 18,
+    "mainTrackRequireSeminar": true,
+    "mainTrackRequireLab": true,
+    "outsideMainTrackMinECTS": 27,
+    "outsideMinTwoTracksWithSixEach": true,
+    "maxSeminars": 2,
+    "maxLabs": 2,
+    "thesisECTS": 32,
+    "freeECTS": 30
+  },
+  "plans": {
+    "balanced": {
+      "name": "Balanced (Recommended)",
+      "description": "Optimized for research depth + breadth. NLP focus with CV for VLM synergy.",
+      "semesters": [
+        {
+          "id": 1,
+          "name": "Semester 1 – Summer 2026",
+          "period": "Apr – Sep 2026",
+          "courses": ["MA-INF-4115", "MA-INF-4111", "MA-INF-4113", "MA-INF-2201"],
+          "totalECTS": 27,
+          "difficulty": "High",
+          "notes": "Foundation semester. NLP + ML + Robotics + CV. Heavy but essential for unlocking everything."
+        },
+        {
+          "id": 2,
+          "name": "Semester 2 – Winter 2026/27",
+          "period": "Oct 2026 – Mar 2027",
+          "courses": ["MA-INF-4237", "MA-INF-4332", "MA-INF-4114", "MA-INF-4242"],
+          "totalECTS": 25,
+          "difficulty": "Very High",
+          "notes": "Research-intensive. NLP Lab (main lab) + LLM Seminar + Robot Learning + Self-supervised Learning. Build lab relationships."
+        },
+        {
+          "id": 3,
+          "name": "Semester 3 – Summer 2027",
+          "period": "Apr – Sep 2027",
+          "courses": ["MA-INF-2213", "MA-INF-4230", "MA-INF-4235"],
+          "totalECTS": 18,
+          "difficulty": "High",
+          "notes": "Advanced courses. Lighter load to prepare thesis. VLMs in Adv. CV, IR for RAG, RL if offered. Start thesis search."
+        },
+        {
+          "id": 4,
+          "name": "Semester 4 – Winter 2027/28",
+          "period": "Oct 2027 – Mar 2028",
+          "courses": ["MA-INF-0401", "MA-INF-0402"],
+          "totalECTS": 32,
+          "difficulty": "Very High",
+          "notes": "Master Thesis + Master Seminar. Full focus on research. Target: CAISA Lab (NLP/LLM) or AIS Lab (Robotics)."
+        }
+      ],
+      "totalECTS": 102,
+      "additionalNeeded": 18,
+      "trackBreakdown": {
+        "IS": "4115(6) + 4111(6) + 4113(6) + 4114(6) + 4237(9) + 4332(4) + 4242(6) + 4230(6) + 4235(6) = 55 CP",
+        "GVA": "2201(9) + 2213(6) = 15 CP",
+        "mainTrackSeminar": "4332 LLM Seminar ✓",
+        "mainTrackLab": "4237 NLP Lab ✓",
+        "outsideMainTrack": "GVA: 15 CP ✓ (need 12 more from AL/ICM)"
+      },
+      "notes": "Need ~18 more ECTS. Options: Cryptography (AL, 9 CP), any ICM courses (6 CP each), or additional IS courses. The 102 CP shown + thesis 32 = 134 total, which is ~14 over 120 — perfect for grade optimization."
+    },
+    "nlpFocused": {
+      "name": "NLP/LLM Focused",
+      "description": "Maximum NLP depth. All CAISA Lab courses. Best for NLP PhD.",
+      "semesters": [
+        {
+          "id": 1,
+          "name": "Semester 1 – Summer 2026",
+          "period": "Apr – Sep 2026",
+          "courses": ["MA-INF-4115", "MA-INF-4111", "MA-INF-4228", "MA-INF-4328"],
+          "totalECTS": 27,
+          "difficulty": "Very High",
+          "notes": "Heavy math + NLP foundations. FoDS is 9 ECTS and demanding."
+        },
+        {
+          "id": 2,
+          "name": "Semester 2 – Winter 2026/27",
+          "period": "Oct 2026 – Mar 2027",
+          "courses": ["MA-INF-4237", "MA-INF-4336", "MA-INF-4335"],
+          "totalECTS": 22,
+          "difficulty": "Very High",
+          "notes": "Full CAISA immersion: NLP Lab + NLP Seminar + AI Alignment Lab. Two labs in one semester is intense."
+        },
+        {
+          "id": 3,
+          "name": "Semester 3 – Summer 2027",
+          "period": "Apr – Sep 2027",
+          "courses": ["MA-INF-2201", "MA-INF-4230", "MA-INF-1103"],
+          "totalECTS": 24,
+          "difficulty": "High",
+          "notes": "CV for VLM context + IR for RAG + Crypto for AL breadth."
+        },
+        {
+          "id": 4,
+          "name": "Semester 4 – Winter 2027/28",
+          "period": "Oct 2027 – Mar 2028",
+          "courses": ["MA-INF-0401", "MA-INF-0402"],
+          "totalECTS": 32,
+          "difficulty": "Very High",
+          "notes": "CAISA Lab thesis on LLMs/NLP/AI alignment."
+        }
+      ],
+      "totalECTS": 105
+    },
+    "ambitious": {
+      "name": "Ambitious (Research-Max)",
+      "description": "Maximum research exposure. Overloaded semesters. For extreme motivation.",
+      "semesters": [
+        {
+          "id": 1,
+          "name": "Semester 1 – Summer 2026",
+          "period": "Apr – Sep 2026",
+          "courses": ["MA-INF-4115", "MA-INF-4111", "MA-INF-4113", "MA-INF-2201", "MA-INF-4328"],
+          "totalECTS": 33,
+          "difficulty": "Extreme",
+          "notes": "33 ECTS first semester. Only for those confident in their foundations."
+        },
+        {
+          "id": 2,
+          "name": "Semester 2 – Winter 2026/27",
+          "period": "Oct 2026 – Mar 2027",
+          "courses": ["MA-INF-4237", "MA-INF-4332", "MA-INF-4114", "MA-INF-4242", "MA-INF-4230"],
+          "totalECTS": 31,
+          "difficulty": "Extreme",
+          "notes": "NLP Lab + LLM Seminar + Robot Learning + Self-supervised + IR. Massive workload."
+        },
+        {
+          "id": 3,
+          "name": "Semester 3 – Summer 2027",
+          "period": "Apr – Sep 2027",
+          "courses": ["MA-INF-2213", "MA-INF-4235", "MA-INF-4335"],
+          "totalECTS": 21,
+          "difficulty": "Hard",
+          "notes": "Advanced CV + RL + AI Alignment Lab. Begin thesis preparation."
+        },
+        {
+          "id": 4,
+          "name": "Semester 4 – Winter 2027/28",
+          "period": "Oct 2027 – Mar 2028",
+          "courses": ["MA-INF-0401", "MA-INF-0402"],
+          "totalECTS": 32,
+          "difficulty": "Very High",
+          "notes": "Full thesis. All foundations laid."
+        }
+      ],
+      "totalECTS": 117
+    }
+  }
+}

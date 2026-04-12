@@ -1,0 +1,1505 @@
+[
+  {
+    "id": "MA-INF-1102",
+    "code": "MA-INF 1102",
+    "name": "L4E2 9 CP Combinatorial Optimization .............................................. 3",
+    "area": "Algorithmics",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 97
+  },
+  {
+    "id": "MA-INF-1105",
+    "code": "MA-INF 1105",
+    "name": "L2E2 6 CP Algorithms for Data Analysis ............................................. 5",
+    "area": "Algorithmics",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 98
+  },
+  {
+    "id": "MA-INF-1108",
+    "code": "MA-INF 1108",
+    "name": "L2E2 6 CP Introduction to High Performance Computing: Architecture Features and",
+    "area": "Algorithmics",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 168
+  },
+  {
+    "id": "MA-INF-1201",
+    "code": "MA-INF 1201",
+    "name": "L4E2 9 CP Approximation Algorithms .............................................. 11",
+    "area": "Algorithmics",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 96
+  },
+  {
+    "id": "MA-INF-1203",
+    "code": "MA-INF 1203",
+    "name": "L4E2 9 CP Discrete and Computational Geometry ................................... 13",
+    "area": "Algorithmics",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 96
+  },
+  {
+    "id": "MA-INF-1206",
+    "code": "MA-INF 1206",
+    "name": "Sem2 4 CP Seminar Randomized and Approximation Algorithms .................... 15",
+    "area": "Algorithmics",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 93
+  },
+  {
+    "id": "MA-INF-1213",
+    "code": "MA-INF 1213",
+    "name": "L4E2 9 CP Randomized Algorithms and Probabilistic Analysis ...................... 17",
+    "area": "Algorithmics",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 96
+  },
+  {
+    "id": "MA-INF-1219",
+    "code": "MA-INF 1219",
+    "name": "Sem2 4 CP Seminar Algorithmic Game Theory ...................................... 19",
+    "area": "Algorithmics",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 95
+  },
+  {
+    "id": "MA-INF-1222",
+    "code": "MA-INF 1222",
+    "name": "Lab4 9 CP Lab High Performance Optimization ..................................... 22",
+    "area": "Algorithmics",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 96
+  },
+  {
+    "id": "MA-INF-1224",
+    "code": "MA-INF 1224",
+    "name": "L2E2 6 CP Quantum Computing Algorithms ........................................ 25",
+    "area": "Algorithmics",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 94
+  },
+  {
+    "id": "MA-INF-1226",
+    "code": "MA-INF 1226",
+    "name": "L2E2 6 CP Applications of Computational Topology in Information Theory .......... 29",
+    "area": "Algorithmics",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 96
+  },
+  {
+    "id": "MA-INF-1229",
+    "code": "MA-INF 1229",
+    "name": "Lab4 9 CP Lab Advanced Algorithm Engineering .................................... 31",
+    "area": "Algorithmics",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 96
+  },
+  {
+    "id": "MA-INF-1301",
+    "code": "MA-INF 1301",
+    "name": "L4E2 9 CP Algorithmic Game Theory ............................................... 34",
+    "area": "Algorithmics",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 96
+  },
+  {
+    "id": "MA-INF-1309",
+    "code": "MA-INF 1309",
+    "name": "Lab4 9 CP Lab E\ufb03cient Algorithms: Design, Analysis and Implementation .......... 36",
+    "area": "Algorithmics",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 95
+  },
+  {
+    "id": "MA-INF-1315",
+    "code": "MA-INF 1315",
+    "name": "Lab4 9 CP Lab Computational Geometry ........................................... 39",
+    "area": "Algorithmics",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 95
+  },
+  {
+    "id": "MA-INF-1322",
+    "code": "MA-INF 1322",
+    "name": "Sem2 4 CP Seminar Focus Topics in High Performance Computing .................. 41",
+    "area": "Algorithmics",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 94
+  },
+  {
+    "id": "MA-INF-1102",
+    "code": "MA-INF 1102",
+    "name": "Combinatorial Optimization",
+    "area": "Algorithmics",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 1700
+  },
+  {
+    "id": "MA-INF-1105",
+    "code": "MA-INF 1105",
+    "name": "Algorithms for Data Analysis",
+    "area": "Algorithmics",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 2619
+  },
+  {
+    "id": "MA-INF-1108",
+    "code": "MA-INF 1108",
+    "name": "Introduction to High Performance Computing: Architecture",
+    "area": "Algorithmics",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 1334
+  },
+  {
+    "id": "MA-INF-1106",
+    "code": "MA-INF 1106",
+    "name": "and cannot be taken after completing MA-INF 1106.",
+    "area": "Algorithmics",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 1130
+  },
+  {
+    "id": "MA-INF-1201",
+    "code": "MA-INF 1201",
+    "name": "Approximation Algorithms",
+    "area": "Algorithmics",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 2382
+  },
+  {
+    "id": "MA-INF-1203",
+    "code": "MA-INF 1203",
+    "name": "Discrete and Computational Geometry",
+    "area": "Algorithmics",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 2491
+  },
+  {
+    "id": "MA-INF-1102",
+    "code": "MA-INF 1102",
+    "name": "\u2013 Combinatorial Optimization",
+    "area": "Algorithmics",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 543
+  },
+  {
+    "id": "MA-INF-1209",
+    "code": "MA-INF 1209",
+    "name": "Seminar Advanced Topics in Cryptography",
+    "area": "Algorithmics",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 1643
+  },
+  {
+    "id": "MA-INF-1218",
+    "code": "MA-INF 1218",
+    "name": "Algorithms and Uncertainty",
+    "area": "Algorithmics",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 1307
+  },
+  {
+    "id": "MA-INF-1221",
+    "code": "MA-INF 1221",
+    "name": "Lab Computational Analytics",
+    "area": "Algorithmics",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 3323
+  },
+  {
+    "id": "MA-INF-1105",
+    "code": "MA-INF 1105",
+    "name": "Algorithms for Data Analysis",
+    "area": "Algorithmics",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 906
+  },
+  {
+    "id": "MA-INF-1224",
+    "code": "MA-INF 1224",
+    "name": "Quantum Computing Algorithms",
+    "area": "Algorithmics",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 1481
+  },
+  {
+    "id": "MA-INF-1225",
+    "code": "MA-INF 1225",
+    "name": "Lab Exploring HPC technologies",
+    "area": "Algorithmics",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 3788
+  },
+  {
+    "id": "MA-INF-1228",
+    "code": "MA-INF 1228",
+    "name": "Graduate Seminar on Algorithms and Optimization",
+    "area": "Algorithmics",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 1324
+  },
+  {
+    "id": "MA-INF-1105",
+    "code": "MA-INF 1105",
+    "name": "Algorithms for Data Analysis.",
+    "area": "Algorithmics",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 567
+  },
+  {
+    "id": "MA-INF-1323",
+    "code": "MA-INF 1323",
+    "name": "- Computational Topology",
+    "area": "Algorithmics",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 487
+  },
+  {
+    "id": "MA-INF-1307",
+    "code": "MA-INF 1307",
+    "name": "Seminar Advanced Algorithms",
+    "area": "Algorithmics",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 1164
+  },
+  {
+    "id": "MA-INF-1102",
+    "code": "MA-INF 1102",
+    "name": "Combinatorial Optimization",
+    "area": "Algorithmics",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 1154
+  },
+  {
+    "id": "MA-INF-1315",
+    "code": "MA-INF 1315",
+    "name": "Lab Computational Geometry",
+    "area": "Algorithmics",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 1193
+  },
+  {
+    "id": "MA-INF-1103",
+    "code": "MA-INF 1103",
+    "name": "- Cryptography",
+    "area": "Algorithmics",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 530
+  },
+  {
+    "id": "MA-INF-1108",
+    "code": "MA-INF 1108",
+    "name": "Introduction to High Performance Computing: Architecture Features and Practical Parallel",
+    "area": "Algorithmics",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 623
+  },
+  {
+    "id": "MA-INF-2113",
+    "code": "MA-INF 2113",
+    "name": "L2E2 6 CP Foundations of Audio Signal Processing .................................. 44",
+    "area": "Graphics, Vision, Audio",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 98
+  },
+  {
+    "id": "MA-INF-2115",
+    "code": "MA-INF 2115",
+    "name": "L4E2 9 CP Computational Medical Imaging ......................................... 47",
+    "area": "Graphics, Vision, Audio",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 96
+  },
+  {
+    "id": "MA-INF-2202",
+    "code": "MA-INF 2202",
+    "name": "L4E2 9 CP Computer Animation .................................................... 50",
+    "area": "Graphics, Vision, Audio",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 96
+  },
+  {
+    "id": "MA-INF-2207",
+    "code": "MA-INF 2207",
+    "name": "Sem2 4 CP Seminar Graphics ........................................................ 52",
+    "area": "Graphics, Vision, Audio",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 98
+  },
+  {
+    "id": "MA-INF-2209",
+    "code": "MA-INF 2209",
+    "name": "L4E2 9 CP Advanced Topics in Computer Graphics I ................................ 54",
+    "area": "Graphics, Vision, Audio",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 96
+  },
+  {
+    "id": "MA-INF-2212",
+    "code": "MA-INF 2212",
+    "name": "L2E2 6 CP Pattern Matching and Machine Learning for Audio Signal Processing .... 57",
+    "area": "Graphics, Vision, Audio",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 95
+  },
+  {
+    "id": "MA-INF-2214",
+    "code": "MA-INF 2214",
+    "name": "L2E2 6 CP Computational Photography ............................................. 59",
+    "area": "Graphics, Vision, Audio",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 96
+  },
+  {
+    "id": "MA-INF-2216",
+    "code": "MA-INF 2216",
+    "name": "Lab4 9 CP Lab Visual Computing ................................................... 61",
+    "area": "Graphics, Vision, Audio",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 97
+  },
+  {
+    "id": "MA-INF-2220",
+    "code": "MA-INF 2220",
+    "name": "Lab4 9 CP Lab Visualization and Medical Image Analysis ........................... 63",
+    "area": "Graphics, Vision, Audio",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 97
+  },
+  {
+    "id": "MA-INF-2222",
+    "code": "MA-INF 2222",
+    "name": "L4E2 9 CP Visual Data Analysis .................................................... 65",
+    "area": "Graphics, Vision, Audio",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 98
+  },
+  {
+    "id": "MA-INF-2226",
+    "code": "MA-INF 2226",
+    "name": "Lab4 9 CP Lab Geometry Processing ................................................ 67",
+    "area": "Graphics, Vision, Audio",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 97
+  },
+  {
+    "id": "MA-INF-2228",
+    "code": "MA-INF 2228",
+    "name": "Sem2 4 CP Seminar Vision and Graphics (Role-Based) .............................. 69",
+    "area": "Graphics, Vision, Audio",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 96
+  },
+  {
+    "id": "MA-INF-2230",
+    "code": "MA-INF 2230",
+    "name": "Lab4 9 CP Lab Computational Medical Imaging .................................... 71",
+    "area": "Graphics, Vision, Audio",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 95
+  },
+  {
+    "id": "MA-INF-2308",
+    "code": "MA-INF 2308",
+    "name": "Lab4 9 CP Lab Graphics ............................................................ 74",
+    "area": "Graphics, Vision, Audio",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 98
+  },
+  {
+    "id": "MA-INF-2310",
+    "code": "MA-INF 2310",
+    "name": "L4E2 9 CP Advanced Topics in Computer Graphics II ............................... 76",
+    "area": "Graphics, Vision, Audio",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 96
+  },
+  {
+    "id": "MA-INF-2312",
+    "code": "MA-INF 2312",
+    "name": "L3E1 6 CP Image Acquisition and Analysis in Neuroscience .......................... 79",
+    "area": "Graphics, Vision, Audio",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 98
+  },
+  {
+    "id": "MA-INF-2317",
+    "code": "MA-INF 2317",
+    "name": "L2E2 6 CP Numerical Algorithms for Visual Computing and Machine Learning ...... 81",
+    "area": "Graphics, Vision, Audio",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 94
+  },
+  {
+    "id": "MA-INF-2113",
+    "code": "MA-INF 2113",
+    "name": "Foundations of Audio Signal Processing",
+    "area": "Graphics, Vision, Audio",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 2770
+  },
+  {
+    "id": "MA-INF-2115",
+    "code": "MA-INF 2115",
+    "name": "Computational Medical Imaging",
+    "area": "Graphics, Vision, Audio",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 3564
+  },
+  {
+    "id": "MA-INF-2202",
+    "code": "MA-INF 2202",
+    "name": "Computer Animation",
+    "area": "Graphics, Vision, Audio",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 1696
+  },
+  {
+    "id": "MA-INF-2201",
+    "code": "MA-INF 2201",
+    "name": "\u2013 Computer Vision or MA-INF 2213 - Advanced Computer Vision",
+    "area": "Graphics, Vision, Audio",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 463
+  },
+  {
+    "id": "MA-INF-2208",
+    "code": "MA-INF 2208",
+    "name": "Seminar Audio",
+    "area": "Graphics, Vision, Audio",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 621
+  },
+  {
+    "id": "MA-INF-2209",
+    "code": "MA-INF 2209",
+    "name": "Advanced Topics in Computer Graphics I",
+    "area": "Graphics, Vision, Audio",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 3434
+  },
+  {
+    "id": "MA-INF-2202",
+    "code": "MA-INF 2202",
+    "name": "\u2013 Computer Animation",
+    "area": "Graphics, Vision, Audio",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 32
+  },
+  {
+    "id": "MA-INF-2212",
+    "code": "MA-INF 2212",
+    "name": "Pattern Matching and Machine Learning for Audio Signal",
+    "area": "Graphics, Vision, Audio",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 2713
+  },
+  {
+    "id": "MA-INF-2201",
+    "code": "MA-INF 2201",
+    "name": "\u2013 Computer Vision",
+    "area": "Graphics, Vision, Audio",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 499
+  },
+  {
+    "id": "MA-INF-2215",
+    "code": "MA-INF 2215",
+    "name": "Seminar Digital Material Appearance",
+    "area": "Graphics, Vision, Audio",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 964
+  },
+  {
+    "id": "MA-INF-2219",
+    "code": "MA-INF 2219",
+    "name": "Seminar Visualization and Medical Image Analysis",
+    "area": "Graphics, Vision, Audio",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 2102
+  },
+  {
+    "id": "MA-INF-2222",
+    "code": "MA-INF 2222",
+    "name": "\u2013 Visual Data Analysis",
+    "area": "Graphics, Vision, Audio",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 689
+  },
+  {
+    "id": "MA-INF-2222",
+    "code": "MA-INF 2222",
+    "name": "Visual Data Analysis",
+    "area": "Graphics, Vision, Audio",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 2248
+  },
+  {
+    "id": "MA-INF-2226",
+    "code": "MA-INF 2226",
+    "name": "Lab Geometry Processing",
+    "area": "Graphics, Vision, Audio",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 1868
+  },
+  {
+    "id": "MA-INF-2228",
+    "code": "MA-INF 2228",
+    "name": "Seminar Vision and Graphics (Role-Based)",
+    "area": "Graphics, Vision, Audio",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 1796
+  },
+  {
+    "id": "MA-INF-2310",
+    "code": "MA-INF 2310",
+    "name": "Advanced Topics in Computer Graphics II",
+    "area": "Graphics, Vision, Audio",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 443
+  },
+  {
+    "id": "MA-INF-2222",
+    "code": "MA-INF 2222",
+    "name": "\u2013 Visual Data Analysis.",
+    "area": "Graphics, Vision, Audio",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 959
+  },
+  {
+    "id": "MA-INF-2201",
+    "code": "MA-INF 2201",
+    "name": "\u2013 Computer Vision or MA-INF 2213 - Advanced Computer Vision",
+    "area": "Graphics, Vision, Audio",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 473
+  },
+  {
+    "id": "MA-INF-1108",
+    "code": "MA-INF 1108",
+    "name": "Introduction to High Performance Computing",
+    "area": "Algorithmics",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 522
+  },
+  {
+    "id": "MA-INF-2113",
+    "code": "MA-INF 2113",
+    "name": "Foundations of Audio Signal Processing is highly recommended. Knowledge of material",
+    "area": "Graphics, Vision, Audio",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 592
+  },
+  {
+    "id": "MA-INF-2311",
+    "code": "MA-INF 2311",
+    "name": "Lab Computer Animation",
+    "area": "Graphics, Vision, Audio",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 908
+  },
+  {
+    "id": "MA-INF-2302",
+    "code": "MA-INF 2302",
+    "name": "\u2013 Physics-based Modelling",
+    "area": "Graphics, Vision, Audio",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 439
+  },
+  {
+    "id": "MA-INF-2316",
+    "code": "MA-INF 2316",
+    "name": "Lab Digital Material Appearance",
+    "area": "Graphics, Vision, Audio",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 1615
+  },
+  {
+    "id": "MA-INF-2318",
+    "code": "MA-INF 2318",
+    "name": "Seminar Computational Medical Imaging",
+    "area": "Graphics, Vision, Audio",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 3441
+  },
+  {
+    "id": "MA-INF-3109",
+    "code": "MA-INF 3109",
+    "name": "L2E2 6 CP Quantum Algorithms: Introduction and Data Fusion Examples .......... 86",
+    "area": "Information and Communication Management",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 93
+  },
+  {
+    "id": "MA-INF-3202",
+    "code": "MA-INF 3202",
+    "name": "L2E2 6 CP Mobile Communication .................................................. 89",
+    "area": "Information and Communication Management",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 96
+  },
+  {
+    "id": "MA-INF-3216",
+    "code": "MA-INF 3216",
+    "name": "Sem2 4 CP Seminar Sensor Data Fusion ............................................. 91",
+    "area": "Information and Communication Management",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 97
+  },
+  {
+    "id": "MA-INF-3233",
+    "code": "MA-INF 3233",
+    "name": "L2E2 6 CP Advanced Sensor Data Fusion in Distributed Systems .................... 93",
+    "area": "Information and Communication Management",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 96
+  },
+  {
+    "id": "MA-INF-3237",
+    "code": "MA-INF 3237",
+    "name": "L2E2 6 CP Array Signal and Multi-channel Processing .............................. 96",
+    "area": "Information and Communication Management",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 97
+  },
+  {
+    "id": "MA-INF-3239",
+    "code": "MA-INF 3239",
+    "name": "L2E2 6 CP Malware Analysis ........................................................ 98",
+    "area": "Information and Communication Management",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 98
+  },
+  {
+    "id": "MA-INF-3242",
+    "code": "MA-INF 3242",
+    "name": "L2E2 6 CP Security of Distributed and Resource-constrained Systems .............. 101",
+    "area": "Information and Communication Management",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 97
+  },
+  {
+    "id": "MA-INF-3304",
+    "code": "MA-INF 3304",
+    "name": "Lab4 9 CP Lab Communication and Communicating Devices ....................... 103",
+    "area": "Information and Communication Management",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 93
+  },
+  {
+    "id": "MA-INF-3312",
+    "code": "MA-INF 3312",
+    "name": "Lab4 9 CP Lab Sensor Data Fusion ................................................ 105",
+    "area": "Information and Communication Management",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 97
+  },
+  {
+    "id": "MA-INF-3319",
+    "code": "MA-INF 3319",
+    "name": "Lab4 9 CP Lab Usable Security and Privacy ....................................... 107",
+    "area": "Information and Communication Management",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 97
+  },
+  {
+    "id": "MA-INF-3321",
+    "code": "MA-INF 3321",
+    "name": "Sem2 4 CP Seminar Usable Security and Privacy ................................... 109",
+    "area": "Information and Communication Management",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 97
+  },
+  {
+    "id": "MA-INF-3108",
+    "code": "MA-INF 3108",
+    "name": "Secure Software Engineering",
+    "area": "Information and Communication Management",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 1821
+  },
+  {
+    "id": "MA-INF-3310",
+    "code": "MA-INF 3310",
+    "name": "\u2013 Introduction to Sensor Data Fusion - Methods and Applications",
+    "area": "Information and Communication Management",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 751
+  },
+  {
+    "id": "MA-INF-3202",
+    "code": "MA-INF 3202",
+    "name": "Mobile Communication",
+    "area": "Information and Communication Management",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 2441
+  },
+  {
+    "id": "MA-INF-3202",
+    "code": "MA-INF 3202",
+    "name": "Mobile Communication",
+    "area": "Information and Communication Management",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 786
+  },
+  {
+    "id": "MA-INF-3310",
+    "code": "MA-INF 3310",
+    "name": "Introduction to Sensor Data Fusion \u2013 Methods and Applications.",
+    "area": "Information and Communication Management",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 657
+  },
+  {
+    "id": "MA-INF-3236",
+    "code": "MA-INF 3236",
+    "name": "IT Security \ufb01rst.",
+    "area": "Information and Communication Management",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 431
+  },
+  {
+    "id": "MA-INF-3310",
+    "code": "MA-INF 3310",
+    "name": "\u2013 Introduction to Sensor Data Fusion - Methods and Applications.",
+    "area": "Information and Communication Management",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 1094
+  },
+  {
+    "id": "MA-INF-3237",
+    "code": "MA-INF 3237",
+    "name": "Array Signal and Multi-channel Processing",
+    "area": "Information and Communication Management",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 2109
+  },
+  {
+    "id": "MA-INF-3239",
+    "code": "MA-INF 3239",
+    "name": "Malware Analysis",
+    "area": "Information and Communication Management",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 2510
+  },
+  {
+    "id": "MA-INF-3242",
+    "code": "MA-INF 3242",
+    "name": "Security of Distributed and Resource-constrained Systems",
+    "area": "Information and Communication Management",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 2340
+  },
+  {
+    "id": "MA-INF-3236",
+    "code": "MA-INF 3236",
+    "name": "IT-Security",
+    "area": "Information and Communication Management",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 568
+  },
+  {
+    "id": "MA-INF-3202",
+    "code": "MA-INF 3202",
+    "name": "Mobile Communication",
+    "area": "Information and Communication Management",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 586
+  },
+  {
+    "id": "MA-INF-3312",
+    "code": "MA-INF 3312",
+    "name": "Lab Sensor Data Fusion",
+    "area": "Information and Communication Management",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 2275
+  },
+  {
+    "id": "MA-INF-3236",
+    "code": "MA-INF 3236",
+    "name": "IT Security \ufb01rst.",
+    "area": "Information and Communication Management",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 423
+  },
+  {
+    "id": "MA-INF-3241",
+    "code": "MA-INF 3241",
+    "name": "Practical Challenges in Human Factors of Security and Privacy.",
+    "area": "Information and Communication Management",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 478
+  },
+  {
+    "id": "MA-INF-3242",
+    "code": "MA-INF 3242",
+    "name": "Security of Distributed and",
+    "area": "Information and Communication Management",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 479
+  },
+  {
+    "id": "MA-INF-3322",
+    "code": "MA-INF 3322",
+    "name": "Applied Binary Exploitation",
+    "area": "Information and Communication Management",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 3268
+  },
+  {
+    "id": "MA-INF-4112",
+    "code": "MA-INF 4112",
+    "name": "L2E2 6 CP Algorithms for Data Science ...................................................... 114",
+    "area": "Intelligent Systems",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 108
+  },
+  {
+    "id": "MA-INF-4114",
+    "code": "MA-INF 4114",
+    "name": "L2E2 6 CP Robot Learning ................................................................... 116",
+    "area": "Intelligent Systems",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 108
+  },
+  {
+    "id": "MA-INF-4116",
+    "code": "MA-INF 4116",
+    "name": "Sem2 4 CP Seminar AI Safety ................................................................ 119",
+    "area": "Intelligent Systems",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 108
+  },
+  {
+    "id": "MA-INF-4201",
+    "code": "MA-INF 4201",
+    "name": "L2E2 6 CP Arti\ufb01cial Life ..................................................................... 121",
+    "area": "Intelligent Systems",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 110
+  },
+  {
+    "id": "MA-INF-4208",
+    "code": "MA-INF 4208",
+    "name": "Sem2 4 CP Seminar Vision Systems .......................................................... 124",
+    "area": "Intelligent Systems",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 107
+  },
+  {
+    "id": "MA-INF-4211",
+    "code": "MA-INF 4211",
+    "name": "Sem2 4 CP Seminar Cognitive Robotics ...................................................... 126",
+    "area": "Intelligent Systems",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 107
+  },
+  {
+    "id": "MA-INF-4214",
+    "code": "MA-INF 4214",
+    "name": "Lab4 9 CP Lab Humanoid Robots ............................................................ 128",
+    "area": "Intelligent Systems",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 106
+  },
+  {
+    "id": "MA-INF-4216",
+    "code": "MA-INF 4216",
+    "name": "L2E2 6 CP Biomedical Data Science and AI .................................................. 130",
+    "area": "Intelligent Systems",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 107
+  },
+  {
+    "id": "MA-INF-4226",
+    "code": "MA-INF 4226",
+    "name": "Lab4 9 CP Lab Parallel Computing for Mobile Robotics ...................................... 132",
+    "area": "Intelligent Systems",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 107
+  },
+  {
+    "id": "MA-INF-4230",
+    "code": "MA-INF 4230",
+    "name": "L2E2 6 CP Advanced Methods of Information Retrieval ...................................... 134",
+    "area": "Intelligent Systems",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 106
+  },
+  {
+    "id": "MA-INF-4232",
+    "code": "MA-INF 4232",
+    "name": "Lab4 9 CP Lab Information Retrieval in Practice ............................................. 137",
+    "area": "Intelligent Systems",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 109
+  },
+  {
+    "id": "MA-INF-4237",
+    "code": "MA-INF 4237",
+    "name": "Lab4 9 CP Lab Natural Language Processing ................................................ 140",
+    "area": "Intelligent Systems",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 106
+  },
+  {
+    "id": "MA-INF-4241",
+    "code": "MA-INF 4241",
+    "name": "Lab4 9 CP Lab Cognitive Modelling of Biological Agents ..................................... 143",
+    "area": "Intelligent Systems",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 108
+  },
+  {
+    "id": "MA-INF-4243",
+    "code": "MA-INF 4243",
+    "name": "L2E2 4 CP Mining Media Data II ............................................................ 145",
+    "area": "Intelligent Systems",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 107
+  },
+  {
+    "id": "MA-INF-4245",
+    "code": "MA-INF 4245",
+    "name": "Lab4 9 CP Lab AI for Scienti\ufb01c Discovery .................................................... 147",
+    "area": "Intelligent Systems",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 109
+  },
+  {
+    "id": "MA-INF-4306",
+    "code": "MA-INF 4306",
+    "name": "Lab4 9 CP Lab Development and Application of Data Mining and Learning Systems ......... 149",
+    "area": "Intelligent Systems",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 103
+  },
+  {
+    "id": "MA-INF-4322",
+    "code": "MA-INF 4322",
+    "name": "Lab4 9 CP Lab Machine Learning on Encrypted Data ........................................ 151",
+    "area": "Intelligent Systems",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 105
+  },
+  {
+    "id": "MA-INF-4325",
+    "code": "MA-INF 4325",
+    "name": "Lab4 9 CP Lab Data Science in Practice ..................................................... 153",
+    "area": "Intelligent Systems",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 108
+  },
+  {
+    "id": "MA-INF-4327",
+    "code": "MA-INF 4327",
+    "name": "Lab4 9 CP Lab Biomedical Data Science ..................................................... 156",
+    "area": "Intelligent Systems",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 107
+  },
+  {
+    "id": "MA-INF-4329",
+    "code": "MA-INF 4329",
+    "name": "Sem2 4 CP Seminar Biological Intelligence .................................................... 158",
+    "area": "Intelligent Systems",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 110
+  },
+  {
+    "id": "MA-INF-4331",
+    "code": "MA-INF 4331",
+    "name": "Lab4 9 CP Lab Perception and Learning for Robotics ........................................ 161",
+    "area": "Intelligent Systems",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 107
+  },
+  {
+    "id": "MA-INF-4333",
+    "code": "MA-INF 4333",
+    "name": "L2E2 6 CP Geometric Deep Learning ......................................................... 163",
+    "area": "Intelligent Systems",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 107
+  },
+  {
+    "id": "MA-INF-4335",
+    "code": "MA-INF 4335",
+    "name": "Lab4 9 CP Lab AI Alignment ................................................................ 165",
+    "area": "Intelligent Systems",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 107
+  },
+  {
+    "id": "MA-INF-4111",
+    "code": "MA-INF 4111",
+    "name": "Principles of Machine Learning",
+    "area": "Intelligent Systems",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 3046
+  },
+  {
+    "id": "MA-INF-4113",
+    "code": "MA-INF 4113",
+    "name": "Cognitive Robotics",
+    "area": "Intelligent Systems",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 1893
+  },
+  {
+    "id": "MA-INF-4113",
+    "code": "MA-INF 4113",
+    "name": "and can be taken before or after that module.",
+    "area": "Intelligent Systems",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 1332
+  },
+  {
+    "id": "MA-INF-4116",
+    "code": "MA-INF 4116",
+    "name": "Seminar AI Safety",
+    "area": "Intelligent Systems",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 3058
+  },
+  {
+    "id": "MA-INF-4201",
+    "code": "MA-INF 4201",
+    "name": "Arti\ufb01cial Life",
+    "area": "Intelligent Systems",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 2839
+  },
+  {
+    "id": "MA-INF-4208",
+    "code": "MA-INF 4208",
+    "name": "Seminar Vision Systems",
+    "area": "Intelligent Systems",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 1889
+  },
+  {
+    "id": "MA-INF-4111",
+    "code": "MA-INF 4111",
+    "name": "\u2013 Principles of Machine Learning",
+    "area": "Intelligent Systems",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 649
+  },
+  {
+    "id": "MA-INF-4113",
+    "code": "MA-INF 4113",
+    "name": "\u2013 Cognitive Robotics",
+    "area": "Intelligent Systems",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 630
+  },
+  {
+    "id": "MA-INF-4215",
+    "code": "MA-INF 4215",
+    "name": "\u2013 Humanoid Robotics",
+    "area": "Intelligent Systems",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 706
+  },
+  {
+    "id": "MA-INF-4215",
+    "code": "MA-INF 4215",
+    "name": "\u2013 Humanoid Robotics",
+    "area": "Intelligent Systems",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 716
+  },
+  {
+    "id": "MA-INF-4113",
+    "code": "MA-INF 4113",
+    "name": "\u2013 Cognitive Robotics",
+    "area": "Intelligent Systems",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 776
+  },
+  {
+    "id": "MA-INF-4217",
+    "code": "MA-INF 4217",
+    "name": "Seminar Machine Learning Methods in the Life Sciences",
+    "area": "Intelligent Systems",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 1506
+  },
+  {
+    "id": "MA-INF-4226",
+    "code": "MA-INF 4226",
+    "name": "Lab Parallel Computing for Mobile Robotics",
+    "area": "Intelligent Systems",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 1023
+  },
+  {
+    "id": "MA-INF-4228",
+    "code": "MA-INF 4228",
+    "name": "Foundations of Data Science",
+    "area": "Intelligent Systems",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 2165
+  },
+  {
+    "id": "MA-INF-4231",
+    "code": "MA-INF 4231",
+    "name": "Seminar Advanced Topics in Information Retrieval",
+    "area": "Intelligent Systems",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 1643
+  },
+  {
+    "id": "MA-INF-4232",
+    "code": "MA-INF 4232",
+    "name": "Lab Information Retrieval in Practice",
+    "area": "Intelligent Systems",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 913
+  },
+  {
+    "id": "MA-INF-4235",
+    "code": "MA-INF 4235",
+    "name": "Reinforcement Learning",
+    "area": "Intelligent Systems",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 2587
+  },
+  {
+    "id": "MA-INF-4240",
+    "code": "MA-INF 4240",
+    "name": "Lab Hybrid Learning and Applications",
+    "area": "Intelligent Systems",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 2589
+  },
+  {
+    "id": "MA-INF-4113",
+    "code": "MA-INF 4113",
+    "name": "Cognitive Robotics",
+    "area": "Intelligent Systems",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 529
+  },
+  {
+    "id": "MA-INF-4111",
+    "code": "MA-INF 4111",
+    "name": "Principles of Machine Learning.",
+    "area": "Intelligent Systems",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 549
+  },
+  {
+    "id": "MA-INF-4117",
+    "code": "MA-INF 4117",
+    "name": "- Mining Media Data I is recommended but not mandatory.",
+    "area": "Intelligent Systems",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 724
+  },
+  {
+    "id": "MA-INF-4333",
+    "code": "MA-INF 4333",
+    "name": "- Geometric Deep Learning",
+    "area": "Intelligent Systems",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 504
+  },
+  {
+    "id": "MA-INF-4304",
+    "code": "MA-INF 4304",
+    "name": "Lab Cognitive Robotics",
+    "area": "Intelligent Systems",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 1855
+  },
+  {
+    "id": "MA-INF-4111",
+    "code": "MA-INF 4111",
+    "name": "\u2013 Principles of Machine Learning",
+    "area": "Intelligent Systems",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 652
+  },
+  {
+    "id": "MA-INF-2201",
+    "code": "MA-INF 2201",
+    "name": "- Computer Vision",
+    "area": "Graphics, Vision, Audio",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 29
+  },
+  {
+    "id": "MA-INF-4204",
+    "code": "MA-INF 4204",
+    "name": "\u2013 Technical Neural Nets",
+    "area": "Intelligent Systems",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 648
+  },
+  {
+    "id": "MA-INF-1103",
+    "code": "MA-INF 1103",
+    "name": "- Cryptography,",
+    "area": "Algorithmics",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 538
+  },
+  {
+    "id": "MA-INF-4328",
+    "code": "MA-INF 4328",
+    "name": "- Spatio-Temporal Data Analytics",
+    "area": "Intelligent Systems",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 519
+  },
+  {
+    "id": "MA-INF-4328",
+    "code": "MA-INF 4328",
+    "name": "- Spatio-Temporal Data Analytics",
+    "area": "Intelligent Systems",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 448
+  },
+  {
+    "id": "MA-INF-4327",
+    "code": "MA-INF 4327",
+    "name": "Lab Biomedical Data Science",
+    "area": "Intelligent Systems",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 1282
+  },
+  {
+    "id": "MA-INF-4329",
+    "code": "MA-INF 4329",
+    "name": "Seminar Biological Intelligence",
+    "area": "Intelligent Systems",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 1605
+  },
+  {
+    "id": "MA-INF-4331",
+    "code": "MA-INF 4331",
+    "name": "Lab Perception and Learning for Robotics",
+    "area": "Intelligent Systems",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 2710
+  },
+  {
+    "id": "MA-INF-4333",
+    "code": "MA-INF 4333",
+    "name": "Geometric Deep Learning",
+    "area": "Intelligent Systems",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 2010
+  },
+  {
+    "id": "MA-INF-4113",
+    "code": "MA-INF 4113",
+    "name": "Cognitive Robotics",
+    "area": "Intelligent Systems",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 673
+  },
+  {
+    "id": "MA-INF-4115",
+    "code": "MA-INF 4115",
+    "name": "- Introduction to Natural Language Processing,",
+    "area": "Intelligent Systems",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 1041
+  },
+  {
+    "id": "MA-INF-4115",
+    "code": "MA-INF 4115",
+    "name": "- Introduction to Natural Language Processing,",
+    "area": "Intelligent Systems",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 683
+  },
+  {
+    "id": "MA-INF-0402",
+    "code": "MA-INF 0402",
+    "name": "2 CP Master Seminar ............................................................. 170",
+    "area": "Master Thesis/General",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 161
+  },
+  {
+    "id": "MA-INF-0402",
+    "code": "MA-INF 0402",
+    "name": "Master Seminar",
+    "area": "Master Thesis/General",
+    "ects": 6,
+    "semester": "Unknown",
+    "blockLength": 1264
+  }
+]

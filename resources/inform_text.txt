@@ -1,0 +1,2635 @@
+--- PAGE 1 ---
+2025/26
+Inform
+Magazine of the CS student bodyMaster-Inform #4
+--- PAGE 2 ---
+Discover the new TK-StudyGuide! It’s so important
+to stay healthy during your studies or vocational
+training. That’s why we have a whole range of
+support services, including free webinars and lots
+more. Take a look:
+Your path to
+healthy
+student life
+
+--- PAGE 3 ---
+Master-Inform
+Contents
+Editorial 3
+The Student Body 4
+Awareness 6
+Gender equality 7
+Gender equality activists in the Student
+Body Council Computer Science 7
+Strenghtening equality in computer sci-
+ence 8
+Mentoring Program of GIDIS 8
+The Institute of Computer Science 10
+Course of Study 11
+Map: Campus Poppelsdorf 12
+Course of Studies: Computer Sciences 13
+Course of Studies: Examples 15Course of Studies: Cyber Security 17
+Master of Life Science Informatics 20
+Tools and IT-Services 21
+BASIS Planer for your studies 24
+Uni Bonn App 25
+eduroam 26
+sciebo - the campus cloud 27
+Student Transit Ticket 28
+Administration 29
+Accomodation in Bonn 31
+Bars and culinary delights 32
+Free time 34
+Weird Germany 35
+Dictionary 36
+Acknowledgements 38
+Editorial
+Welcome to the Computer Science, Cyber Security and Life Science Informatics programs at the University
+of Bonn!
+You probably have many questions regarding your degree, your course of study, life in Germany, especially
+in Bonn, how the University of Bonn works and much more. But don’t worry, we all have been there and
+therefore can hopefully answer some, if not all of your questions. In addition to this magazine we also
+organize an Orientation Unit (OE because in German it’s OrientierungsEinheit), in which we show you
+around campus and provide some insight into student life, in addition to getting you to know each other.
+Any remaining questions after reading this can and will be answered by us, so do not hesitate to ask us
+anything you want! You can either come to our o/uniFB03ce in room 0.019 right in the foyer of the Institute for
+Computer Science or reach out to us by e-mail via fs@fachschaft.info .
+With kind regards
+Your student body council
+3
+--- PAGE 4 ---
+Inform #4
+TheStudentBody
+Whereisthestudentbody?
+You can ﬁnd us almost every day in the student body
+rooms 0.019 and 0.020, right next to the foyer, and
+we’re always happy to have visitors! Whether you
+have a question, need advice, want to get involved,
+or just want to relax and chat over a popsicle just
+drop by. The left room, the o/uniFB03ce, is primarily for
+productivity, questions, and the like, while the right
+room features sofas that invite you to relax and so-
+cialize.
+Our website lists o/uniFB03cial opening hours, but these
+are just the times when we guarantee that someone
+will be there (known as AwD). Usually you can ﬁnd
+someone there almost all day.
+Whatdoesthestudentbodydo?
+Work for freshers In order to give all new stu-
+dents the best possible start to their studies, we
+organize an information and orientation event, the
+OU (Orientation unit), during the ﬁrst week of
+the semester (more information at https://oe.
+fachschaft.info/en/master ) and we publish this
+magazine digitally and in print. Of course, you are
+also welcome to come to us before and after the OU
+if you have any questions.
+Advice During the semester, we are available for
+you daily and try to help you with any concerns,
+needs, or problems you may have regarding your
+studies. See location and opening hours above. Just
+drop by! We are also happy to answer any questions
+you may have via email at fs@fachschaft.info !
+We also represent you if you have any problems
+with lecturers, tutors, or the examination o/uniFB03ce.
+You can report problems, usually anonymously, and
+we will then talk to the relevant people on your be-
+half.
+If we cannot help you with your current issue di-
+rectly, we try our best to redirect you to a person
+or o/uniFB03ce that can.
+Committee work Student representatives have
+seats on many university committees the represen-
+tatives are proposed by the student body. In these
+committees, we get to be part on decisions, such as
+what changes should made to the examination reg-
+ulations, how funds for the improvement of teach-
+ing quality should be distributed, or which new lec-
+turers are to be hired. If such topics are important
+to you, contact your student body!Services The student body o/uniFB00ers a wide range of
+services for your everyday student life. These in-
+clude, for example:
+•Beverages For 1.20 eper bottle (1 ewith a 10-
+bottle card!), we o/uniFB00er Spezi, lemonade, mate,
+and cola, as well as a variety of seasonally
+changing ﬂavors
+•Co/uniFB00ee & Tea are available free of charge!
+Just make your own with the machines, pow-
+der, and tea bags provided. Cow milk and oat
+milk are available in the refrigerator.
+•Popsicles are also free of charge, for as long
+as the freezer is full. What’s your favorite ﬂa-
+vor?
+•Past exams No idea what will be on the
+exam? Then take a look at last year’s exams!
+Simply log on to the university Wi-Fi and go
+tohttps://altklausuren.fachschaft.info
+•Hot water bottles with ﬂu/uniFB00y covers can be
+borrowed from us at any time to relieve stom-
+ach aches or keep you warm on cold days.
+•Staplers, hole punches, ring binders, or
+laminators are available for free use for your
+daily bureaucratic needs.
+•Notebooks are available for free while sup-
+plies last.
+•Lockers Don’t feel like carrying your books
+or bike helmet around all day? Then rent a
+locker from us (free of charge, e15 deposit).
+•Lecture survey (VLU) Each semester, you
+can anonymously review your modules here.
+Results: https://vlu.fachschaft.info
+Events From game nights and parties to joint
+exam preparation with wa/uniFB04es, alumni presenta-
+tions and lecture series to barbecues and cocktail
+evenings the student body organizes many events
+for you throughout the year. (Don’t want to miss
+out? Check out the fs-news and Socials below.)
+Have a cool idea for an event yourself? Talk to us!
+We are happy to support you with the organization
+by providing money and materials, booking rooms,
+helping with permits, and contacting our network
+of event helpers.
+Would you like to help with events, but not be the
+main organizer? Then join the fs-engel mailing list!
+(Sign up via our website)
+4
+--- PAGE 5 ---
+Master-Inform
+Informationonallchannels
+You can ﬁnd a lot of information on our stu-
+dent body website :https://www.fachschaft.
+info. In addition, you can subscribe to our mail-
+ing list fs-news. You can also get regular in-
+formation about events and PSAs on Mastodon
+(@fachschaft_info@toot.kif.rocks ),Instagram
+(@fachschaft_info ) and the uno/uniFB03cial Discord
+servers. All links can be found in the sidebar of the
+website. There are also several mailing lists where
+you can receive interesting o/uniFB00ers for jobs, events,
+and studies.
+Whoisthestudentbody? CanIjointoo?
+The student body consists of students like you, who
+have decided to volunteer their time to help other
+students.
+Anyone can join the student body and is technically
+already a member. If you decide to become active
+in the student body, there are many areas where we
+can use your help and where you can get involved.
+Formally, two committees are elected: the FSV is
+elected by all students in the department and, theFSR, who handle day-to-day business is elected by
+the FSV . Student council elections are held every
+year in the summer semester. Come along and cast
+your vote or even stand as a candidate yourself!
+Nevertheless, being elected is not a prerequisite for
+participation. Our meetings (currently Wednesdays
+at 6 p.m., room 0.016) are open to the public and
+all students are welcome to join in on the discussion
+and vote on motions.
+Anyone can be elected to a position within the stu-
+dent body and be responsible for an area such as
+social media, beverages, IT , or old exams, for exam-
+ple. We are also always happy to recommend inter-
+ested newcomers for committee seats (see above).
+If you want to start small, you can help out at an
+event as an angel or take on an AwD together with
+an experienced student representative.
+We are happy to help you ﬁnd the right project for
+you and will not leave anyone out in the cold with
+student body work. You are also welcome to just
+drop by ans socialize without having to take on any
+tasks right away.
+YourStudentBodyRepresentatives
+Tina
+ Linus
+ Michael
+ Jonas
+5
+--- PAGE 6 ---
+Inform #4
+Awareness
+Hello, we hope you had a great ﬁrst week of your studies! We Anna, Robin, Linus, Sophia, and Tina are the
+Awareness Team of the Student Body Council Computer Science, and we want to make sure that everyone
+feels comfortable at the institute. You can ﬁnd us at game nights, the OU, and the summer party, where we
+want to make sure you feel comfortable and can enjoy the event, and we are available to talk to if anything
+happens. Of course, you can also come to us outside of events or send us an email if someone treats you or
+your fellow students in a disrespectful manner or repeatedly violates the Code of Conduct and you cannot
+or do not want to confront them yourself.
+The Code of Conduct aims for for respectful interaction in which everyone feels comfortable. You can ﬁnd
+it at the following link:
+https://www.sp.uni-bonn.de/dokumente/idx/Sonstige/Fachschaften/COC-Informatik.htmlCodeofConduct
+Is something bothering you about your everyday life at university? Have you had a bad experience with
+other people at university, or do you just need someone to talk to? Then feel free to contact us :)
+We have an email address that all members of the team have access to:
+informatik.awareness@protonmail.com You can reach us via the shared address or via our individ-
+ual addresses (see below). This is us :)
+Anna Beckers
+anna.awareness
+@proton.me
+Linus Rodríguez
+Gómez
+linus.awareness
+@protonmail.com
+Robin Meth
+robin.awareness
+@protonmail.com
+Sophia Sirtl
+sophia.awareness
+@protonmail.com
+Please note that we generally cannot o/uniFB00er psychosocial counseling. If you are unsure which form of support
+would be right for you or would like a ﬁrst point of contact that is closer to everyday student life, you can
+contact us; we will be happy to discuss possible places where you can ﬁnd the support you need and refer
+you there if you wish.
+6
+--- PAGE 7 ---
+Master-Inform
+Genderequality
+Although legal gender equality is enshrined in law in many countries, including Germany, the reality of
+everyday life paints a di/uniFB00erent picture. Discrimination based on gender continues to exis - whether subtle
+or overt, structural or individual.
+Gender equality means more than equal rights on paper: it strives to ensure that all peopleregardless
+of their genderhave the same opportunities, rights, and possibilities in all areas of life. Gender equality
+encompasses both formal and de facto equal treatment.
+This does not mean that di/uniFB00erences should be ignored. Rather, it is about ensuring that no one is disadvan-
+taged or privileged on the basis of their gender - whether in professional life, education, family, or politics.
+Education is, of course, very important to us, as there is still considerable inequality in some subjects,
+particularly in the ﬁelds of STEM, which is not accepted at our institute.
+Whyexactlyisequalityimportant?
+An equal society promotes not only justice, but also economic and social stability. Studies show that diverse
+teams make better decisions, that companies with more women in leadership positions are more successful,
+and that children beneﬁt from egalitarian role models. Gender equality thus contributes to the development
+of an inclusive, innovative, and resilient society. And, of course, gender equality also plays an important
+role when it comes to satisfaction and participation.
+Those who are not at the table are not taken into consideration. Why do facial recognition programs
+recognize some faces worse than others? Why do algorithms sort applications according to patterns that
+reinforce discrimination? Often because the teams that developed them were too one-sided - not out of
+malice, but because of blind spots.
+What relevance does equality have in computer science? Computer science is a male-dominated
+ﬁeld, which is partly due to gender stereotypes and probably further reinforces them. These stereotypes
+often start early on - for example through gender-speciﬁc socialization, a lack of role models, or subtle
+signals in school, the media, and the family. This can lead to many non-cis1male individuals not discovering
+their interest in computer science in the ﬁrst place or not feeling conﬁdent enough to pursue this ﬁeld. And
+the fewer women and gender-diverse people there are in computer science, the less it appears to the outside
+world as a ﬁeld in which women and gender-diverse people are welcome.
+It is therefore important that non-cis male1individuals do not feel like they are being overlooked: that they
+feel treated equally, seen, and respected in the same way. It is also important that cis-male individuals
+do not feel that they have to conform to certain role models: that they have to be particularly tech-savvy,
+assertive, or performance-oriented in order to belong.
+Our goal is to create a collaborative atmosphere and a sense of equality, regardless of gender. This also
+includes regularly questioning existing structures in order to reduce potential barriers. In addition, con-
+scious openness can help break down barriers before they arise.
+Whoisaffected?
+The issue of equality a/uniFB00ects everyone - not just women, but also men and non-binary individuals. Gender
+roles restrict everyone: men often face pressure to perform and emotional restraint, while women and
+non-binary people more frequently struggle with prejudice and structural barriers.
+Recognizing and overcoming these role models is a collaborative process. We allbeneﬁt from gender
+equality. Through joint action, gender equality can become a reality - and not just remain a legal promise.
+And you too can contribute to this: through awareness, respect, and a willingness to question your own
+perspective.
+7
+--- PAGE 8 ---
+Inform #4
+GenderequalityactivistsintheStudentBody
+CouncilComputerScience
+As the Student Body Council’s equal opportunities o/uniFB03cer, I actively
+promote gender equality, equal opportunities, and a discrimination-
+free environment. My goal is to draw attention to structural inequal-
+ities, promote awareness of the issue, and initiate concrete improve-
+ments, especially within the ﬁeld of computer science.
+You can always contact me in conﬁdentiality - whether you have expe-
+rienced or observed discrimination or unequal treatment, are looking
+for support, or simply need someone to talk to. If you are interested in
+getting involved in this area yourself or have questions about equality
+issues, I would be happy to discuss them with you.
+Together, we can help make our student council more open, fair, and
+inclusive.
+Paria Gha/uniFB00ari
+paria.gleichstellung
+@protonmail.com
+Strenghteningequalityincomputerscience
+In our computer science department, equal opportunities are not just a principle,
+but are actively promoted. Since 2020, the “GIDIS” (german “Gleichstellung in der
+Informatik stärken”) working group has been dedicated to strengthening equality in
+our institute.
+Our commitment extends across all levels - from students and doctoral candidates to
+postdoctoral researchers, professors, and sta/uniFB00. We are committed to ensuring that
+everyone has the same opportunities and support.
+Whatcouldbeinterestingtoyou?
+We organize regular networking events for various target groups, inviting alumni or other role models to
+speak on a speciﬁc topic. This gives you the opportunity to get to know your fellow students in a relaxed
+environment, away from your coursework, while enjoying a few cookies.
+At least once a semester, we organize a company visit where we get a glimpse into the working world of
+women in IT ﬁelds that you might not even think of when considering your future career.
+We also organize a mentoring program (see below) and feminist movie nights, are active in interdisciplinary
+gender equality work, organize Girls’ Day at the institute, and much more. For more information, check
+out our website or join our mailing list. ;-)
+New people are always welcome, so feel free to write to us if you’d like to join!
+8
+--- PAGE 9 ---
+Master-Inform
+MentoringProgramofGIDIS
+The computer science equality working group organizes a mentoring program for students from struc-
+turally disadvantaged groups. In the ﬁrst round, which starts this winter semester, the focus is on support-
+ing female and gender-diverse students.
+Our goal is to provide support at the start of studies and in career planning, to create role models, to provide
+opportunities to learn from the experiences of others, to support professional and personal development,
+and to promote networking within the institute. The program is planned as 1-to-1 mentoring, with mentors
+and mentees meeting for several one-on-one sessions during the course of the program. In addition, there
+will be several joint meetings with all mentees and mentors, where we will receive topic-speciﬁc input from
+qualiﬁed speakers. A program cycle begins with an onboarding session and ends with a joint evening in a
+relaxed atmosphere. The program runs for 9 months. If you are interested, simply visit our website, where
+you will also ﬁnd a registration form.
+Gidis mailing list: https://tinyurl.com/gidis-ml
+Gidis discord channel: https://tinyurl.com/gidis-discord
+Gidis instagram: https://tinyurl.com/gidis-insta
+Equalendar: https://tinyurl.com/equalendar-en
+AStA department for equality: https://tinyurl.com/asta-gender-equality
+Reporting and counseling centers: https://tinyurl.com/reporting-and-counselingLinks
+1cisgender (cis): a person is cisgender if the gender assigned to them at birth corresponds to their own gender identity
+9
+--- PAGE 10 ---
+Inform #4
+TheInstituteofComputerScience
+If you study the master Computer Science or Cyber
+Security, then apart from the lecture hall building
+the Institute of Computer Science is the building in
+which most of your study events will take place. In
+addition to seminar rooms it contains the o/uniFB03ces of
+professors, PhD students, the (technical) adminis-
+tration for computer science and much more. The
+Institute of Computer Science is organized in six
+departments. Each of them is led by a professor
+and has a rough research focus. Within each de-
+partment there are smaller research groups, each
+again led by a professor and more specialized on a
+particular part of the ﬁeld (see table below).
+If you are studying in the Master of Computer Sci-
+ence program, in order to start a Master Thesis
+you will have to ﬁnd a supervisor from the researchgroup that is most closely related to your topic. It
+is good to familiarize yourself with the di/uniFB00erent re-
+search groups early on, so you can try to focus your
+choice of lectures, seminars and labs on the depart-
+ment that you are the most interested in.
+Sometimes there is the chance to be hired as a stu-
+dent assistant (WHF , wissenschaftliche Hilfskraft)
+by a department of the institute, usually as tutor for
+exercise groups or as programmer. The payment is
+usually ~15 Euro per hour, which is not as much as
+for most other programmer jobs, in exchange your
+workplace is close by, and you gain practical experi-
+ence related to your studies. Besides the employer
+will be more considerate about your studies, so you
+can adjust work hours to your lecture schedule.
+Informatik I
+Computational AnalyticsProf. Dr. Petra Mutzel Computational Analytics
+Prof. Dr. Estella Suarez High Performace Computing
+Informatik II
+Visual ComputingProf. Dr. Reinhard Klein Computergraphics
+Prof. Dr. Matthias B. Hullin Digital Material Appearance
+Prof. Dr. Thomas Schultz Visualization and Medical Image Analysis
+Prof. Dr. Florian Bernard Learning and Optimization for Visual Computing
+Juniorprofessorin Dr. Zorah Lähner Geometrie in Machine Learning
+Informatik III
+Information Systems
+and Artiﬁcial
+IntelligenceProf. Dr. Stefan Wrobel ML AI Lab
+Prof. Dr. Jürgen Gall Computer Vision
+Prof. Dr. Elena Demidova Data Science & Intelligent Systems
+Prof. Dr. Christian Bauckhage ML AI Lab
+Informatik IV
+Security and Networked
+SystemsProf. Dr. Peter Martini Communication Systems
+Prof. Dr. Michael Meier IT Security
+Prof. Dr. Matthew Smith Behavioural Security
+Prof. Dr. Frank Kurth Audio Signal Processing
+Prof. Dr. Christoph Strelen Operating Systems & Stochastic Modelling
+Priv.-Doz. Dr. Wolfgang Koch Sensor Data & Information Fusion
+Priv.-Doz. Dr. Volker Steinhage Intelligent Vision Systems
+Informatik V
+Algorithms and
+ComplexityProf. Dr. Heiko Röglin Analysis of Algorithms Beyond the Worst Case &
+Cluster Analysis
+Prof. Dr. Anne Driemel Prof. Dr. Anne Driemel Algorithmic Geometry
+Prof. Dr. Thomas Kesselheim Algorithmic Game Theory & Optimization under
+Uncertainty
+Informatik VI
+Intelligente Systeme
+und RobotikProf. Dr. Sven Behnke Autonomous Intelligent Systems
+Prof. Dr. Maren Bennewitz Humanoid Robots
+Juniorprofessor Dr. Herrmann Blum Robot Perception and Learning
+Dr. Dieter Engbring Didaktik der InformatikDepartments&ResearchGroups
+10
+--- PAGE 11 ---
+Master-Inform
+CourseofStudy
+In your masters degree you will have four di/uniFB00erent kinds of modules. Those modules are lectures, seminars,
+labs and your master thesis.
+Lectures
+Lectures usually take place in an auditorium.
+Smaller lectures may also be given in seminar
+rooms.
+They usually work like this: The lecturer stands in
+the front and talks. The students mostly listen, but
+may (and should!) ask questions at any time. This
+is important, because if you can not follow what the
+lecturer is telling you, listening is rather pointless.
+Don’t worry about embarrassing yourself: Chances
+are that if you don’t understand it, there most prob-
+ably are other students who don’t understand it as
+well, but are too shy to ask.
+The lectures also prepare you for the exercise
+sheets. Usually you have an exercise sheet in each
+lecture every week, though some lectures might
+have larger ones every other week or even fewer.
+They are accompanied by exercise groups, which
+also will usually be held weekly. Regular atten-
+dance in both the lectures and the exercises is
+highly recommended, though there are no manda-
+tory attendance rules for either.
+In most lectures you have to earn at least 50 % of
+the points of the exercises in order to be admitted
+to the exams. The exact conditions are published by
+the examination o/uniFB03ce before the beginning of the
+semester and can be found in the current module
+handbook. Many lectures also allow you to com-
+plete the exercises in groups of two or three stu-
+dents. Completing these exercises prepares you for
+the exam at the end of the semester, but it is not
+relevant to your grade; at most, they may give you
+bonus points in your exam. We usually do not hold
+midterm exams.
+Seminars
+Seminars will advance your knowledge of scientiﬁc
+work. The goal is to learn how to research a speciﬁc
+topic, how to then write it up in a paper and give a
+presentation. You must have at least one seminar in
+your course emphasis area/main track (if you study
+Computer Science) or take the Seminar Cyber Se-
+curity (if you study Cyber Security). In both cases
+you can have at most 10 credit points in seminars
+in total. In practice, this means that you can have
+at most two seminars worth four credit points each,
+totaling eight at most.The seminars are o/uniFB00ered in many areas of research.
+You should choose one that you ﬁnd interesting and
+where you think that you could write a masters the-
+sis about. Another part of the seminar may be re-
+viewing and critiquing other students’ papers, and
+usually you also listen to the other students’ pre-
+sentations, similar to a small conference.
+Labs
+Whereas the seminars teach you the theoretical
+aspects of scientiﬁc work, labs will teach you the
+practical part. Usually over the course of one
+semester, either alone or in a small group, you will
+try to implement a small project. This comprises
+researching related projects, deciding on what you
+want to do, planning the implementation, execut-
+ing it and, ﬁnally, writing a paper as well as giving
+a presentation, similar to your seminar.
+Due to implementing a project being more time-
+consuming than just theoretical research, each lab
+is worth nine credit points. You also have to have
+one lab in your main track (if you study computer
+science) or take the lab Cyber Security (if you study
+Cyber Security) and can at most have two labs,
+bringing you to a total of 18 credit points.
+Master’sThesis
+Usually in your last semester, you start working on
+your master’s thesis. Together with the master’s
+thesis you also take the module Master Seminar,
+which for all intends and purposes you may think
+of as just a part of the master’s thesis. As the high
+number of 30 + 2 credit points suggest, the amount
+of work alone is enough to ﬁll a whole semester.
+Having another lecture while working on your the-
+sis may work for you, but you should really try to
+reduce the number of other modules besides your
+thesis as much as possible, so try to complete all
+other parts of your degree before the last semester.
+During the course of your study, you will proba-
+bly ﬁnd out what ﬁeld of research interests you the
+most and then select more modules from that area.
+Ideally that area is also what your seminar and lab
+focused on, as this can already put you into contact
+with supervisors for your thesis and can work as a
+great starting point for a thesis topic. In order to
+start a thesis, you have to ﬁnd a supervisor for it.
+That supervisor (or if they are a PHD-student, the
+11
+--- PAGE 12 ---
+Inform #4
+professor they work for) will usually serve as your
+ﬁrst examiner. The second examiner will usually be
+a professor or post-doc working in a related ﬁeld.
+They will be your main contact, and working closely
+together with them will certainly make it easier and
+will probably result in a better grade.
+After you have worked out the exact topic of your
+thesis, your supervisor will submit it to the exam-
+ination o/uniFB03ce. The topic is usually accepted. The
+form to submit a topic also has the start date on
+it. This is the start date the examination o/uniFB03ce will
+refer to, so you can already start working on the
+thesis before you get the o/uniFB03cial green light.The exact procedure of your thesis will vary due to
+your topic, the work group and your own choices.
+If you have questions, you should contact your su-
+pervisor. They all have done their own theses and
+usually are involved in active research, so they can
+tell you what they have experienced and how you
+should proceed.
+After submitting your thesis and giving your ﬁnal
+presentation, if you have completed all the needed
+modules, have 120 credit points and have passed
+your thesis, you are ﬁnished! You can now call your-
+self a Master of Science! Congratulations!
+Reading all this, it may seem as if the goal, your degree, is so far out of reach. But you should not be afraid;
+every great change comes in small steps. And during your journey towards this goal, we will support and
+help you, should you ever have problems or questions!
+Map: CampusPoppelsdorf
+Cafeteria
+AStAMathematicsPhysics
+LibraryComputer
+Science 
+MapDesignBettinaEsser2024,MapdatafromOpenStreetMap(PublishedunderODbL)
+12
+--- PAGE 13 ---
+Master-Inform
+CourseofStudies: ComputerSciences
+As most of you are probably already familiar with, the M.Sc. Computer Science program is composed of
+modules you need to pass in order to get your degree. With each module, you will earn a certain amount of
+credit points. In order to earn your master’s degree, you will have to earn 120 credit points. Usually small
+lectures are worth six credit points and large lectures are worth nine. Through each lab, you will be able
+to receive nine credit points, seminars are worth four credit points, and your master thesis is worth 30+2
+credit points.
+Each credit point should be equal to 30 hours of work. This varies with each student, but it should give you
+a rough estimate of the time each course should take up in your schedule. The module handbook speciﬁes
+how much of this time is spent in attendance and how much time you spend on your own.
+Each semester, you are encouraged to earn around 30 credit points; this way, you would earn 120 credit
+points in four semesters, which is the recommended time of study. Both the four semesters and the 30
+credit points per semester are only recommendations. You can earn as much or little credit points as you
+want, but of course, earning fewer credit points than recommended will increase your study time.
+Each module ﬁnishes with some form of exam. For lectures, this usually takes the form of a written or
+oral exam. Seminars and labs ﬁnish with a paper as well as a presentation, both of which are graded. The
+thesis also closes with a presentation that is worth 2 credit points; the other 30 credit points are awarded
+for your thesis.
+Note that you are not limited to selecting exactly 120 credit points of modules. Only up to 120 credit
+points can count for your ﬁnal grades and these modules must meet the criteria outlined below. If you have
+selected modules beyond 120 credit points you can send an application form to the examination o/uniFB03ce to
+have up to 15 credit points of additional modules be listed on your transcript, however those will not count
+towards your grade. Any further modules you may have selected will not appear on your transcript. Do
+note that once you have met the criteria for a completed masters degree your masters studies will end that
+semester, so you can’t just go on picking new modules forever.
+Tracks
+Now you know: To get your masters degree, you
+will need to collect 120 credit points. Your the-
+sis and corresponding seminar will grant you 32
+CP , the mandatory lab and seminar will add 9 and
+4 CP . This leaves 75 CP to be made in whichever
+courses you ﬁnd interesting. But wait! There are
+some rules on how to choose. The course selection
+of the Computer Science program is divided in four
+tracks : the Algorithmics track, the Graphic, Vision
+and Audio track, the Information and Communica-
+tion Management track and the Intelligent Systems
+track. Each track o/uniFB00ers a variety of lectures, labs
+and seminars that ﬁt the topic. During your de-
+gree, you will have to choose a main track . This is
+a choice you make for yourself and that you don’t
+have to tell anyone else, but it shapes the require-
+ments for modules you have to select to complete
+your study. At least one lab and one seminar as well
+as a minimum of 18 additional CP has to come from
+your main track. You also have to have at least 27
+CP outside of your main track and in at least two
+of the other tracks you need to have at least 6 CP .
+The remaining 30 CP are free. You may also pick
+at most two labs and seminars as part of your mas-
+ters. Note that your thesis does not have to be inyour main track. You can take a look at some exam-
+ples of courses of study on page 15.
+HowtoStudy
+Here at the Institute of Computer Science, you
+don’t have to sign up for lectures to attend them.
+You can simply attend the ﬁrst lecture and get all
+necessary information there. The lecturer will tell
+you the modalities of the lecture, such as how to
+enroll in exercise groups, how to access the course
+materials and what you have to do in order to be ad-
+mitted to the exam. You can ﬁnd the lectures that
+are held each semester by looking into the course
+catalog in BASIS (p. 24).
+For labs and seminars, you usually have to apply be-
+fore the start of the semester. Every research group
+handles this a bit di/uniFB00erently, so take a look at the
+BASIS entry to ﬁnd out how to apply. If there’s no
+entry in BASIS, don’t be afraid to ask the research
+group.
+ExamApplication
+To be able to take the exams at the end of the term,
+you will have to fulﬁll the requirements published
+by in the module handbook, and you have to ap-
+13
+--- PAGE 14 ---
+Inform #4
+ply for the exams on BASIS, our digital platform for
+course overview and exam application.
+The applications are usually opened around mid-
+semester. You have to register for each exercise
+that you intend to pass. At the same time, you can
+also register for the ﬁrst exam of every module. You
+can apply for as many or as few exams as you like,
+and you can step down from an exam until one week
+before without any explanations needed. Due to the
+nature of labs and seminars, you can only step down
+from them until you are assigned a topic.
+Every semester, two exams are o/uniFB00ered for every
+module. If you pass the ﬁrst one, you can use the
+second one for your improvement-exam (see be-
+low), but else, you do not have to take it. If you
+did not pass or did not attend the ﬁrst one, you can
+go to the second one. You can also take just the
+second exam, though you still have to register for
+the exercises. If you forget that, you cannot take
+the exam as your admission cannot be entered into
+BASIS.
+It is possible to get a disadvantage compensation
+for written exams (e.g. for dyslexia) in the form of
+a time extension. You can check with the examina-
+tion o/uniFB03ce if you are eligible. If you fall sick and
+can’t take an exam, you have to get a doctor’s note
+saying that you are unable to take the exam and
+hand it in within three days to the examination of-
+ﬁce. With that, you will not lose an attempt for the
+exam.
+YouShall(not)pass!?
+You took your written exam, you have a great feel-
+ing about it, but then BASIS shows a grade you
+weren’t expecting. Don’t worry, there are things
+you can do. Whether you failed or pass, the ﬁrst
+thing you should do is go to the post-exam review.
+There you can have a look at you exam, see where
+you went wrong and ask the tutors and lecturer
+about it. Sometimes you can even ﬁnd an error in
+the correction and get the points that are due to
+you. Most of the time, the lecturer will organize a
+date for everyone, but if you can’t make it, don’t
+hesitate to ask for a di/uniFB00erent date. If the lecturer
+does not organize a central date and also does not
+want to schedule individually with you, you can al-
+ways get you post-exam review at the examination
+o/uniFB03ce.
+To attend a post-exam review you usually need your
+passport (or something comparable) and possibly
+also access to your digital student ID. In case youare doing the post-exam review for another student
+you also have to bring written and signed conforma-
+tion that you are to attend the post-exam-review for
+that student. If you plan to send someone in your
+stead it is also nice to send a mail to the lecturer
+beforehand informing them that someone will come
+instead of you. In case you aren’t too secure in the
+material it is also usually possible to bring another
+person with you to the review to review the exam
+together.
+Within a post-exam review it is always good to ﬁrst
+check if the points have been added up properly.
+They usually are, however on the rare occasion that
+some (sub)exercise was missed you could have a
+signiﬁcantly better grade than expected. After that
+you can check where points were deducted and if
+anything is unclear to you ask what you did wrong.
+If you are very close to getting the next best grade
+it can sometimes be worth it to discuss if you lost
+any points unjustly.
+Failed Exam Alright, you know where you went
+wrong, but the exam is still failed. If you failed the
+ﬁrst, you can take the second exam without apply-
+ing again. And even if you fail that one too: Each
+exam can be taken 3 times until you terminally fail
+it. This means that you can take each exam 3 times.
+Andeven if you fail something 3 times, that doesn’t
+mean the end of the program for you. It does mean
+you can’t pass this course anymore, but as long as
+there are enough other courses to ﬁnish your de-
+gree, you can continue. Even labs and seminars can
+be taken up to three times before terminally failing.
+Bad Grade You passed your exam with a grade
+that you aren’t happy with and the post-exam re-
+view brought insight, but no missing points. No
+problem, you can ﬁx that! For three of the courses
+you pass during your ﬁrst three semesters, you may
+be able to apply for an improvement-exam. For this
+to be possible you must pass the exam in the ﬁrst
+exam period that semester. You can then apply for
+the second exam in that same semester and will re-
+cieve the better of the two grades.
+Note that you can only improve grades of written or
+oral exams. Labs, seminars and the thesis cannot
+be improved.
+With this information, you should be able to get
+through your exams. A warning at the end: If you
+are caught cheating in an exam, you automatically
+fail it. Depending on the severity of you cheating,
+you might even be exmatriculated and have to pay
+a ﬁne of up to 50 000 e, so don’t cheat.
+14
+--- PAGE 15 ---
+Master-Inform
+CourseofStudies: Examples
+Since the Computer Science program doesn’t have any mandatory courses and no speciﬁc order in which
+to take the elective courses, we present some example courses of study. They are mostly based on real
+courses of study from students that ﬁnished their masters (and as such are not always perfectly 120 CP),
+but as some modules no longer exist we had to patch things up a bit. These are by no means the "right"
+way to study, they should only illustrate what a degree here in Bonn could look like. Some of them aren’t
+complete since the students are still working towards their degree.
+To safe some space, we abbreviated the tracks: Algorithmics !AL, Graphic, Vision and Audio !GVA,
+Information an Communication Management !ICMand Intelligent Systems !IS.
+Example1: Algorithmics
+IS: Technical Neural Networks 6 CP
+IS: Seminar AI Ethics 4 CP
+IS: Foundations of Data Science 9 CP
+GVA: Foundations of Audio Signal Processing 6 CP
+AL: Cryptography 9 CP
+IS: Artiﬁcial Life 6 CP
+GVA: Computer Animation 9 CP
+AL: Algorithmic Game Theory 9 CP
+AL: Discrete and Computational Geometry 9 CP
+AL: Seminar Algorithmic Game Theory 4 CP
+AL: Algorithms and Uncertainty 9 CP
+AL: Lab Advanced Algorithms 9 CP
+AL: Thesis 32 CP
+Example2: Algorithmics
+IS: Technical Neural Networks 6 CP
+AL: Algorithms for Data Analysis 6 CP
+ICM: Mobile Communication 6 CP
+AL: Combinatorial Optimization 9 CP
+ICM: Practical Challenges in Human Factors of
+Security and Privacy6 CP
+IS: Autonomous Mobile Systems 6 CP
+AL: Binary Linear and Quadratic Optimization 9 CP
+AL: Lab Combinatorial Algorithms 9 CP
+AL: Cryptography 9 CP
+ICM: Applied Binary Exploitation 6 CP
+IS: Foundations of Data Science 9 CP
+AL: HPC modern Architectures and Trends 6 CP
+AL: Seminar Computational Analytics 4 CP
+AL: Thesis 32 CPExample3: ComputerGraphicandAudio
+GVA: Computational Photography 6 CP
+IS: Technical Neural Nets 6 CP
+IS: Artiﬁcial Life 6 CP
+IS: Foundations of Data Science 9 CP
+GVA: Advanced Topics in Computer Graphics 1 9 CP
+AL: Cryptography 9 CP
+GVA: Advanced Topics in Computer Graphics 2 9 CP
+GVA: Deep Learning for Visual Recognition 6 CP
+GVA: Advanced Deep Learning for Graphics 6 CP
+GVA: Lab Graphics 9 CP
+GVA: Seminar Graphics 4 CP
+GVA: Thesis 32 CP
+Example4: ComputerGraphicandAudio
+GVA: Computer Vision 9 CP
+AL: Discrete and Computational Geometry 9 CP
+GVA: Computational Photography 6 CP
+GVA: Deep learning for Visual Recognition 6 CP
+IS: Artiﬁcial Life 6 CP
+GVA: Advanced Topics in Computer Graphics I 9 CP
+IS: Foundations of Data Science 9 CP
+GVA: Video Analytics 6 CP
+GVA: Visual Data Analysis 9 CP
+GVA: Advanced Topics in Computer Graphics II 9 CP
+ICM: Introduction to Sensor Data Fusion 6 CP
+GVA: Lab Vision 9 CP
+GVA: Seminar Vision 4 CP
+GVA: Thesis 32 CP
+15
+--- PAGE 16 ---
+Inform #4
+Example5: IntelligentSystems
+AL: Cryptography 9 CP
+IS: Learning from Non-Standard Data 6 CP
+ICM: Mobile Communication 6 CP
+IS: Principles of Machine Learning 6 CP
+IS: Advanced Learning Systems 6 CP
+GVA: Advanced Topics in Computer Graphics I 9 CP
+ICM: IT Security 6 CP
+ICM: Practical Challenges in Human Factors of
+Security and Privacy6 CP
+ICM: Side Channel Attacks 6 CP
+IS: Artiﬁcial Life 6 CP
+IS: Humanoid Robotics 6 CP
+GVA: Computational Photography 6 CP
+IS: Seminar Humanoid Robots 4 CP
+IS: Lab Sensor Data Interpretation 9 CP
+IS: Technical Neural Nets 6 CP
+ICM: Advanced Computer Forensics 6 CP
+IS: Thesis 32 CP
+Example6: Informationan
+CommunicationManagement
+ICM: Foundations of Audio Signal Processing 6 CP
+IS: Principles of Machine Learning 6 CP
+IS: Secure Software Engineering 6 CP
+ICM: Applied Binary Exploitation 6 CP
+ICM: IT-Security 6 CP
+ICM: Mobile Communication 6 CP
+ICM: Lab IT Security 9 CP
+ICM: Seminar Selected Topics in IT Security 4 CP
+AL: Cryptography 9 CP
+ICM: Introduction to Sensor Data Fusion 6 CP
+IS: Technical Neural Nets 6 CP
+IS: Advanced Methods of Information Re-
+trieval6 CP
+AL: Introduction to High Performance Com-
+puting6 CP
+IS:Side Channel Attacks 6 CP
+ICM: Thesis 32 CPExample7: Informationan
+CommunicationManagement
+ICM: Practical Challenges in Human Factors of
+Security and Privacy6 CP
+IS: Artiﬁcial Life 6 CP
+ICM: Mobile Communication 6 CP
+ICM: IT Security 6 CP
+ICM: Malware Analysis 6 CP
+ICM: Array Signal and Multi-channel Process-
+ing6 CP
+ICM: Applied Binary Exploitation 6 CP
+IS: Advanced Learning Systems 6 CP
+ICM: Lab IT Security 9 CP
+GVA: Advanced Topics in Computer Graphics I 9 CP
+ICM: Seminar Selected Topics in IT Security 4 CP
+GVA: Video Analytics 6 CP
+IS: Cognitive Robotics 6 CP
+AL: Algorithms for Data Analysis 6 CP
+ICM: Thesis 32 CP
+The cardboard version of the "Stanford Bunny"
+of department II in front of the Institute’s logo
+Copyright: Volker Lannert / Uni Bonn
+16
+--- PAGE 17 ---
+Master-Inform
+CourseofStudies: CyberSecurity
+As most of you are probably already familiar with, the M.Sc. Cyber Security program is composed of
+modules you need to pass in order to get your degree. With each module, you will earn a certain amount of
+credit points. In order to earn your master’s degree, you will have to earn 120 credit points. Usually small
+lectures are worth six credit points and large lectures are worth nine. Through each lab, you will be able
+to receive nine credit points, seminars are worth four credit points, and your master thesis is worth 30+2
+credit points.
+Each credit point should be equal to 30 hours of work. This varies with each student, but it should give you
+a rough estimate of the time each course should take up in your schedule. The module handbook speciﬁes
+how much of this time is spent in attendance and how much time you spend on your own.
+Each semester, you are encouraged to earn around 30 credit points; this way, you would earn 120 credit
+points in four semesters, which is the recommended time of study. Both the four semesters and the 30 credit
+points per semester are only recommendations. You can earn as much or little credit points as you want,
+but of course, earning fewer credit points than recommended will increase your study time. It happens
+quite frequently that students need more than four semesters to ﬁnish their degree, especially if you have
+a job alongside your studies.
+Each module ﬁnishes with some form of exam. For lectures, this usually takes the form of a written or
+oral exam. Seminars and labs ﬁnish with a paper as well as a presentation, both of which are graded. The
+thesis also closes with a presentation that is worth 2 credit points; the other 30 credit points are awarded
+for your written thesis.
+Note that you are not limited to selecting exactly 120 credit points of modules. Only up to 120 credit
+points can count for your ﬁnal grades and these modules must meet the criteria outlined below. If you have
+selected modules beyond 120 credit points you can send an application form to the examination o/uniFB03ce to
+have up to 15 credit points of additional modules be listed on your transcript, however those will not count
+towards your grade. Any further modules you may have selected will not appear on your transcript. Do
+note that once you have met the criteria for a completed masters degree your masters studies will end that
+semester, so you can’t just go on picking new modules forever.
+CompulsoryandCompulsoryElective
+Modules
+Now you know: To get your masters degree, you
+will need to collect 120 credit points. These are
+split between the Compulsory and the Compul-
+sory Elective modules, with the compulsory elective
+modules splitting up into multiple groups explained
+later. The compulsory modules are modules that
+must be selected to get the masters degree while
+the compulsory elective modules consist of pools of
+lectures that you need to select a certain number
+of credit points from.
+CompulsoryModules
+Currently the master Cyber Security has 4 (tech-
+nically 5) compulsory modules that together make
+up 51 credit points. You must attend the lecture IT
+Security and complete one lab, one seminar and
+your masters thesis in cyber security. The masters
+thesis technically splits into two modules, the ac-
+tual thesis for 30 credit points and the masters sem-
+inar accompanying the thesis for 2 credit points,
+however these two are always selected in tandem,so we usually talk of them as one module. While
+you must select all of these modules to ﬁnish the
+master cyber security, they have no explicit inter-
+nal dependencies and you may select them in any
+order you like. However we recommend selecting
+the lab and seminar before the masters thesis, as
+they are good ways to check out if a certain area
+of cyber security is the right one for your masters
+thesis.
+CompulsoryElectiveModules
+The compulsory elective modules make up the
+other 69 credit points of your master. They are
+split into three types of compulsory elective mod-
+ules. For all three types there are lists of modules
+that you can select from.
+There are the subject-bound compulsory elective
+modules which are again split into the subject-
+bound compulsory elective modules cyber secu-
+rity (from now on called compulsory elective mod-
+ules cyber security) and the subject-bound com-
+pulsory elective modules computer science (from
+now on called compulsory elective modules com-
+puter science). The compulsory elective modules
+17
+--- PAGE 18 ---
+Inform #4
+cyber security allow you to further specialize into
+di/uniFB00erent parts of cyber security while the com-
+pulsory elective modules computer science allow
+you to learn more about other parts of computer
+science, such as computer graphics or theoretical
+computer science. Most subject-bound compulsory
+elective modules are also modules that students of
+the master computer science can select and most
+modules that are part of the master computer sci-
+ence can be selected as compulsory elective mod-
+ules. Do look out however, for example nearly all
+modules in the algorithmics track of the master
+computer science are inaccessible to students of
+the master cyber security. The full list of available
+compulsory elective modules can be found in the
+module handbook. The newest version is available
+via the website of the examination o/uniFB03ce which
+can be found under https://www.informatik.
+uni-bonn.de/en/studies/examination-office/
+examination-office?set_language=en . The mod-
+ule handbook also contains some example courses
+of study.
+The non-subject-bound compulsory elective mod-
+ules allow you to select modules from outside
+of computer science, such as mathematics, psy-
+chology, economics, geography, photogammetry,
+physics/astronomy or chemistry. These modules
+must be from masters studies in the respective ar-
+eas, you may not select bachelor modules. The ex-
+amination board may publish lists of ”approved”
+modules, however to the best of our knowledge so
+far no such list has been published. Outside of such
+a list the examination board can allow modules on a
+case-by-case basis if the modules are not too close
+to modules of the subject-bound compulsory elec-
+tive modules. So if there is a module in a di/uniFB00erent
+masters study that really interests you, contact the
+examination board if its possible to select it as part
+of your master cyber security.
+While the compulsory elective modules o/uniFB00er a
+great deal of freedom in specializing your master
+your selections are still bound by certain rules on
+how many credit points you can and must select in
+certain areas.
+•Subject-bound compulsory elective modules
+(54-69 credit points)
+–Compulsory elective modules cyber se-
+curity (at least 24 credit points)
+–compulsory elective modules computer
+science (at least 12 credit points)
+∗May contain at most one seminar
+and one lab•Non-subject-bound compulsory elective mod-
+ules (0-15 credit points)
+You must select at least 54 credit points of sub-
+ject bound compulsory elective modules. Of these
+at least 24 credit points must be compulsory elec-
+tive modules cyber security and at least 12 credit
+points must be compulsory elective modules com-
+puter science. Within the compulsory elective mod-
+ules computer science you may select up to one lab
+and up to one seminar. You may also select up to 15
+credit points in the non-subject-bound compulsory
+elective modules, but you are not required to select
+any at all.
+HowtoStudy
+Here at the Institute of Computer Science, you
+don’t have to sign up for lectures to attend them.
+You can simply attend the ﬁrst lecture and get all
+necessary information there. The lecturer will tell
+you the modalities of the lecture, such as how to
+enroll in exercise groups, how to access the course
+materials and what you have to do in order to be ad-
+mitted to the exam. You can ﬁnd the lectures that
+are held each semester by looking into the course
+catalog in BASIS (p. 24).
+For labs and seminars, you usually have to apply be-
+fore the start of the semester. Every research group
+handles this a bit di/uniFB00erently, so take a look at the
+BASIS entry to ﬁnd out how to apply. If there’s no
+entry in BASIS, don’t be afraid to ask the research
+group.
+ExamApplication
+To be able to take the exams at the end of the term,
+you will have to fulﬁll the requirements published
+in the module handbook, and you have to apply for
+the exams on BASIS, our digital platform for course
+overview and exam application (see p. 24).
+The applications are usually opened around mid-
+semester. You have to register for each exercise
+that you intend to pass. At the same time, you can
+also register for the ﬁrst exam of every module. You
+can apply for as many or as few exams as you like,
+and you can step down from an exam until one week
+before without any explanations needed. Due to the
+nature of labs and seminars, you can only step down
+from them until you are assigned a topic.
+Every semester, two exams are o/uniFB00ered for every
+module. If you pass the ﬁrst one in a compulsory
+elective module, you can use the second one for
+your improvement-exam (see below), but else, you
+do not have to take it. If you did not pass or did not
+18
+--- PAGE 19 ---
+Master-Inform
+attend the ﬁrst one, you can go to the second one.
+You can also take just the second exam, though you
+still have to register for the exercises. If you forget
+that, you cannot take the exam as your admission
+cannot be entered into BASIS.
+It is possible to get a disadvantage compensation
+for written exams (e.g. for dyslexia), usually in the
+form of a time extension. You can check with the ex-
+amination o/uniFB03ce if you are eligible. If you fall sick
+and can’t take an exam, you have to get a doctor’s
+note saying that you are unable to take the exam
+and hand it in to the examination o/uniFB03ce within three
+days. With that, you will not lose an attempt for the
+exam.
+YouShall(not)pass!?
+You took your written exam, you have a great feel-
+ing about it, but then BASIS shows a grade you
+weren’t expecting. Don’t worry, there are things
+you can do. Whether you failed or pass, the ﬁrst
+thing you should do is go to the post-exam review.
+There you can have a look at your exam, see where
+you went wrong and ask the tutors and lecturer
+about it. Sometimes you can even ﬁnd an error in
+the correction and get the points that are due to
+you. Most of the time, the lecturer will organize a
+date for everyone, but if you can’t make it, don’t
+hesitate to ask for a di/uniFB00erent date. If the lecturer
+does not organize a central date and also does not
+want to schedule individually with you, you can al-
+ways get your post-exam review at the examination
+o/uniFB03ce.
+To attend a post-exam review you usually need your
+passport (or something comparable) and possibly
+also access to your digital student ID. In case you
+are doing the post-exam review for another student
+you also have to bring written and signed conforma-
+tion that you are to attend the post-exam-review for
+that student. If you plan to send someone in your
+stead it is also nice to send a mail to the lecturer
+beforehand informing them that someone will come
+instead of you. In case you aren’t too secure in the
+material it is also usually possible to bring another
+person with you to the review to review the exam
+together.
+Within a post-exam review it is always good to ﬁrst
+check if the points have been added up properly.
+They usually are, however on the rare occasion that
+some (sub)exercise was missed you could have a
+signiﬁcantly better grade than expected. After thatyou can check where points were deducted and if
+anything is unclear to you ask what you did wrong.
+If you are very close to getting the next best grade
+it can sometimes be worth it to discuss if you lost
+any points unjustly.
+Failed Exam Alright, you know where you went
+wrong, but the exam is still failed. If you failed the
+ﬁrst, you can take the second exam. And even if you
+fail that one too: Each exam can be taken 3 times
+until you terminally fail it. This means that you can
+take each exam 3 times.
+If you fail an exam in a compulsory module 3
+times you will be expelled from the master cy-
+ber security and will no longer be able to study
+a master of cyber security in Germany. The same
+happens if you fail your masters thesis twice. Don’t
+worry, it is very rare that people get expelled. How-
+ever if you are approaching your third attempt in
+any exam make sure you are prepared for it as best
+as you possibly can.
+In contrast to this if you fail an exam in an elec-
+tive compulsory module 3 times you have termi-
+nally failed that module and can not attempt the
+exam again. However if there are still enough other
+modules so that you can reach the credit point re-
+quirements for each section of the elective compul-
+sory modules you can simply continue your studies
+with di/uniFB00erent lectures.
+Bad Grade You passed your exam in an elective
+compulsory module with a grade that you aren’t
+happy with and the post-exam review brought in-
+sight, but no missing points. No problem, you can
+ﬁx that! For three of the courses you pass during
+your ﬁrst three semesters, you may be able to ap-
+ply for an improvement-exam. For this to be possi-
+ble you must pass the exam in the ﬁrst exam period
+that semester. You can then apply for the second
+exam in that same semester and will recieve the
+better of the two grades.
+Note that you can only improve grades of written or
+oral exams. Labs, seminars and the thesis cannot
+be improved.
+With this information, you should be able to get
+through your exams. A warning at the end: If you
+are caught cheating in an exam, you automatically
+fail it. Depending on the severity of your cheating,
+you might even be expelled and have to pay a ﬁne
+of up to 50 000 e, so don’t cheat.
+19
+--- PAGE 20 ---
+Inform #4
+MasterofLifeScienceInformatics
+Note: The info in this article may be outdated. We currently do not have an LSI student active in the
+student body who could verify it for us. If you notice errors, please contact us at fs@fachschaft.info and
+we will ﬁx it ASAP . Your help is much appreciated.
+The M.Sc. Life Science Informatics is a/uniFB03liated with the Bonn-Aachen International Center for Information
+Technology. Life Science Informatics is o/uniFB00ered jointly by the University of Bonn and RWTH Aachen in
+cooperation with the Fraunhofer Institutes at Sankt Augustin near Bonn. The program combines the natural
+sciences with computer science and is taught in English.
+Lectures
+There is a catalog of compulsory subjects that must
+be completed. From a selection of elective subjects,
+it must also be possible to accumulate a certain
+number of credit points over the entire course of
+study. Unlike other degree programs, the univer-
+sity provides a timetable for each semester, which
+includes the suggested division of subjects.
+1. Semester
+Mathematics for Life Scientists* 3 CP
+Computer Science for Life Scientists* 9 CP
+Bioinformatics I 3 CP
+Biological Databases 6 CP
+Biology and Chemistry for Life
+Scientists*7 CP
+LSI Tutorial (lab, optional) 6 CP
+Optional Courses from the Module
+Catalog* CP
+*For students with a degree in Computer Science,
+Mathematics for Life Scientists" and "Computer
+Science for Life Scientists" are optional subjects.
+For students with a degree in Life Sciences, "Biol-
+ogy and Chemistry for Life Scientists" is an optional
+subject. You may replace the modules optional for
+you with other modules from the module catalog.
+The LSI Tutorial is a programming tutorial that is
+meant to help students with a background in nat-
+ural sciences to improve their programming skills.
+It starts at a very basic level and accompanies the
+Computer Science Lecture.
+2. Semester
+Visual Computing in the Life Sciences 6 CP
+Molecular Modeling and Drug Design 6 CP
+Biomedical Data Science and AI 6 CP
+Programming Lab I 8 CP
+Scientiﬁc Presentation I 4 CP3. Semester
+Programming Lab II 8 CP
+Chemoinformatics 7 CP
+Optional Courses from the Module
+Catalog17 CP
+4. Semester
+Master thesis 30 CP
+Another di/uniFB00erence to other degrees lies in the ad-
+ministration of the course. Most lectures aren’t
+available on e-campus and the registration for ex-
+ams and lectures is done paper-based. Information
+is provided by the LSI exam o/uniFB03ce in time, so don’t
+worry about that!
+Due to the small group size, the mentoring is much
+more intensive than in degrees with 100 or 150 stu-
+dents!
+The program’s website provides a lot of
+information regarding the study course
+and administrative information as well
+(https://www.b-it-center.de/b-it-programmes/
+msc-in-life-science-informatics/description ).
+Entrance to B-IT Center at
+Friedrich-Hirzebruch-Allee 6
+Copyright: Volker Lannert / Uni Bonn
+20
+--- PAGE 21 ---
+Master-Inform
+ToolsandIT-Services
+The IT-Helpdesk at HRZ provides help on
+topics such as Uni-ID (account), E-Mail,
+eduroam and VPN.
+Opening hours: monday - friday, 8.00 - 18.00
+Mail: info-hrz@uni-bonn.de
+Phone: 0228 / 73-2751
+In Person: ground ﬂoor of HRZ, Wegelerstr.
+6GotaproblemwiththeUni-IT?
+Twodifferentaccounts
+All students get a general account from the univer-
+sity, the Uni-ID . It will be your login for all central-
+ized services, like BASIS (see page 24) and eCam-
+pus (see below). With this account you can manage
+your studies in general.
+After enrollment, you can download your cre-
+dentials in the application system. They will
+look a bit like this: "s23xabcd" and a random
+initial password. To activate this account you
+have to enter them at GOsa2(https://gosa.
+gosa.uni-bonn.de ), where you will set your
+own password - after that, the initial pass-
+word will no longer work. We recommend
+you also add a private mail adress for quick
+password reset in the future.Accountactivation
+On top of that, you get a CS account , which is
+needed for VPN (see below) and computer pools
+(also called CIP-Pools, see next page).
+To apply for one you have to follow the instruc-
+tions here https://gsg.informatik.uni-bonn.de/
+doku.php?id=en:accounts:students:manage .
+With this account you get access to a few services
+speciﬁc to computer science.eCampus
+The university hosts a central eLearning platform
+called eCampus, where lecturers can upload all rel-
+evant data for their courses, including slides, exer-
+cise sheets, etc. Often you will even hand in your
+ﬁnished exercises through uploads to the eCampus
+system.
+Many CS lecturers prefer using their own home-
+page instead. You will then be able to either ﬁnd
+a link to their page in the eCampus course or it
+will be provided during the ﬁrst lecture. Impor-
+tant: For many of those sites, slide downloads will
+be password secured. Be sure to either take note of
+that password during the ﬁrst lecture or get it from
+fellow students at the beginning of the semester.
+YourE-Mail-adress
+Your uni-account comes with an e-mail account.
+The adress is s23xabcd@uni-bonn.de with your uni-
+ID respectively. We suggest checking this inbox fre-
+quently, as you will receive o/uniFB03cial information from
+the uni there.
+To read your mail in a browser go to https:
+//email.uni-bonn.de/ . You can also add
+it to clients like Thunderbird or a smart-
+phone app. For this, please make sure your
+client does not save login-data in a cloud
+(see https://www.hrz.uni-bonn.de/en/news/
+abruf-durch-unzulaessige-e-mail-clients-gesperrt?
+set_language=en for further info).
+When setting up your client, in addition to your
+email-adress and password, you often have to add
+additional info for it to work (Advanced Setup). Be-
+low we have created an overview of frequently re-
+quired ﬁelds for quick access.
+A step-by-step guide for di/uniFB00erent OS
+and clients can be found here: https:
+//www.hrz.uni-bonn.de/en/all-services/
+e-mail-calender-contacts/e-mail (only avail-
+able when in uni wiﬁ or via VPN).
+Eingangsserver Ausgangsserver
+Protocol: IMAP SMTP
+Hostname: email.uni-bonn.de
+Port: 993 465
+(ﬁeld has di/uniFB00erent name on every OS) SSL/TLS (Apple: SSL)
+Authetication: Passwort normal / Keine Passwortverschlüsselung
+21
+--- PAGE 22 ---
+Inform #4
+By the way: If you do not like your Uni-ID, you can
+set up to two aliases in GOsa2. All e-mails to those
+aliases will be delivered to your inbox as well.
+TVS-exerciseassigningsystem
+A lot of lecturers at CS use TVS, a system that
+helps assigning students to excercise groups. At
+https://tvs.cs.uni-bonn.de you can register us-
+ing your matriculation number and then pick your
+preferences for the exercise timeslots (seperately
+for each course). The system will automatically
+create a distribution, meeting as many preferences
+as it can, while making sure you won’t get the
+same time slot for two di/uniFB00erent courses. In some
+courses you might be able to form small groups in
+advance that share the same preferences and will
+be assigned together. This way you can assure you
+and your study group will be in the same exercise
+group.
+Internetaccess: WLANhere,WLANthere
+One of the most frequent questions is: How can I
+access the web on campus?
+First you will of course need a WLAN (or Wi-Fi)
+connection. Depending on exact location, the net-
+works have di/uniFB00erent names: bonnet, bonnet-stw,
+eduroam, eduroam-stw, eduroam-cs and eduroam-
+math are few of the common ones.
+Some of these are open, unencrypted access points,
+which everyone is allowed to connect to. However,
+this does not automatically give you an internet
+connection. For that, you will need a VPN client.
+(see next section)
+An exception to that are the eduroam networks.
+These are encrypted with WPA Enterprise. To con-
+nect to them you have to log in with your uni ac-
+count, but do not need a VPN client. (see page 26)
+VPN
+At the uni Bonn you need VPN (Virtual Private Net-
+work) for two di/uniFB00erent things:
+•Accessing the internet via WLAN
+•Accessing the universitys intranet from home
+What makes it a bit confusing is that the uni and
+the CS institute are (again) using two di/uniFB00erent VPN
+systems. In most cases it should not matter which
+of the two you are using, unless trying to access
+information speciﬁcally for CS only. If you are hav-
+ing trouble with the VPN for web access we rec-
+ommend trying the eduroam WLAN (see page 26)
+instead.CS-VPN: The institute of computer science uses
+the open source system OpenVPN. To access the in-
+stitute’s intranet via OpenVPN, you require a pro-
+ﬁle, or certiﬁcate, which can be requested and
+downloaded via the b-it / IoCS User Management
+Interface. To authenticate, you will need to use
+your CS username and password. The GSG web-
+site o/uniFB00ers step-by-step instructions for di/uniFB00erent
+OS here: https://gsg.informatik.uni-bonn.de/
+doku.php?id=de:vpn
+Uni-VPN: The uni uses a system by Cisco, on which
+there are various opinions. Some students connect
+through it without any problems, while others ex-
+perience frequent errors and suddenly lost connec-
+tions. Another issue is that there is no Cisco client
+available for some systems.
+The website of the HRZ (link box below) o/uniFB00ers
+client downloads for Windows, Mac OS and Linux.
+There you will also ﬁnd detailled tutorials for each
+OS. Once the client is installed, enter either https:
+//unibn-vpn.uni-bonn.de if you want to access
+the intranet from home or https://unibn-wlan.
+uni-bonn.de if you want to use it for WLAN access.
+SSHTunnel
+When you don’t need a full VPN, but only want to ac-
+cess a few intranet services real quick, you might
+ﬁnd SSH (Secure Shell) useful. SSH is a usually
+text-based tool with which you can execute com-
+mand line expressions on an external server instead
+of your own computer.
+For that, you will need your CS account. To
+set it up, we recommend the tutorials from
+the GSG: https://gsg.informatik.uni-bonn.de/
+doku.php?id=en:ssh
+Booksandjournalsonline
+The Institute has a subscription for the IEEE Cop-
+muter Society Digital Library and ACM Digital Li-
+brary, that can be retrieved online. This can be use-
+ful when you are required to read academic articles
+for seminars.
+On top of that, the ULB library has a couple more
+subscriptions, as well as many books from the com-
+puter science ﬁeld. They are often also available
+in digital form. Via the bonnus system, available
+athttps://www.ulb.uni-bonn.de/ , you can search
+by title, author and keywords and instantly see
+whether a book or article is available and get a link
+to the digital version or the location in the physical
+library. Note that for some of the digital media you
+have to be in the uni wiﬁ or VPN. For access to the
+physical library you will need a library card, which
+22
+--- PAGE 23 ---
+Master-Inform
+you can apply for on the website listed above and
+later add to your Uni-Bonn-App (see page 25).
+Computerpools
+The institute for computer science has a bunch of
+CIP-Pools. Accessible for students are two Win-
+dows pools and two Linux pools in the basement
+of the computer science building (see map, page
+40). To log in to the computers there, use your CS
+account.
+To enter the CIP-Pools you will need a code to type
+in at the door.
+Found out the code through asking or dark magic?
+Take notes here!doorcodeThe pools also o/uniFB00er a scanner-printer-combo
+named feder , located in the BYOD-room. Every
+month, you get 50 pages of print credit added to
+your balance. If you don’t use them all they stack
+for the next month, up to a maximum of 300 pages.
+You can print from all CIP-POOL-PCs, as well as
+(through a web interface) from your own laptop or
+tablet. As an alternative you can print at the li-
+braries, paying with your mensa card.
+Besides the pools at the CS building, the libraries
+o/uniFB00er some public computer workstations as well,
+you can log into those using your Uni-ID.
+�https://ecampus.uni-bonn.de
+�https://tvs.cs.uni-bonn.de
+�https://email.uni-bonn.de
+�https://www.hrz.uni-bonn.de/en
+�https://gsg.cs.uni-bonn.de/Weblinks
+IDE There are a lot di/uniFB00erent IDEs and opinions on IDEs. There is no real right or wrong here and
+the choice highly depends on the programming language and project at hand. Nonetheless, here
+are a few recommendations:
+For Python you might choose the Community Edition of PyCharm (www.jetbrains.com/idea/ ) by
+JetBrains (open source). JetBrains also o/uniFB00ers a bunch of other IDEs for di/uniFB00erent programming
+languages.
+If you are searching for a more lightweight solution, you should take a look at Visual Studio Code
+(code.visualstudio.com/ ) or the variant without Telemetry, VsCodium (github.com/VSCodium/
+vscodium ). This editor o/uniFB00ers a large library of extensions, which can be added as required and
+in this way provides support for almost every programming language.
+LaTeX is a well known typesetting engine, an alternative to Microsoft Word or LibreO/uniFB03ce Writer.
+LaTeX is especially popular for writing academic documents, as it is very versatile and provides
+a good formula editing system. Most students will encounter it sooner or later, so it might be
+worthwhile checking it out, e.g. with urloverleaf.com. By the way: This magazine was also made
+using LaTeX.
+GNU/Linux is used a lot at university, so it’s good for Windows users to familiarize themselves
+with the system. A good start is the distribution Ubuntu, which is especially suitable for beginners.
+This is also the one used in the Linux pools. Those who want keep using mainly Windows or Mac can
+set up a Virtual Machine instead, e.g. with Virtual Box (www.virtualbox.org/ ). From time to time,
+CS and AStA host linux install partys where seasoned users help you with your setup and answer
+questions.
+Git Git (e.g. via github, gitlab or gitea) is commonly used for working together on coding projects,
+including version control. For beginners we recommend ohmygit.org/ and the various "git cheat-
+sheets" on the web.UsefulTools
+23
+--- PAGE 24 ---
+Inform #4
+BASIS–Planerforyourstudies
+BASIS ( https://www.basis.uni-bonn.de ) is a web-
+site that is important for all students. It does not
+only include the course overview, but is also used
+to apply for exams and view the results. Let’s take
+a closer look at it!
+To log in to BASIS, you use your Uni-ID and the as-
+sociated password. On page 21 we explain where
+you can ﬁnd them and how you can activate them.
+You might want to switch the language to english
+(if it isn’t already) on the top left corner.
+After succesfully logging in, you will see your per-
+sonal dashboard. On the right, you can ﬁnd a down-
+load of your certiﬁcates of studies , on the left
+some shortcuts to useful functions. You can fully
+navigate the side using the menu opened by the
+Hamburger button. We’ll now mention the most im-
+portant functionality.
+Mystudies
+Here you can register for lectures, tutorials and ex-
+ams if needed and can take a look at your grades.
+Study planner This function is chaotic and not
+yet matured. We recommend you take a look at the
+o/uniFB03cial module plan of the institute’s website.
+Term groups CS students don’t need to worry
+about these.
+Schedule Here you can see a time table of your
+enrollments. Because you don’t need to register for
+lectures - only for exams and tutorials - you are bet-
+ter o/uniFB00 making your own time table.
+Show my enrollments This shows all your en-
+rollments and registrations after you have taken
+them.
+My Achievements After you have taken exams,
+you can ﬁnd whether you have passed and your
+grades here, as well as your credits.
+Register for examinations This function is the
+one and only o/uniFB03cial place where you register and
+deregister to/from exams. No other form of regis-
+tration (emails, eCampus, talking to your professor)
+counts. Keep in mind the deadlines for exam regis-
+trations, you will be informed of them via email in
+time. You can deregister from exams until 7 days
+before the exam.Study service If you ever need certiﬁcates, infor-
+mation about pending payments or your account as
+well as payment deadlines, this page shows all the
+relevant information. You can also change contact
+information here.
+Course plan On overview of all courses o/uniFB00ered
+this/coming semester that can be taken by you.
+Studiesoffered
+This shows all courses and lectures o/uniFB00ered to you,
+as well as a way to show for courses uni-wide and
+links to module plans.
+Application
+If you want to change your studies, apply for
+double-studies, etc. this is the place to manage all
+of it. Some of the functionality is only visible during
+application periods.
+Service
+Personal settings Here you can change informa-
+tion for o/uniFB03cials of the University to reach you un-
+der. If you move or change your phone number,
+make sure to change this information. Even though
+most communication is digital, some of it is not.
+Requests Here you can ﬁnd o/uniFB03cial requests such
+as exmatriculation, sabbaticals/vacations or chang-
+ing your name or legal gender identity , for ex-
+ample by marriage or personal choice. This re-
+quest is also possible before a change in your
+passport via the Selbstbestimmungsgesetz (law
+of self-determination), as long as you have a
+dgti-Ergänzungsausweis (supplemental identiﬁca-
+tion card). It may be possible you’ll have to change
+these informations again with the Study Services.
+Howtobuildyourownschedule
+Basis has a built-in function to construct a time-
+table, but we do not recommend you use it. Instead,
+before the beginning of the next semester, choose
+courses you would like to take through the module
+planner and register for tutorials during the ﬁrst
+week of lectures (this is internal to the lecture and
+not done via basis). After you have gained a tutorial
+slot, you could correct your time table to get rid of
+doublings.
+24
+--- PAGE 25 ---
+Master-Inform
+You do not need to regiter to lectures to be able to
+attend them. So during the ﬁrst week you could
+visit the ﬁrst lectures of a lot of courses and then
+choose your favourites for the semester afterwards.
+Keep in mind that being registered for a tutorial
+and handing in solutions to exercises does not mean
+that you are registered for the exam yet!
+QuestionsregardingBASIS
+If you have questions regarding BASIS, you can
+of course always ask us, the student body. Inmany cases, we will however refer you to the tech-
+nical support for BASIS at info-hrz@uni-bonn.de
+or the BASIS coordinator of Computer Science
+at pos@informatik.uni-bonn.de, so you can also
+contact them directly. There is also a page on
+the institute’s website regarding frequently asked
+questions about exam registrations, make sure
+to read it thoroughly: https://www.informatik.
+uni-bonn.de/en/studies/examination-office/
+examination-office#pruefungen
+UniBonnApp
+The Uni Bonn App replaces a physical student ID
+and public transport ticket. More about the ticket
+on page 28.
+HowdoIinstalltheapp?
+You can ﬁnd the app in the Play Store or in the Ap-
+ple App Store by searching for Uni Bonn App or you
+can just scan one of these QR-codes:
+Google Playstore
+ Apple App Store
+HowcanIusetheapp?
+Once you’ve downloaded the app and opened it,
+you have to use the hamburger menu (three lines)
+in the top left corner and choose the option Lo-
+ginin the sidebar. There you log in with your uni-
+id (WITHOUT @uni-bonn.de) and password. Aftersuccessful login, you may want to set the language
+to english through the hamburger menu under Set-
+tings (Einstellungen).
+Features
+Home Here you will ﬁnd many useful links, for ex-
+ample to the Studierendenwerk. On top, university
+news will be displayed here.
+Canteen Here you can view the canteen (aka.
+mensa) menu for the coming week. For the canteen
+near the CS building, set the location to Mensa Pop-
+pelsdorf CAMPOat the top of the screen.
+Library After creating a library card on the web-
+site of the ULB ( https://www.ulb.uni-bonn.de/
+de/nutzung-und-ausleihe/ausweis-konto ) you
+can log in with your library account here to add
+your digital library card to the app.
+Wallet The wallet displays your public transport
+ticket, student ID and library card.
+Known Bug: Sometimes the app may log you out
+randomly and tell you to reauthenticate. If that
+happens, just log in again as described above.
+25
+--- PAGE 26 ---
+Inform #4
+eduroam
+eduroam
+(Education Roaming) is an originally a European,
+now world-wide initiative. Eduroam gives sta/uniFB00 and
+students of participating universities and organisa-
+tions internet access via WLAN at all of these fa-
+cilities, using their personal username and pass-
+word or a personal X.509-user-certiﬁcate from a
+valid PKI.
+WherecanIuseit?
+You can connect to the eduroam WLAN access
+points at all participating facilities. Those usually
+have the network name (ESSID) "eduroam" or con-
+tain that word and a speciﬁcation, like eduroam-cs
+at the CS building or eduroam-stw for those hosted
+by the student administration.
+Howdoesitwork?
+First, you should go to cat.eduroam.org . There,
+choose the university of Bonn as your organisation
+and download the confuguration relevant for your
+OS. This site also has some instructions, but we will
+also go over them on this page.
+You will need your Uni-ID for this. Refer to page 21
+to ﬁnd and activate it.
+Android From the PlayStore (or as .apk) install
+the app getEduroam (Android 8 and higher) or
+EduroamCAT (Android 7 nd lower). In the app,
+choose Universität Bonn, then enter your Uni-ID
+and password.
+Apple Devices Download the conﬁguration ﬁle
+and conﬁrm. In settings, search for something
+called "Proﬁles" or "VPN and certiﬁcates". Install
+the eduroam certiﬁcate and enter your Uni-ID (with
+@uni-bonn.de at the end) and password ﬁve times
+in a row .
+Windows Download the conﬁguration tool and
+open it. Enter your Uni-ID and password. On ﬁrst
+connection, Windows Security might prompt you to
+enter a user and password again, for that use your
+Windows user and password, not your Uni-ID.Linux Download the eduroam python script.
+Open a Terminal and enter this commnand:
+Enter your Uni-Id and password when prompted.
+Caution! Some Linux systems throw an error,
+saying they are missing wpasupplicant .Do not
+proceed in this case or your password will be
+saved unencrypted! Instead, go to the IT-Helpdesk
+(see below), they have a di/uniFB00erent script with a
+workaround.
+Alternative: Manual Setup If the above tools
+fail, you can set up eduroam manually. This is not a
+recommended method though.
+For this, you need the matching CA cer-
+tiﬁcate. You can download it here:
+https://pki.pca.dfn.de/eduroam-ca/pub/cacert/chain.pem
+In your network manager just copy the parame-
+ters below. You might have to change eduroam to
+eduroam-cs (CS building), eduroam-stw (cafeteria)
+oder eduroam-math (maths center).
+SSID eduroam
+Security WPA2 Enterprise
+EAP-Method TTLS
+Phase 2 Authent. PAP
+Certiﬁcate chain.pem
+Anonymous Identity anonymous@uni-bonn.de
+Identity <Uni-ID>@uni-bonn.de
+Password matching your Uni-ID
+Domain rhrz.uni-bonn.de
+Whatifitdoesn’twork?
+In case that you are having trouble setting
+up your eduroam access, you can ﬁnd more
+detailed instructions and useful tips on the
+HRZ website: https://www.hrz.uni-bonn.de/
+en/all-services/internet-network-access/
+wifi-eduroam-reinstallation
+If it still does not work, come by the student body
+o/uniFB03ce or contact the IT-Helpdesk. The latter is open
+monday through friday 8 a.m. to 6 p.m. and can be
+called at 0228 73 2751, e-mailed at info-hrz@uni-
+bonn.de or you can go directly to Wegelerstraße 6.
+For the eduroam-cs (CS building) you might need to
+download a di/uniFB00erent certiﬁcate. It’s called GEANT
+OV RSA CA 4 and can be downloaded on the web-
+site of the GSG.
+26
+--- PAGE 27 ---
+Master-Inform
+sciebo-thecampuscloud
+UniversityCloudStorage
+Sciebo (from SCIEnce and BOx) is a non-
+commercial cloud storage service (similar to Drop-
+box or Google Drive) for research, studying and
+teaching. It is operated by universities and re-
+ceives funds from the NRWăgovernment, with an
+operators guarantee that there is no commercial
+interests. With locations in NRW exclusively, sci-
+ebo is subject to the strict German directives on
+data protection and data security.
+Every student and sta/uniFB00 member of the participat-
+ing universities receives 30 GB storage space. You
+can share your data with other sciebo users or via
+a link with external people.
+Createascieboaccount
+To create a sciebo account, go to sciebo.de and
+register by picking "Universität Bonn" as your or-
+ganisation, log in with your uni-ID (s12xabcd, see
+page 21) and matching password once. Then
+choose a sciebo password. This can (and should)
+di/uniFB00er from the one for your Uni-ID. From now on
+you can log into sciebo with that new password, us-
+ing<your Uni-ID>@uni-bonn.de as your username.
+The account has to be renewed once a year. You
+will receive an e-mail asking you to conﬁrm you still
+study at Uni Bonn.
+Usingsciebo
+There are multiple ways to use sciebo:
+Webinterface The easiest way to use sciebo is via
+your browser. Sciebo o/uniFB00ers a web interface, which
+can be found at uni-bonn.sciebo.de . Just log in
+with the account you just created.
+sciebo via a client Sciebo can be used for exam-
+ple through the nextcloud-Client for Windows, Ma-
+cOS and Linux. You can ﬁnd downloads at sciebo.
+deor using your favourite package manager. In ad-
+dition to that, sciebo can be mapped as a network
+drive via WebDAV .Sharingfilesorfolderswithothers
+If you are using sciebo in a browser you can go to
+ﬁleview and click on the symbol
+ . There’s two op-
+tions: Either you share the ﬁle with a speciﬁc Uni-
+ID (the other person must have a sciebo account)
+or via a link. In the latter case the other person
+does not need a sciebo account, everyone with the
+link will be able to access the ﬁle(s). Don’t worry
+though, you can put a password and/or expiry date
+on the link.
+Editingdocumentsinbrowser
+When using sciebo in browser you can edit doc-
+uments, presentations or spreadsheets from Mi-
+crosoft O/uniFB03ce or Libre O/uniFB03ce directly in browser.
+In theory you can also work simultaneously with
+other users in this way, but the features are rather
+minimalistic. For projects where you need to work
+in real-time with you fellow students on a ﬁle we
+recommend using products specialized for that in-
+stead, the sciebo editor is just not technologically
+mature enough yet.
+�https://sciebo.de/en/index.html
+�https://www.sciebo.de/en/help/
+�https://www.sciebo.de/en/help/
+index.html
+�https://uni-bonn.sciebo.de/Weblinks
+27
+--- PAGE 28 ---
+Inform #4
+StudentTransitTicket
+To use your semester ticket, you need the Uni Bonn App andyour valid photo ID card or passport!
+If you don’t carry both, your ticket is invalid. It’s a personalised ticket.ImportantNotes
+The Uni Bonn App also contains your transit ticket
+for Germany. It is valid in the whole country and
+much cheaper than if you would buy one by your-
+self, due to all students receiving one. It still makes
+up most of your social dues. Even if you do not in-
+tend to use it, you have to pay for it, but in case you
+have trouble paying for it or due to special circum-
+stances, you may be eligible for a refund.
+�www.asta-bonn.de/StuditicketWeblinks
+WhatcanIdowithit?
+In general, you can use all trains, trams, sub-
+ways and busses in Germany. Exempt are long-
+distance trains of the categories ICE (InterCity-
+Express), IC (InterCity), EC (EuroCity), FLX (Flix-
+Train) or Thalys, for example. You also may not use
+the ﬁrst class, not even by paying an additional fee.
+Whatisthemobilityguarantee
+(“Mobilitätsgarantie”)?
+In public transit in NRW you have the mobility guar-
+antee. This means that, if you are at your start-ing station and over the course of 20 minutes start-
+ing at the planned departure time nothing can get
+you to your planned destination (the next hop, so
+only direct connections count), you can either get
+the costs of a taxi or of a long-distance train re-
+funded. You have to pay in advance and can then
+hand in an application for the refund within two
+weeks. The applications must contain a receipt, so
+keep that in mind. Additional information as well as
+the forms are available here (in German): https:
+//www.mobil.nrw/service/mobigarantie.html .
+Nextbike
+You might have noticed the blue bicycles with a
+QR-code on them. These are rental bikes from
+Nextbike! The University of Bonn has a contract
+with them: If you register in the App with or de-
+posit your ...@uni-bonn.de mail (and verify it) you
+get 30min per day (distributable over multiple ses-
+sions) in Bonn for free. After that you pay 1 eper
+30min (up to 8 eper day).
+Careful : You have to return the bikes in the preas-
+signed areas, else you will be charged a 20 e+ ser-
+vice fee. More information can be found on their
+homepage https://www.nextbike.de/bonn/en/ .
+Most of your lectures and exercises will take place on the Campus Poppelsdorf.
+At the station “Kaufmannstr.”, lines 604 to 607 stop, at the station “Am Botanischen Garten” lines
+601, 602 and 603 stop. All seven lines are main lines that run every 20 minutes (later every 30
+minutes). Into the city, they all go via the central station (Bonn Hauptbahnhof/Bonn Hbf); out of the
+city, they split up.
+At the station “Nußallee” you can take line 632, that also stops at both other stations. This (like all
+bus lines in Bonn that start with 63 ) is a tangential line that does not stop at the central station.
+It only runs every half hour, but it connects the Campus Poppelsdorf with the Campus Endenich.
+To spare you from having to walk to the bus stop, only to learn
+that the next bus doesn’t show for 10 minutes, the screens if front
+of the student body o/uniFB03ce show which buses will arrive next and
+when.
+After 00:00 (12 a.m.), night busses run till 2 a.m. on weekdays or
+the whole night on weekends and public holidays; the N2 at the
+station “Kaufmannstr.” and N5 at “Am Botanischen Garten”.RidingBussesasaComputerScientist101
+28
+--- PAGE 29 ---
+Master-Inform
+Administration
+FirstSteps
+A great place to start is the AStA website. It pro-
+vides you with a lot of useful information, such as
+the AStA-BAföG brochure, a scholarship guide, and,
+if you are ﬁnancially strapped, short loans.
+If you have any questions, you can contact the AStA
+via e-mail, phone or social media. They also do con-
+sultations in person in their container o/uniFB03ces next
+to the cafeteria. The current opening hours of e.g.
+the social deparment or international students de-
+partments are announced on the website as well.
+For international students, there is also the Interna-
+tional O/uniFB03ce of Uni Bonn, whih provides counseling
+related to studies and stay in Bonn.
+BAföG
+Everyone who thinks they might be entitled to re-
+ceive educational support under the Federal Train-
+ing Assistance Act, or BAföG for short, should sub-
+mit an application to the BAföG o/uniFB03ce as soon as
+possible. BAföG is a ﬁnancial support from the
+government for students, of which, however, half
+must be paid back after the completion of studies.
+If you are from the EU or from Norway, Iceland,
+Switzerland or Liechtenstein, you can always apply
+for BAföG. If you are from some other country, there
+are very special regulations regarding BAföG enti-
+tlement. Therefore, it is best to ask the Studieren-
+denwerk directly! If you are not sure, you should
+simply ask and just apply. Better to be safe than
+sorry. If you are entitled to BAföG, you should in
+theory receive money starting from the month of
+application, but it usually takes time to process an
+application. But once accepted, you will get your
+money retroactively.
+So: Submit an informal application or Form 1 of the
+application forms in time, and the application will
+be considered to have been submitted. The forms
+are available at the AStA, as well as at the BAföG of-
+ﬁce. An informal application could look like this: "I
+hereby submit an application for educational fund-
+ing as of dd.mm.yy. I will submit the required doc-
+uments within the next two months. I was born on
+... I have been/will be studying since/as of ... at the
+University of Bonn in the Department of Computer
+Science. Please send me the required documents
+immediately."
+Payments are usually made at the end of each
+month for the next. The amount you receive is
+50 percent an interest-free loan, the other halfyou get as a grant. The maximum duration of the
+grant is based on the expected period of study (4
+semesters/2 years with our Master’s programs), al-
+though there are exceptions to this rule. These can
+include, for example, study visits abroad or com-
+mittee activities such as student council work. The
+continuation of payments after the fourth semester
+is linked to performance records and other require-
+ments. It is therefore worthwhile to get informed.
+For further questions, you can contact the BAföG of-
+ﬁce or the BAföG advice service of the AStA. There
+is also a BAföG calculator on the internet, which
+you can use to calculate how much you might re-
+ceive: https://www.bafoeg-rechner.de/Rechner/
+If you receive BAföG, you can also relieve yourself
+ﬁnancially by applying for exemption from broad-
+casting fees.
+Scholarships
+If you demonstrate above-average performance,
+you can apply for a scholarship. A scholarship
+means ﬁnancial and idealistic support as well as be-
+ing part of a network.
+The Federal Ministry of Education and Research
+promotes 13 scholarships for the gifted. Each
+scholarship is di/uniFB00erent: di/uniFB00erent backgrounds (po-
+litical, religious, independent), di/uniFB00erent goals, dif-
+ferent requirements. But ﬁnancially, they all o/uniFB00er
+the same thing: As a scholarship holder, you receive
+a monthly tuition allowance of 300 euros, and, if
+you are eligible for BAföG, the BAföG rate on top of
+that. In addition, there is a wide range of seminars,
+events and other activities on various topics, which
+are deﬁnitely worthwhile and, if you were to pay
+for them yourself, would cost a lot of money. These
+vary between scholarships, so be sure to compare
+and see which suits you best.
+To get a scholarship, you have to apply and partici-
+pate in a selection meeting. Here you score points
+mainly with your achievements, but also with vol-
+untary and political commitment. Even if you think
+you won’t get it - try anyway, it’s worth it.
+ResidencePermit
+If you are not from the EU, you must apply for a res-
+idence permit after your arrival in Germany. This
+should be done as soon as possible, but in any case
+within the period of validity of your visa, so that you
+do not run the risk of suddenly being in Germany il-
+29
+--- PAGE 30 ---
+Inform #4
+legally. You can apply for a residence permit at the
+foreigners’ o/uniFB03ce in the city where you live.
+At many foreigners’ o/uniFB03ces, it is necessary to book
+an appointment online. Attention: It is possible that
+an interpreter has to be brought along for the per-
+sonal appointment. If you do not speak German,
+you could take a German-speaking fellow student
+with you, for example.
+RegistrationinBonn
+As soon as you have found a room, a visit to one
+of the citizens’ registration o/uniFB03ces is mandatory.
+You should have registered or re-registered there
+no later than two weeks after moving in. Here
+you also have to decide whether you want to reg-
+ister your main residence or secondary residence
+in Bonn. In most cases, the place of study is con-
+sidered the main residence by the Residents’ Reg-
+istration O/uniFB03ce, since students usually spend more
+time there than, for example, with their parents (if
+they live in Germany). However, if your main resi-
+dence is not too far away from Bonn and you state
+that you spend the weekends and semester breaks
+there, you should not have any problems with the
+registration of Bonn as a secondary residence. But
+beware: In Bonn there is now a tax on secondary
+residences, so research the costs in advance.
+Welcomegifts
+If you don’t care where you are registered, you will
+be rewarded by the city if you choose Bonn as your
+main residence with a book of vouchers for e.g.
+theatres, museums and the swimming pool. These
+are only valid in your ﬁrst year though. In addi-
+tion, there is the possibility for students who are
+ﬁnanced by BAföG to apply for the so-called Bonn
+identity card. This also o/uniFB00ers some beneﬁts. Ap-
+plications can be made at the Social Welfare O/uniFB03ce
+in Beuel, in the old Duisdorf Town Hall and in the
+Bad Godesberg Town Hall. For some students, how-
+ever, registering their primary residence in Bonn
+can lead to the loss of a child allowance for their
+parents, depending on their income. So it is best
+to ask around before you make a ﬁnal decision. By
+the way, when registering your residence, you can
+specify that your data may not be passed on to po-
+litical parties (for example, if you do not want to
+receive mail from a party you do not like).
+HealthInsurance
+To study in Germany, you must have health in-
+surance. Note that in Germany there are pub-lic and private health insurance companies. Ex-
+amples of public health insurance companies are
+AOK, BARMER, DAK, HEK, KKH and IKK, but there
+are many more. Membership can often be applied
+for online. If you are from the EU, you can get
+an EHIC European Health Insurance Card from
+your health insurance company in your home coun-
+try, with which you can register with a German
+health insurance company, which will then provide
+an insurance certiﬁcate for the university. Make
+sure that your health insurance covers all treat-
+ment costs in Germany; a health insurance with a
+limitation of the treatment costs or the obligation
+to pay beneﬁts will not be recognized in Germany.
+With all the di/uniFB00erent regulations, it is normal to be
+confused at ﬁrst. Don’t worry and when in doubt,
+just ask your insurance company!
+LanguageCourses
+The Language Center of the University o/uniFB00ers lan-
+guage courses in German for foreign students. Reg-
+istration is done online. If you want to take part you
+have to be quick: Especially the spots in beginners’
+courses are usually booked up very quickly.
+Let’sgo!
+If you want to or have to work while studying, you
+should read up on things like social security obliga-
+tions or the maximum income limit for continuing
+to receive child beneﬁts (see AStA ’s social info).
+So good luck in the jungle of regulations, and don’t
+panic there are a lot of people and places that will
+be happy to help you.
+�https://asta-bonn.de/en
+�https://www.studierendenwerk-bonn.
+de/en/financing/
+�https://www.uni-bonn.de/en/
+studying/international-students
+�https://www.uni-bonn.
+de/en/university/
+organisation-and-institutions/
+university-administration/
+international-officeWeblinks
+30
+--- PAGE 31 ---
+Master-Inform
+AccomodationinBonn
+For most people, the phrase searching for a room may initially sound daunting, but there is no need to
+panic; there are several ways to ﬁnd a comfortable and a/uniFB00ordable room.
+Youwanttoliveinadormroom?
+Firstly, you can apply for a place in one of the 29
+student residences currently run by the Studieren-
+denwerk, which o/uniFB00er a total of almost 4,000 places.
+However, it is best to ﬁnd out as much as you
+can about the respective halls of residence, as the
+apartments and their facilities vary greatly: for ex-
+ample, there are apartments with their own kitchen
+and bathroom or rooms where you have to share
+both with other students. Double rooms and apart-
+ments are not necessarily what you might expect:
+here, you share the kitchen or kitchen and bath-
+room with only one other student. The location is
+also important. Tannenbusch or Bad Godesberg are
+not recommended for everyone, as these districts
+are said to have higher crime rates.
+All student residences in Bonn are now connected
+directly to the university network and thus also to
+the Internet via ﬁber optic cables. This allows users
+to surf at speeds of 1,000 megabits per second for
+both uploads and downloads. It is important to note
+that only LAN is available in the residences and that
+you must purchase your own router if you want to
+use Wi-Fi.
+Foto: Studierendenwerk Bonn
+Information about the individual residences and the
+application documents can be found on the Student
+Services website (see below).
+After submitting your application, you will hope-
+fully receive an apartment o/uniFB00er soon (realistically,
+this can take 4-6 months). Your lease is usually
+limited to three years, but can be easily extended
+for another year at the student union. Those who
+are involved in the student council or other uni-
+versity politics will receive an additional six-month
+contract extension for each semester in o/uniFB03ce. Therespective chairpersons will issue you with a cer-
+tiﬁcate for this. The same applies if you take on a
+mentoring role in a dormitory, but for this you must
+be elected at the general meeting.
+Offersfromthecity,universityandAStA
+Zimmer frei?! (Room available?!) is a joint cam-
+paign by student councils, universities, the federal
+city of Bonn, the Rhein-Sieg district, and a num-
+ber of partner institutions that have joined forces
+to create student housing.
+Here you may ﬁnd apartment listings that are not
+yet available on the relevant portals. The listings
+can be ﬁltered by apartment / shared apartment /
+short-term accommodation, price, and size.
+Foto: Studierendenwerk Bonn
+Thefreehousingmarket
+Experience shows that the situation on the housing
+market becomes signiﬁcantly more di/uniFB03cult shortly
+before the start of the semester. That’s why you
+should start looking for accommodation as early as
+possible. If you end up paying rent a month early,
+it’s peanuts compared to what you might other-
+wise pay for a more expensive room rented at the
+last minute. However, as the start of lectures ap-
+proaches, it may be worth taking a small or expen-
+sive room ﬁrst, rather than having none at all. It
+is important not to lose heart: ﬁnding accommoda-
+tion can be very di/uniFB03cult and sometimes take weeks
+or months, or even up to a year, depending on your
+individual budget and preferences. But if you keep
+at it, you will deﬁnitely ﬁnd the right place sooner
+or later!
+For anyone who wants to try their luck on the open
+housing market, here are a few places to start:
+31
+--- PAGE 32 ---
+Inform #4
+On Mondays, Wednesdays, and Fridays, check the
+classiﬁeds in the General-Anzeiger, the Bonner
+Anzeigenblatt (Wednesdays and Saturdays), WG-
+Gesucht, the Schnüss with WG o/uniFB00ers, and, of
+course, the countless bulletin boards in the cafete-
+rias, cafés, and institutes. eBay Kleinanzeigen also
+has a section for rental requests and o/uniFB00ers. The
+Studierendenwerk also o/uniFB00ers a free room referral
+service. You can either call them (see address sec-
+tion) or browse through the folders available there
+to ﬁnd suitable rooms or apartments. It can also
+be helpful to tell acquaintances and friends that
+you are looking for a room / apartment. Sometimes
+rooms / apartments are rented without being ad-
+vertised, or contacts can give you an advantage in
+getting shortlisted. Foreign students who are likely
+to study in Germany for a longer period of time are
+best advised to contact the International O/uniFB03ce.
+Foto: Studierendenwerk BonnSome things to watch out for: In Germany, rent-
+ing with furniture or even a kitchen is not the de-
+fault. If you do not want to bring your own, look for
+the keyword "möbliert" (furnished). One common
+trick here is the kitchen. A lot of the time, there is
+a kitchen owned by the person renting before you
+that you can have at a usually overpriced rate. The
+idea is that among multiple applicants, the person
+willing to pay for that gets the appartment. Always
+assess the kitchen quality carefully and ask if you
+may rent without taking the kitchen.
+�https://www.wg-gesucht.de/en/
+�https://www.studierendenwerk-bonn.
+de/en/accommodation/
+�https://housinganywhere.com/?utm_
+source=StudentenWGWeblinks
+Barsandculinarydelights
+Now that we have brought you closer to everything
+you need to know about studying, there is another
+list for you. This one is special, though because it
+only deals with your physical well-being.
+No matter whether you have a nice meal with
+your partner, partying through the night or going
+through the pubs with friends, here you will ﬁnd
+the most important pubs, clubs and culinary places
+in Bonn.
+By and large, most of the spots focus on two areas:
+the "old town" (Altstadt) and the city center.
+”OldTown”(Altstadt)
+Bonn’s old town shines with its charm through old,
+small streets, old, small houses and of course old,
+small pubs. The best way to ﬁnd something suitable
+here: Just try it out! The pubs are all so close toeach other that nothing stands in the way of stum-
+bling happily from pub to pub.
+A good way to start exploring is by begin a tour at
+the intersection Maxstraße-Breite Straße. Right at
+the corner lies the Kult Kiosk that o/uniFB00ers a nice
+place to meet up. You can then continue to work
+your way through either along Maxstraße or Breite
+Straße and you will ﬁnd a bunch of bars to the left
+and right. The following is a small selection that by
+no means claims to be complete and does not have
+to be perfect for everyone - but it does o/uniFB00er a good
+overview of the old town.
+TheBabel is a small pub on Breite Straße, deep in
+the heart of the old town. Typical for pubs they o/uniFB00er
+Kölsch, Pils, wheat beer and a football table. Sim-
+ilar pubs near to this one are the Embassy , which
+o/uniFB00ers spicy Mexikaner shots as well as Tequila, and
+32
+--- PAGE 33 ---
+Master-Inform
+theSteinbeck , a good place to try out di/uniFB00erent
+Whiskeys and Rums.
+ThePinte is, like the Babel, a small pub. In addition
+to the usual stu/uniFB00 there are di/uniFB00erent polish beers
+and Schnapps here. Not generously spacious, but
+pretty cozy.
+TheFlynn’s Inn is a small Irish pub on Wolfstrasse.
+In addition to Irish beer (Guinness and co.) there is
+ahuge selection of Whiskeys from Ireland, Scotland
+and England.
+Another notable Irish pub is the Dubliner . This
+pubs specialty are regular events like live-music.
+Also, very popular are karaoke nights on saturdays
+and sundays. One of its highlights is the Dop-
+pelmittwoch (double wednesdays) with pub quiz
+as well as karaoke until very late at night.
+One popular venue for international students is the
+BillaBonn which o/uniFB00ers good beer, cheap cocktails,
+many tables as well as a lot of space infront of the
+pub. At the same intersection lies the Tresor , of-
+fering Metal/Hardrock/Alternative music as well as
+caribbean cocktails at Coco Mango .
+For all music fans, instead of going to the Tre-
+sor, the nearby Musiktruhe andStachel could
+be a good place to visit. While the Musiktruhe
+shines with CD-Rock, Darts and Pool, the Stachel
+o/uniFB00ers basement charme, sitting on bricks, listening
+to loud music and ordering extremely cheap drink
+specials. Old school!
+TheFrittebud is the best place to go for food in the
+old town (and generally a very good one for all of
+Bonn). They o/uniFB00er burgers (also vegetarian), Curry-
+wurst, di/uniFB00erent salads and of course french fries.
+Right next to it lies the more left-leaning/alterna-
+tiveBla which has regular events ranging from
+Live Punk to Stand-up comedy.
+CityCenter
+As soon as you step out of the small, narrow streets
+of the old town, the locations also get bigger, more
+ornate and - how could it be otherwise - more ex-
+pensive. However, the prices in Bonn are consis-
+tently relatively mild, especially compared to huge
+party strongholds like Cologne.
+TheTacos is a Mexican cocktail bar near Bertha-
+von-Suttner-Platz. Accordingly, there is Mexican
+food - burritos, tacos, nachos, quesadillas - and
+cocktails. You should be careful between 10pm and
+11pm - there is neither the happy hour that takes
+place all day before, where all cocktails only cost
+half, nor the jumbo hour that starts afterwards,
+from which the big cocktails cost half.There is also an Irish pub in the city center, the
+James Joyce . It is centrally located near the
+Kaufhof and has the usual Irish pub repertoire.
+Much like the Dubliner, the James Joyce is also
+known for its very long opening hours.
+Pendel and Cartoon are two shops on Frieden-
+splatz that o/uniFB00er everything . The menu and drinks
+menu is so large that it is di/uniFB03cult to highlight in-
+dividual items, and the quality is consistently good.
+Only thing is that the waiting time for the waiters
+to come by can be a bit longer every now and then.
+Another notable venue at Friedensplatz is the Sud-
+haus . It o/uniFB00ers traditional local rhineland cuisine
+as well as a weekly modern menu. The portions are
+quite large, the price moderate and there are al-
+ways changing vegetarian options.
+Also near the Friendesplatz is the Bönnsch - a clas-
+sic brewery that brews its own beer: the epony-
+mous Bönnsch. The brewing method is similar to
+a Kölsch, but the taste is clearly distinct - it’s with-
+out a doubt worth trying. The food is also typical
+rhineland brewery stu/uniFB00, but vegetarians can also
+ﬁnd something here.
+The place to go if you’re hungry at night, when the
+Frittebud has long since closed, Calador . By now
+it has two branches, one at the central station and
+one at Friedensplatz, it o/uniFB00ers cheap and fast pizza.
+If you are a pizza snob though: don’t come here.
+Calador pizza kills hunger and prevents hangover,
+that’s about it.
+If you’d like a proper pizza or other Italian food, the
+Tusculo o/uniFB00ers a wide and, above all, delicious se-
+lection. The Tusculo also has several locations, the
+largest is the Tusculo Münsterblick near the epony-
+mous minster.
+Of course, there are also great opportunities to go
+out beside these two hot -spots, and as I said, the
+best way is to simply get active here and try out for
+yourself what you like and where. This list should
+get you started anyway.
+33
+--- PAGE 34 ---
+Inform #4
+Clubs
+Bonn’s club scene is, politely said, quite meek
+and unbelievably shrinked even further during the
+Covid pandemic. The already mentioned Dubliner
+o/uniFB00ers a nice atmosphere often late into the night. If
+you like latin-dances, the tanzbar at Oxfordstraße
+is your place to visit. Actual clubs like the Carpe
+noctem (short Carpe ) plays a wide range of music
+and often has free welcome shots as well as drink
+specials. The popular club duo around here is the
+N8schicht andN8lounge , whose ﬂoors are con-
+nected to each other with a door. Especially the
+proximity to Frittebud and the wide range of gen-
+res make this worth a visit.
+If you’re looking for the real deal nightlife, you
+sadly must go to Cologne.Joners’insidertips
+If you’re looking for good food during daytime and
+the Mensa is already closed or o/uniFB00ers one of its infa-
+mous and devoid of spices curry variations, here is
+a short list of personal recommendations. Some of
+these are quite near the computer science institute,
+so give them a try:
+Chinese: Tak Kee (Hong Kong), LeDu (Sichuan,
+only place for good hot pot!), Dim Sum (Canton).
+Indian: Mogul, Namaste, Royal India.
+Vietnamese: Hoi An, Cay Tre.
+Korean: Eller-Asia Shop (Only lunch!)
+Mexican: Café Especial, Tacos, Sausalitos.
+Burgers: Atawich, Bonnanza.
+Italian: Tuscolo, Nennillo.
+Polish: Restauracja Polonia.
+Döner: Agora bei Schatzi, Sefa, Serhat.
+German brewery cuisine : Salvator, Bönnsch.
+Freetime
+Experienceculture
+As a student of the University of Bonn you
+automatically have the Kulturticket of the
+AStA. With it you can go to theatres and mu-
+sicals for only 3 e, to many of Bonn’s museums
+for free and for 2,50 eto events of the Liter-
+aturhaus. Just show your student card at the
+box o/uniFB03ce! https://asta-bonn.de/de/referate/
+referat-fuer-kultur-und-studentische-initiativen/
+kulturticket-1
+Createculture
+There are a bunch of self-governed cultural groups
+at uni Bonn and a lot of them will be happy to wel-
+come you as their member. How about, for ex-
+ample making music with the university orchestra,
+jazz choir or the big band, or playing theatre with
+the Bonn University Shakespeare Company? For
+rhetoric artists, the university also has its own de-
+bating club!
+https://www.uni-bonn.de/de/universitaet/
+unileben/forum-musik/ensembles https://busc.
+de/ https://debattierclub-bonn.de/In addition to these groups, there are of course
+many more. You can ﬁnd a full list at the ASta home-
+page.
+https://asta-bonn.de/de/service/studentische-gruppen
+The spectrum of student groups is quite big, rang-
+ing from cultural topics through society and poli-
+tics, as well es social engagement.
+Beingoutside
+Bonn o/uniFB00ers many opportunities to be out in nature.
+Whether you like spending a relaxing afternoon in
+the Hofgarten, jogging through the Rhine meadows
+in the morning or taking a hike up to the Drachen-
+fels.
+https://hikingsocietybonn.wordpress.com/
+https://www.radius.uni-bonn.de/
+UniveritySports
+The university sport o/uniFB00ers students both the Halle5
+gym and a wide range of courses in and around
+Bonn. Whether athletics, team sports, martial arts
+or dance, here you’ll ﬁnd over 90 di/uniFB00erent sports
+at low student rates.
+https://www.sport.uni-bonn.de/
+34
+--- PAGE 35 ---
+Master-Inform
+WeirdGermany
+Weirdidiomsandwords
+"Kannst du das Fenster auf Kippe stellen?"
+Tilt Windows. In Germany, you can put your Win-
+dow on "kipp". "Kipp" means tilt in colloquial Ger-
+man and is quite widely spread throughout the
+country.
+"I have a shooting this weekend." Don’t run
+calling 110. (911’s German cousin) It’s not what
+you think! A shoot for ﬁlm or photo is called a shoot-
+ing.
+Handy It’s not what you think! It’s just a cell-
+phone/smartphone. Germans tend to forget that
+this word is German.
+Mobbing It’s not particularly a crowd of people,
+the maﬁa or an angry crowd. This is the German
+word for bullying.
+Mail Don’t go running to the next post-o/uniFB03ce
+when you are asked to send something by mail.
+Germans seem to have found E-Mail to be too long
+of a word and just say mail.
+To toast or not to toast? If someone o/uniFB00ers you a
+toast, it doesn’t have to mean that your bread was
+toasted. White bread that is usually used to make
+a toast is also called toast when not toasted. In Ad-
+dition if a German wants bread it’s very likely they
+don’t want white bread because they have humon-
+gous varieties of breads.
+Tab water In Germany, you can drink the tab wa-
+ter and save money. It has a good to very good qual-
+ity all throughout the country. Even most sold bot-
+tled water is just tab water from a speciﬁc region.
+Waste sorting Germans take recycling seriously.
+Here are some basic guidelines: we have four main
+garbage bins
+•the blue bins ("Papiermüll") for clean paper
+•the yellow bins ("Plastikmüll") for plastic,
+metal and packaging with the green recycling
+dot
+•the green bins ("Biomüll") for anything veg-
+etable, egg shells, ﬂowers. But no meat or
+ﬁsh and no cooked food
+•the grey bins ("Restmüll") for the rest of the
+household waste.You can get more details here: https://www.
+bonnorange.de/en/service/private-individuals/
+waste-bins-and-the-like/overview .
+"Wie geht es dir?" If you ask a German "Wie geht
+es dir?" (How are you?), it’s likely they tell you how
+they are really. For us it’s not just a phrase.
+Pfand Most plastic and glas bottles are return-
+able bottles. You pay 8, 15 or 25 Cents for them,
+which you get back when you return at a special
+machine at the grocery store. It does not have to
+be the same store you bought them at, any store
+should work.
+Whileoutandabout
+How to tip : Well, there is no set percentage for
+this in Germany. While 10% is the nice usual, but
+you are not obliged to pay this. Waiters wages don’t
+depend on tips here, they are just a way of showing
+appreciation for good service.
+When out with Germans , it is usual that every-
+one will pay their own drinks and food. A waiter
+will usually ask whether you want to split the bill
+or not („Zusammen oder getrennt?”) and will give
+you individual bills. Sometimes even on dates. Be
+clear on your invite so there is no misunderstand-
+ing.
+Reﬁll In Germany, you won’t get a free reﬁll for your
+drinks. The sold tab water is also not really tab, but
+bottled water and not on the house.
+Why is your bartender scribbling on your beer-
+mat? : When a barkeeper has a full house in a pub,
+they sometimes draw lines on beermats to keep
+count on how many drinks you have already had.
+They usually also keep track with a computer pro-
+gram, but better safe than sorry.
+Cheers : You are out drinking with your German
+friends. You get your drinks and want to clink
+glasses saying cheers, but your companions seem
+to stare at you? Well, Germans consider it to be
+35
+--- PAGE 36 ---
+Inform #4
+bad luck not to look into each other’s eyes when
+clinking glasses. Germans ﬁnd this weird too, but
+do it nevertheless - sometimes staring extra directly
+for ironic e/uniFB00ect.
+Going by public transportation : In most cases
+you don’t have to show you ticket upon entering,
+only when inspectors or the driver ask for it. In
+small towns or during less busy hours, like at night,
+you might be expected to show it upon entering
+though. Rule of Thumb: if the (bus)driver opens
+only the front door, have your ticket ready. (more
+info: p. 28)
+BonusRound-TheRhinelandSpecial
+People in the Rhineland become "Jeck" (weird,
+crazy) for a few weeks every year. This is due to
+the "Karneval" (carnival). The so declared ﬁfth sea-
+son starts on November 11th at 11 past 11 o’clock
+(on 11.11. at 11:11). That’s when you will see your
+ﬁrst "Jecks" running around. The real big celebra-
+tion starts on "Weiberfastnacht" (Women’s Shrove-tide) which is usually the Thursday, and peaks on
+"Rosenmontag" (Rose Monday), the Monday before
+Ash Wednesday.
+Be aware that you may be greeted with "Alaaf",
+asked for a "Bützchen/Bützje" meaning kisses
+(which you can decline), encounter highly intoxi-
+cated people in weird costumes and parades called
+"Karnevalszüge" where people throw candy and
+small ﬂower bundles (called "StrüSSche") to the
+masses. If you don’t want to partake, go on va-
+cation, stay inside or just watch the masses from
+the sideline for fun. There will usually be informa-
+tion available online and in newspapers on when
+and where the parades and big events are going
+on, so you can easily ﬁnd or avoid them, but there
+will also be stray groups in streets and pubs.
+Whether you like Karneval or not, this is the best
+time to ﬁnd cheap costumes and strange deco-
+rative items in stores all around you and - most
+importantly - try the seasonal baked goods (e.g.
+"Berliner" with various ﬁllings).
+Dictionary
+Your courses are held in English, and usually all of-
+ﬁces can communicate in English as well. Still, you
+will encounter information that is only available in
+German, whether that may be due to someone for-
+getting to translate it, not having the knowledge
+or ressources to do that or because they might not
+even think about it. Therefore, it still might be use-
+ful to know a little bit of German.
+LanguageCourses
+The university o/uniFB00ers a few language courses for in-
+ternational students, but they are, like all language
+courses, much sought after. If you are able to get
+into one of these courses, you will be able to get the
+A1 certiﬁcate for German by completing the course
+and the exam at the end. The admission time for
+these courses however usually is well before the be-
+ginning of the semester, therefore you can not sign
+up for it in your ﬁrst semester.
+If you cannot get into one of these courses, the uni-
+versity also has a partnership with Rosetta Stone.
+You can get free access to this language learning
+platform by registering with your university email
+using the steps explained here: https://hbza0-c1.
+sprachen-online.eu/formÄ,Ö,Ü,andß
+You have probably noticed one of the four letters
+above. The ﬁrst three are called umlauts (from Ger-
+man Umlaut), the last is called Eszett (SZ) or schar-
+fes S. If you do not have these on your keyboard,
+you can transcribe them, using the following rules:
+Ä!Ae
+ä!ae
+Ö!Oe
+ö!oe
+Ü!Ue
+ü!ue
+ß!ss
+This may lead to ambiguities (especially around ß
+and ss), but usually it is clear from the context.
+There also exists a capital ß, though it is only used
+for completely capitalised text as the ß never starts
+a word.
+36
+--- PAGE 37 ---
+Master-Inform
+Smalldictionaryofuniversitywords
+If you ever have trouble understanding something,
+you can ask us. However, we thought it might be
+useful to provide you with a few words that you will
+encounter during your time at the university.
+Additionally, we provide our own glossary
+(with common abbreviations to German univer-
+sity words), which is available here: https:
+//www.fachschaft.info/en/studienbeginn/
+hochschulwoerterbuch/
+Dictionary
+AStA Allgemeiner Studierendenausschuss (gen-
+eral student’s committee) 4.
+BASIS Bonner aktuelles Studieninformationssys-
+tem, the course catalog and student manage-
+ment system of the University of Bonn 24.
+CIP-Pool Computer Pools 21.
+computer science Informatik.
+course catalog Vorlesungsverzeichnis 24.
+credit point Leistungspunkt 13.
+doctor’s note Attest (für Prüfungsunfähigkeit)
+13.
+ECTS European Credit Transfer System 11, 13 20.
+examination o/uniFB03ce Prüfungsamt 13.
+FSR Fachschaftsrat (student coucil) 4.
+FSV Fachschaftsvertretung (student assocation
+representatives) 4.
+GSG Gemeinsame Systemgruppe (shared system
+group), the technical administration of the in-
+stitute of computer science 21.HRZ Hochschulrechenzentrum (university com-
+puting centre), the technical administration
+of the university 21.
+improvement exam Verbesserungsversuch 13.
+lecturer Dozent (male), Dozentin (female), Dozen-
+ten/Dozierende (pl. all).
+library Bibliothek.
+MNL Abteilungsbibliothek für Medizin, Naturwis-
+senschaften und Landbau der Universitäts-
+und Landesbibliothek Bonn (department li-
+brary for medicine, science and agriculture
+of the university and state library Bonn), the
+department of the library that is on Campus
+Poppelsdorf and holds most of the books for
+computer science.
+NRW Nordrhein-Westfalen (Northrhine-Westphalia),
+the state the university is inside. Germany is
+split into 16 states which have some auton-
+omy, NRW is the largest by population.
+post-exam review Klausureinsicht 13.
+registrars o/uniFB03ce Studierendensekretariat.
+SPStudierendenparlament (student parliament)
+4.
+student body Fachschaft 4.
+ULB Universitäts- und Landesbibliothek Bonn
+(university and state library Bonn), the main
+library of the university.
+VRS Verkehrsverbund Rhein-Sieg (transit network
+Rhine-Sieg), the local transit authority around
+Bonn 28.
+WG Wohngemeinschaft (ﬂat share) 31.
+37
+--- PAGE 38 ---
+Inform #4
+Acknowledgements
+It takes a lot of time and e/uniFB00ort to create a pub-
+lication like this. It can’t be taken for granted to
+contribute in your free time to a project like this.
+Therefore we are very thankful to everyone that
+helped writing, proofreading and editing:
+Michael Kaibel, Joners Cremer, Yannick Sprenger,
+Jo Weber
+...and everyone else who criticized or brought new
+ideas to the table.
+Creative Work We also want to thank the helpers
+of the creative part of the Master-Inform, namely
+with creating the cover of this issue:
+Bettina Esser
+Cover Images Lower right corner: Nils Dengler
+All other images: Volker Lannert / Uni Bonn
+Authors Not to be forgotten are of course all
+those who have written articles in the past and
+made them available to us.
+The Student Body The members of the student
+body work all year round to support all students ofthe institutes. We want to thank them for the time
+and e/uniFB00ort that they have put in to making all of this
+possible.
+We want your help! If you ﬁnd errors or missing
+information, or if you have any suggestions on how
+to improve this magazine, we would be very happy
+to receive your email to inform@fachschaft.info !
+Publisher:
+Fachschaft Informatik an der Rheinischen
+Friedrich-Wilhelms-Universität Bonn
+Editorial Address:
+Redaktion Inform
+c/o Fachschaft Informatik
+Friedrich-Hirzebruch-Allee 5
+53115 Bonn
++49 228 73-4317
+inform@fachschaft.info
+https://www.fachschaft.info
+Responsible i. S. d. P .:
+Bettina Esser
+Friedrich-Hirzebruch-Allee 5
+53115 Bonn
+Editorial O/uniFB03ce:
+Bettina Esser,
+Paria Gha/uniFB00ariPrinting:
+Techniker Krankenkasse
+Advertisment:
+Techniker Krankenkasse
+Issue:
+80 Exemplare
+Date of Publication:
+Oktober 2025
+Disclaimer:
+We are grateful for unsolicited texts and letters
+to the editor, but we do not take any responsi-
+bility. Articles identiﬁed by name do not neces-
+sarily reﬂect the opinion of the entire editorial
+team. The editors reserve the right to reprint
+and shorten letters to the editor.Impressum
+38
+--- PAGE 40 ---
+0.0200.0200.0190.019
+0.1080.108
+0.1070.1070.1090.109
+LegendeLegende
+TreppenhausStaircase
+ToilettenRestrooms
+LernraumLearning space
+SeminarraumSeminarroom
+FachschaftStudent Body Oﬃce
+PrüfungsamtExaminationoﬃce
+Kartendesign © Benedikt Bastin. Kartendaten © OpenStreetMap-Mitwirkende. Icons by Sander Baumann, CC-BY-3 © 2009Kartendesign © Benedikt Bastin. Kartendaten © OpenStreetMap-Mitwirkende. Icons by Sander Baumann, CC-BY-3 © 2009
+U1.108U1.108
+U1.105U1.105U1.043U1.043U1.042U1.042U1.041U1.041U1.040U1.040U1.039U1.039U1.029U1.029 U1.028U1.028 U1.027U1.027U1.026U1.026U1.012U1.012
+LegendeLegende
+TreppenhausStaircase
+ToilettenRestrooms
+LernraumLearning space
+SeminarraumSeminarroom
+CIP-PoolCIP-Pool
+Kartendesign © Benedikt Bastin. Kartendaten © OpenStreetMap-Mitwirkende. Icons by Sander Baumann, CC-BY-3 © 2009Kartendesign © Benedikt Bastin. Kartendaten © OpenStreetMap-Mitwirkende. Icons by Sander Baumann, CC-BY-3 © 2009Friedrich-Hirzebruch-Allee6–8
