@@ -5,14 +5,14 @@
       {
         "type": "Lecture",
         "day": "Fri",
-        "time": "2:00 PM - 4:00 PM c.t.",
+        "time": "14:00 - 16:00",
         "room": "Hörsaal 4, Friedrich-Hirzebruch-Allee 5"
       },
       {
-        "type": "Exercise",
+        "type": "Tutorial",
         "day": "Mon",
-        "time": "4:00 PM - 6:00 PM c.t.",
-        "room": "Hörsaal 2, Friedrich-Hirzebruch-Allee 5"
+        "time": "16:00 - 18:00",
+        "room": "TBD"
       }
     ]
   },
@@ -22,8 +22,38 @@
       {
         "type": "Lecture",
         "day": "Tue",
-        "time": "2:00 PM - 4:00 PM c.t.",
-        "room": "Hörsaal 7, Friedrich-Hirzebruch-Allee 5"
+        "time": "14:00 - 16:00",
+        "room": "Hörsaal 7, Friedrich-Hirzebruch-Allee 5 - Hörsaalzentrum"
+      },
+      {
+        "type": "Exercise",
+        "day": "Wed",
+        "time": "08:00 - 10:00",
+        "room": "Seminarraum 0.011, Friedrich-Hirzebruch-Allee 5"
+      },
+      {
+        "type": "Exercise",
+        "day": "Wed",
+        "time": "10:00 - 12:00",
+        "room": "Seminarraum 0.011, Friedrich-Hirzebruch-Allee 5"
+      },
+      {
+        "type": "Exercise",
+        "day": "Wed",
+        "time": "14:00 - 16:00",
+        "room": "Seminarraum 0.011, Friedrich-Hirzebruch-Allee 5"
+      },
+      {
+        "type": "Exercise",
+        "day": "Thu",
+        "time": "08:00 - 10:00",
+        "room": "Seminarraum 0.011, Friedrich-Hirzebruch-Allee 5"
+      },
+      {
+        "type": "Exercise",
+        "day": "Thu",
+        "time": "10:00 - 12:00",
+        "room": "Seminarraum 0.011, Friedrich-Hirzebruch-Allee 5"
       }
     ]
   },
@@ -111,6 +141,28 @@
           "Prof. Dr. Heiko Röglin"
         ],
         "room": "Hörsaal 7, Friedrich-Hirzebruch-Allee 5 - Hörsaalzentrum"
+      },
+      {
+        "type": "Exercise",
+        "day": "Thu",
+        "time": "10:00 AM - 12:00 PM s.t.",
+        "start_date": "Apr 16, 2026",
+        "end_date": "Jul 23, 2026",
+        "lecturers": [
+          "Prof. Dr. Heiko Röglin"
+        ],
+        "room": "Seminarraum 2.050, Informatik V"
+      },
+      {
+        "type": "Exercise",
+        "day": "Thu",
+        "time": "2:00 PM - 4:00 PM s.t.",
+        "start_date": "Apr 16, 2026",
+        "end_date": "Jul 23, 2026",
+        "lecturers": [
+          "Prof. Dr. Heiko Röglin"
+        ],
+        "room": "Seminarraum 2.050, Informatik V"
       }
     ]
   },

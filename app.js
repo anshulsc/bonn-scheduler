@@ -686,7 +686,10 @@ function renderPlanner() {
       html += `<div class="pg-cell ${isConflict ? 'pg-conflict' : ''}">`;
       evts.forEach(ev => {
         html += `<div class="pg-event" style="--event-color: ${ev.color}; background: ${ev.color}11" onclick="openModal('${ev.course.id}')">
-          <div class="ev-code">${ev.course.code}</div>
+          <div style="display:flex; justify-content:space-between; align-items:flex-start; margin-bottom:2px;">
+            <div class="ev-code">${ev.course.code}</div>
+            <span class="sev-type sev-type-${ev.slot.type.toLowerCase()}">${ev.slot.type}</span>
+          </div>
           <div class="ev-name">${ev.course.name.substring(0, 25)}${ev.course.name.length > 25 ? '…' : ''}</div>
           <div class="ev-room">${ev.slot.room ? ev.slot.room.split(',')[0] : ''}</div>
         </div>`;

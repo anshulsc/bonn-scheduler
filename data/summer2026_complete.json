@@ -485,6 +485,18 @@
           "time": "12:00-14:00",
           "type": "Lecture",
           "room": "Hörsaal 7, Friedrich-Hirzebruch-Allee 5 - Hörsaalzentrum"
+        },
+        {
+          "day": "Thu",
+          "time": "10:00-12:00",
+          "type": "Exercise",
+          "room": "Seminarraum 2.050, Informatik V"
+        },
+        {
+          "day": "Thu",
+          "time": "14:00-16:00",
+          "type": "Exercise",
+          "room": "Seminarraum 2.050, Informatik V"
         }
       ],
       "basisId": "614312130",
@@ -2787,16 +2799,40 @@
       ],
       "schedule": [
         {
-          "day": "Mon",
-          "time": "10:00-12:00",
+          "day": "Tue",
+          "time": "14:00-16:00",
           "type": "Lecture",
-          "room": "Hörsaal 2"
+          "room": "Hörsaal 7, Friedrich-Hirzebruch-Allee 5"
+        },
+        {
+          "day": "Wed",
+          "time": "08:00-10:00",
+          "type": "Exercise",
+          "room": "Seminarraum 0.011, Friedrich-Hirzebruch-Allee 5"
+        },
+        {
+          "day": "Wed",
+          "time": "10:00-12:00",
+          "type": "Exercise",
+          "room": "Seminarraum 0.011, Friedrich-Hirzebruch-Allee 5"
+        },
+        {
+          "day": "Wed",
+          "time": "14:00-16:00",
+          "type": "Exercise",
+          "room": "Seminarraum 0.011, Friedrich-Hirzebruch-Allee 5"
+        },
+        {
+          "day": "Thu",
+          "time": "08:00-10:00",
+          "type": "Exercise",
+          "room": "Seminarraum 0.011, Friedrich-Hirzebruch-Allee 5"
         },
         {
           "day": "Thu",
           "time": "10:00-12:00",
           "type": "Exercise",
-          "room": "Seminarraum 2.025"
+          "room": "Seminarraum 0.011, Friedrich-Hirzebruch-Allee 5"
         }
       ],
       "basisId": "",
@@ -3455,6 +3491,12 @@
           "time": "12:00-14:00",
           "type": "Lecture",
           "room": "Hörsaal IV, Meckenheimer Allee 176"
+        },
+        {
+          "day": "Fri",
+          "time": "14:00-16:00",
+          "type": "Exercise",
+          "room": "Hörsaal IV, Meckenheimer Allee 176"
         }
       ],
       "basisId": "614342350",
@@ -3572,6 +3614,12 @@
           "time": "14:00-16:00",
           "type": "Lecture",
           "room": "Hörsaal 4, Friedrich-Hirzebruch-Allee 5"
+        },
+        {
+          "day": "Mon",
+          "time": "16:00-18:00",
+          "type": "Tutorial",
+          "room": "TBD"
         }
       ],
       "basisId": "614342420",
