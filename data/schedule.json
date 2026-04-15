@@ -529,6 +529,17 @@
           "Prof. Dr. Jürgen Gall"
         ],
         "room": "Hörsaal 3, Friedrich-Hirzebruch-Allee 5 - Hörsaalzentrum"
+      },
+      {
+        "type": "Lecture",
+        "day": "Fri",
+        "time": "10:00 AM - 12:00 PM c.t.",
+        "start_date": "Apr 17, 2026",
+        "end_date": "Jul 24, 2026",
+        "lecturers": [
+          "Prof. Dr. Jürgen Gall"
+        ],
+        "room": "Hörsaal 3, Friedrich-Hirzebruch-Allee 5 - Hörsaalzentrum"
       }
     ]
   },

@@ -1471,6 +1471,12 @@
           "time": "10:00-12:00",
           "type": "Lecture",
           "room": "Hörsaal 3, Friedrich-Hirzebruch-Allee 5 - Hörsaalzentrum"
+        },
+        {
+          "day": "Fri",
+          "time": "10:00-12:00",
+          "type": "Lecture",
+          "room": "Hörsaal 3, Friedrich-Hirzebruch-Allee 5 - Hörsaalzentrum"
         }
       ],
       "basisId": "614322130",
