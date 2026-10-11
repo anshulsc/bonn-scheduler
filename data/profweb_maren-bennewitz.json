@@ -1,0 +1,16 @@
+{
+  "key": "maren-bennewitz",
+  "name": "Prof. Dr. Maren Bennewitz",
+  "website": "https://www.hrl.uni-bonn.de/",
+  "websiteStatus": "unchanged",
+  "groupSite": null,
+  "teaching": [
+    { "title": "Lecture Cognitive Robotics (jointly listed with AIS, Prof. Behnke)", "code": "MA-INF 4113", "url": "https://www.hrl.uni-bonn.de/teaching/ws2627/cognitive-robotics", "semester": "Winter Term 26/27" },
+    { "title": "Lab Course Parallel Computing for Mobile Robots", "code": "MA-INF 4226", "url": "https://www.hrl.uni-bonn.de/teaching/ws2627/lab-parallel-computing-for-mobile-robots", "semester": "Winter Term 26/27" },
+    { "title": "Lab Course Humanoid Robots", "code": "MA-INF 4214 (also MA-MORO-E06)", "url": "https://www.hrl.uni-bonn.de/teaching/ws2627/lab-humanoid-robots", "semester": "Winter Term 26/27" },
+    { "title": "Seminar Humanoid Robots", "code": "MA-INF 4213 (also MA-MORO-E09)", "url": "https://www.hrl.uni-bonn.de/teaching/ws2627/seminar-ma-inf-4213", "semester": "Winter Term 26/27" },
+    { "title": "Accompanying seminar for Bachelor and Master thesis presentations", "code": "BA-INF 062, MA-INF 0402", "url": "https://www.hrl.uni-bonn.de/teaching/accompanying-seminar-for-bachelor-and-master-thesis-presentations", "semester": "Winter Term 26/27 (listed as standing offering)" },
+    { "title": "Project Group Humanoid Robots (BA module)", "code": "BA-INF 051", "url": "https://www.hrl.uni-bonn.de/teaching/ws2627/projektgruppe-ba-inf-051", "semester": "Winter Term 26/27" }
+  ],
+  "evidence": "Fetched https://www.hrl.uni-bonn.de/ and https://www.hrl.uni-bonn.de/teaching. The teaching page shows an explicit 'Winter Term 26/27' section with course cards and titles/course numbers; all linked ws2627 course pages verified HTTP 200 on 2026-10-12. Chair site = Humanoid Robots Lab, University of Bonn."
+}

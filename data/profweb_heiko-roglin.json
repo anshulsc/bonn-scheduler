@@ -1,0 +1,46 @@
+{
+  "key": "heiko-roglin",
+  "name": "Prof. Dr. Heiko Röglin",
+  "website": "https://www.roeglin.org/",
+  "websiteStatus": "verified-current",
+  "groupSite": "https://tcs.cs.uni-bonn.de/",
+  "teaching": [
+    {
+      "title": "Algorithmen und Berechnungskomplexität I",
+      "code": "BA-INF 032",
+      "url": "https://tcs.cs.uni-bonn.de/doku.php/teaching/ws2627/vl-algo",
+      "semester": "Wintersemester 2026/27"
+    },
+    {
+      "title": "Begleitseminar zur Bachelorarbeit / Master Seminar",
+      "code": "BA-INF 062 / MA-INF 0402",
+      "url": "https://tcs.cs.uni-bonn.de/doku.php/teaching/begleitseminar",
+      "semester": "offered every term"
+    },
+    {
+      "title": "Algorithmen und Berechnungskomplexität II",
+      "code": "BA-INF 041",
+      "url": "https://tcs.cs.uni-bonn.de/doku.php/teaching/ss26/vl-algo-ii",
+      "semester": "Sommersemester 2026 (latest listed on roeglin.org/teaching.html)"
+    },
+    {
+      "title": "Randomized Algorithms & Probabilistic Analysis",
+      "code": "MA-INF 1213",
+      "url": "https://tcs.cs.uni-bonn.de/doku.php/teaching/ss26/vl-rapa",
+      "semester": "Sommersemester 2026 (latest listed on roeglin.org/teaching.html)"
+    },
+    {
+      "title": "Lab: Efficient Algorithms for Selected Problems",
+      "code": "MA-INF 1309",
+      "url": "https://tcs.cs.uni-bonn.de/doku.php/teaching/ss26/lab-efficientalg",
+      "semester": "Sommersemester 2026 (latest listed on roeglin.org/teaching.html)"
+    },
+    {
+      "title": "Seminar Randomized and Approximation Algorithms",
+      "code": "MA-INF 1306",
+      "url": "https://tcs.cs.uni-bonn.de/doku.php/teaching/ss26/sem-rand-kp",
+      "semester": "Sommersemester 2026 (latest listed on roeglin.org/teaching.html)"
+    }
+  ],
+  "evidence": "Fetched https://www.roeglin.org/ (FetchURL, live) and https://www.roeglin.org/teaching.html (FetchURL + curl for hrefs; latest semester shown is Summer 2026). Winter 2026/27 responsibility for BA-INF 032 ('Verantwortlich: Heiko Röglin') verified on group course page https://tcs.cs.uni-bonn.de/doku.php/teaching/ws2627/vl-algo (curl; note its 'start' date printed as 21. Oktober 2025 looks like a copied-over typo). Semester overview from https://tcs.cs.uni-bonn.de/doku.php?id=teaching:start (curl), which lists 'Current Semester (WiSe 2027)' and 'Winter Term 2026/27'. MA-INF codes for SS26 courses cross-checked against the tcs semester listing. Personal staff page https://tcs.cs.uni-bonn.de/doku.php/staff/heikoroeglin exists (HTTP 200)."
+}

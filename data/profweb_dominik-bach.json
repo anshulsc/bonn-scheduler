@@ -1,0 +1,22 @@
+{
+  "key": "dominik-bach",
+  "name": "Prof. Dr. Dr. Dominik Bach",
+  "website": "https://www.caian.uni-bonn.de/en",
+  "websiteStatus": "updated",
+  "groupSite": "https://bachlab.org/",
+  "teaching": [
+    {
+      "title": "Lecture/Tutorial Computational Neuroscience: Cognition and Behaviour",
+      "code": "MA-INF 4334",
+      "url": "https://www.caian.uni-bonn.de/en/teaching/lecture_inf_4334_2026_winter",
+      "semester": "Winter Term 2026/2027"
+    },
+    {
+      "title": "Lab Cognitive Modelling of Biological Agents",
+      "code": "MA-INF 4241",
+      "url": "https://www.caian.uni-bonn.de/en/teaching/lab_inf_4241_2026_winter",
+      "semester": "Winter Term 2026/2027"
+    }
+  ],
+  "evidence": "No website was known beforehand. Identified his chair as the Hertz Chair for Artificial Intelligence and Neuroscience at University of Bonn. Fetched https://www.caian.uni-bonn.de/en (CAIAN = Centre for Artificial Intelligence and Neuroscience; page credits 'Hertz Chair for Artificial Intelligence and Neuroscience, Prof. Dr. Dr. Dominik Bach, PI of the Critical Intelligence Lab'). Fetched https://www.caian.uni-bonn.de/en/teaching: under heading 'Winter Term 2026/2027' it lists exactly the two entries above with direct page links; older semesters listed are Summer Term 2026 (Seminar 'Biological Intelligence' MA-INF 4329 and Lab MA-INF 4241), Winter Term 2025/2026 (MA-INF 4334 + MA-INF 4241) and Summer Term 2025 (MA-INF 4329 + MA-INF 4241), so only the Winter Term 2026/2027 items were taken as current. Also fetched https://bachlab.org/ ('Bachlab | Uni Bonn | UCL', his lab site; navigation has Home/Research/News/About us/Publications/Open Science/Join — no teaching section)."
+}

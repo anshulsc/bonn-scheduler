@@ -1,0 +1,19 @@
+{
+  "courses": [
+    {
+      "code": "MA-INF 5422",
+      "name": "Seminar Social Ethics of AI",
+      "type": "Seminar",
+      "track": null,
+      "ects": 4,
+      "language": "English",
+      "professor": "Prof. Dr. Matthias Braun",
+      "group": "Lehrstuhl für (Sozial-)Ethik, Abteilung Systematische Theologie, Evangelisch-Theologische Fakultät, Universität Bonn (co-lecturer: Dr. Eva Maria Hille)",
+      "website": "https://www.uni-bonn.de/de/universitaet/ueber-die-uni/we-are-uni-bonn/matthias-braun",
+      "contents": "The course concentrates on ethical considerations surrounding AI in the context of societal implications, including fairness, biases, and social welfare. Students learn to identify and analyze societal considerations in the development of AI technology in a multidisciplinary setting, to categorize societal aspects of developing and using AI technologies, and to compare contrasting viewpoints and disciplinary focuses in this context.",
+      "sourceUrl": "https://bamainfo.informatik.uni-bonn.de/public/pa/Module-Handbook-MSc-Artificial-Intelligence.pdf",
+      "confidence": "high",
+      "note": "Module of the new M.Sc. Artificial Intelligence (2026); the handbook remarks state it is offered by the Department of Systematic Theology / chair of (Social-)Ethics (Protestant Faculty of Theology). 4 CP / 120 h, 2 SWS weekly Tue 16:00-18:00 s.t., Seminarraum 2.050 Informatik V (Friedrich-Hirzebruch-Allee 6-8, B-IT/INF building), group size 15, exam = oral presentation + written report, a pass-or-fail attendance requirement. Dr. Eva Maria Hille (chair of (Social-)Ethics, Research areas: AI ethics & medical ethics) is named as co-lecturer in the handbook and as Durchführende/r in BASIS: https://www.uni-bonn.de/de/forschung-lehre/forschungsprofil/transdisziplinaere-forschungsbereiche/tra-4-individuals/mitgliederverzeichnis/eva-maria-hille . Title 'Prof. Dr.' for Braun confirmed by uni-bonn event news (https://www.uni-bonn.de/de/neues/194-2026, 'Prof. Dr. Matthias Braun (Sozialethik, Universität Bonn)'). NOT in the MSc CS 2023 handbook (WS 2026/27 edition checked); CS MSc students would need examination-board approval. track = null with rationale: ethics seminar from the theology faculty, not a CS research track. BASIS detail: https://basis.uni-bonn.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49500&periodId=142&navigationPosition=courseoverviewShow"
+    }
+  ]
+}

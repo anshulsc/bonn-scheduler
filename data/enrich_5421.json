@@ -1,0 +1,19 @@
+{
+  "courses": [
+    {
+      "code": "MA-INF 5421",
+      "name": "Seminar Legal, Social and Societal Aspects of AI",
+      "type": "Seminar",
+      "track": null,
+      "ects": 4,
+      "language": "English",
+      "professor": "Dr. Christian Stracke",
+      "group": "Wissenschaftliches Hochschulrechenzentrum (HRZ), Universität Bonn (lecturer: Dr. Christian M. Stracke); in BASIS the event is administered by Fachgruppe Informatik with Prof. Dr. Jürgen Gall listed as event-responsible person",
+      "website": "http://opening-up.education/",
+      "contents": "The seminar studies ethical AI across its whole lifecycle and the legal, social and societal aspects involved in the research, design, deployment of and interaction with AI systems. Topics include the European AI Act and its regulations for AI developers and providers, the Council of Europe Framework Convention (Treaty 225) safeguarding AI users' human rights, regulations on fair use, content ownership, private data and training methods, and laws governing the development, deployment and engineering of AI systems in applications.",
+      "sourceUrl": "https://bamainfo.informatik.uni-bonn.de/public/pa/Module-Handbook-MSc-Artificial-Intelligence.pdf",
+      "confidence": "high",
+      "note": "Module of the new M.Sc. Artificial Intelligence (2026), in the program's 'Ethical, social and legal aspects' coursework area (department page says these are often run with the philosophical faculty; this one is taught in Seminarraum 2.050 Informatik V, Friedrich-Hirzebruch-Allee 6-8). 4 CP / 120 h, 2 SWS weekly Tue 14:00-16:00 c.t., group size 45, graded by oral presentation + written report. Official module coordinator and lecturer is Dr. Christian Stracke (HRZ Uni Bonn, per uni-bonn news https://www.uni-bonn.de/de/neues/christian-m-stracke-in-hall-of-fame-fuer-online-lehrende-berufen); Prof. Dr. Jürgen Gall (Computer Vision) appears only as BASIS event-responsible. NOT in the MSc CS 2023 handbook (WS 2026/27 edition checked), so CS MSc students would need examination-board approval to credit it. track = null with rationale: it is an interdisciplinary ethics/law seminar, not one of the CS research tracks. BASIS detail: https://basis.uni-bonn.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=49510&periodId=142&navigationPosition=courseoverviewShow"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "key": "petra-mutzel",
+  "name": "Prof. Dr. Petra Mutzel",
+  "website": "https://ca.cs.uni-bonn.de/doku.php?id=people:mutzel",
+  "websiteStatus": "verified-current",
+  "groupSite": "https://ca.cs.uni-bonn.de/",
+  "teaching": [
+    {
+      "title": "Vorlesung Graphenalgorithmen",
+      "code": "BA-INF 149",
+      "url": "https://ca.cs.uni-bonn.de/doku.php?id=teaching:ws26:ga",
+      "semester": "Winter Term 2026/27"
+    },
+    {
+      "title": "Projektgruppe Graphenalgorithmen (with Faber)",
+      "code": "BA-INF 051",
+      "url": "https://ca.cs.uni-bonn.de/doku.php?id=teaching:ws26:pg_ga",
+      "semester": "Winter Term 2026/27"
+    },
+    {
+      "title": "Begleitseminar zur Bachelorarbeit",
+      "code": null,
+      "url": "https://ca.cs.uni-bonn.de/doku.php?id=teaching:basem",
+      "semester": "Winter Term 2026/27"
+    },
+    {
+      "title": "Lab High Performance Optimization (with Manda)",
+      "code": "MA-INF 1222",
+      "url": "https://ca.cs.uni-bonn.de/doku.php?id=teaching:ws26:lab-hpc",
+      "semester": "Winter Term 2026/27"
+    },
+    {
+      "title": "Master Thesis, Accompanying Seminar",
+      "code": "MA-INF 0402",
+      "url": "https://ca.cs.uni-bonn.de/doku.php?id=teaching:bama",
+      "semester": "Winter Term 2026/27"
+    }
+  ],
+  "evidence": "https://ca.cs.uni-bonn.de/ is live (curl: 302 to https://ca.cs.uni-bonn.de/doku.php?id=start; FetchURL initially reported a transient network error, confirmed reachable via curl). Start page identifies the group 'Computational Analytics' with Prof. Petra Mutzel (Computational Analytics) and Prof. Estela Suarez (HPC). Teaching page https://ca.cs.uni-bonn.de/doku.php?id=teaching (curl) has an explicit section 'Winter Term 2026/27' listing the five Mutzel-led entries above; course-page hrefs were extracted from the page HTML. Personal page https://ca.cs.uni-bonn.de/doku.php?id=people:mutzel returns HTTP 200."
+}

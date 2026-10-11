@@ -1,0 +1,64 @@
+{
+  "key": "peter-martini",
+  "name": "Prof. Dr. Peter Martini",
+  "website": "https://net.cs.uni-bonn.de/wg/cs/",
+  "websiteStatus": "verified-current",
+  "groupSite": "https://net.cs.uni-bonn.de/wg/cs/",
+  "teaching": [
+    {
+      "title": "Lecture: Kommunikation in Verteilten Systemen (BSc Informatik/Cyber Security/Lehramt)",
+      "code": null,
+      "url": "https://net.cs.uni-bonn.de/wg/cs/teaching/wt-202627/",
+      "semester": "Winter Term 2026/27"
+    },
+    {
+      "title": "Lecture: Systemnahe Programmierung (BSc)",
+      "code": null,
+      "url": "https://net.cs.uni-bonn.de/wg/cs/teaching/wt-202627/",
+      "semester": "Winter Term 2026/27"
+    },
+    {
+      "title": "Lecture: Digitale Forensik (hybrid, Fraunhofer FKIE)",
+      "code": null,
+      "url": "https://net.cs.uni-bonn.de/wg/cs/teaching/wt-202627/",
+      "semester": "Winter Term 2026/27"
+    },
+    {
+      "title": "Lecture: Malware Analysis (MSc, hybrid, Fraunhofer FKIE)",
+      "code": null,
+      "url": "https://net.cs.uni-bonn.de/wg/cs/teaching/wt-202627/",
+      "semester": "Winter Term 2026/27"
+    },
+    {
+      "title": "Seminar: Selected Topics in Communication Management (MSc)",
+      "code": null,
+      "url": "https://net.cs.uni-bonn.de/wg/cs/teaching/wt-202627/",
+      "semester": "Winter Term 2026/27"
+    },
+    {
+      "title": "Lab Course: Communication and Communicating Devices (MSc, semester + IPEC block course)",
+      "code": null,
+      "url": "https://net.cs.uni-bonn.de/wg/cs/teaching/wt-202627/",
+      "semester": "Winter Term 2026/27"
+    },
+    {
+      "title": "Project Group: Kommunikationssysteme (BSc)",
+      "code": null,
+      "url": "https://net.cs.uni-bonn.de/wg/cs/teaching/wt-202627/",
+      "semester": "Winter Term 2026/27"
+    },
+    {
+      "title": "Project Group: IT-Forensik & Binärcodeanalyse (BSc)",
+      "code": null,
+      "url": "https://net.cs.uni-bonn.de/wg/cs/teaching/wt-202627/",
+      "semester": "Winter Term 2026/27"
+    },
+    {
+      "title": "Project Group: Firmware Bootcamp (BSc, Feb-Mar 2027)",
+      "code": null,
+      "url": "https://net.cs.uni-bonn.de/wg/cs/teaching/wt-202627/",
+      "semester": "Winter Term 2026/27"
+    }
+  ],
+  "evidence": "net.cs.uni-bonn.de start page (Informatik 4, lists 'Communication Systems (Prof. Dr. Peter Martini)'), wg/cs/ leader page /wg/cs/staff/leader/peter-martini/, and teaching list /wg/cs/teaching/wt-202627/ (last changed 2026). No MA-INF codes are printed on that page; per-item deep links not provided there."
+}

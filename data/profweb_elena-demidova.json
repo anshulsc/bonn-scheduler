@@ -1,0 +1,18 @@
+{
+  "key": "elena-demidova",
+  "name": "Prof. Dr. Elena Demidova",
+  "website": "https://www.dsis.uni-bonn.de/",
+  "websiteStatus": "updated",
+  "groupSite": null,
+  "teaching": [
+    { "title": "Advanced Methods of Information Retrieval", "code": "MA-INF 4230", "url": null, "semester": "not semester-specific (general module list; per-semester offerings are published in eCampus)" },
+    { "title": "Spatio-Temporal Data Analytics", "code": "MA-INF 4328", "url": null, "semester": "not semester-specific (general module list; per-semester offerings are published in eCampus)" },
+    { "title": "Seminar Advanced Topics in Information Retrieval", "code": "MA-INF 4231", "url": null, "semester": "not semester-specific (general module list)" },
+    { "title": "Seminar Advanced Topics in Data Science", "code": "MA-INF 4324", "url": null, "semester": "not semester-specific (general module list)" },
+    { "title": "Lab Information Retrieval in Practice", "code": "MA-INF 4232", "url": null, "semester": "not semester-specific (general module list)" },
+    { "title": "Lab Data Science in Practice", "code": "MA-INF 4325", "url": null, "semester": "not semester-specific (general module list)" },
+    { "title": "Introduction to Data Science (BA module)", "code": "BA-INF 150", "url": null, "semester": "not semester-specific (general module list)" },
+    { "title": "Datenzentrierte Informatik (BA module)", "code": "BA-INF 035", "url": null, "semester": "not semester-specific (general module list)" }
+  ],
+  "evidence": "The previously known site https://2657.de is dead (domain parked/for sale). Found current group site via the Uni Bonn Institute of Computer Science research-department page (https://www.informatik.uni-bonn.de/en/research/informationsystems-and-artifical-intelligence), which names the 'Data Science and Intelligent Systems Group (DSIS)' headed by Prof. Demidova and links to https://www.dsis.uni-bonn.de/ (verified, states she leads DSIS at Uni Bonn + Lamarr Institute). Fetched https://www.dsis.uni-bonn.de/teaching and https://www.dsis.uni-bonn.de/teaching/courses (HTTP 200): it lists the above modules with codes but no per-semester dates and no direct course pages (page states specifics are provided in eCampus), hence url/semester fields are null/not-semester-specific."
+}

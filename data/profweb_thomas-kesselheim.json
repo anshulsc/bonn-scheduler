@@ -1,0 +1,28 @@
+{
+  "key": "thomas-kesselheim",
+  "name": "Prof. Dr. Thomas Kesselheim",
+  "website": "https://tcs.cs.uni-bonn.de/doku.php/staff/thomaskesselheim",
+  "websiteStatus": "updated",
+  "groupSite": "https://tcs.cs.uni-bonn.de/",
+  "teaching": [
+    {
+      "title": "Algorithms and Uncertainty",
+      "code": "MA-INF 1218",
+      "url": "https://tcs.cs.uni-bonn.de/doku.php/teaching/ws2627/vl-aau",
+      "semester": "Wintersemester 2026/27"
+    },
+    {
+      "title": "Seminar Algorithmic Game Theory",
+      "code": "MA-INF 1219",
+      "url": "https://tcs.cs.uni-bonn.de/doku.php/teaching/ws2627/seminar-agt",
+      "semester": "Wintersemester 2026/27"
+    },
+    {
+      "title": "Randomisierte und approximative Algorithmen (jointly with Elmar Langetepe)",
+      "code": "BA-INF 104",
+      "url": "https://tcs.cs.uni-bonn.de/doku.php/teaching/ws2627/vl-randalgo",
+      "semester": "Wintersemester 2026/27"
+    }
+  ],
+  "evidence": "The previously known URL https://roeglin.org/group.html returns HTTP 404. Kesselheim is listed as professor in the 'Algorithms and Complexity' department (Institute of Computer Science, Dept. V) at https://tcs.cs.uni-bonn.de/doku.php?id=people:start (curl); his personal staff page https://tcs.cs.uni-bonn.de/doku.php/staff/thomaskesselheim returns HTTP 200. Winter 2026/27 teaching verified on the departmental teaching page https://tcs.cs.uni-bonn.de/doku.php?id=teaching:start (curl; section 'Winter Term 2026/27') plus per-course pages: vl-aau names 'Lecturer ... Kesselheim' (start October 12), seminar-agt says 'Offered by Thomas Kesselheim', vl-randalgo lists 'Verantwortlich ... Thomas Kesselheim, Elmar Langetepe' (start 13. Oktober 2026)."
+}

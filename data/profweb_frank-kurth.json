@@ -1,0 +1,22 @@
+{
+  "key": "frank-kurth",
+  "name": "PD Dr. Frank Kurth",
+  "website": "https://net.cs.uni-bonn.de/wg/audio-signal-processing/",
+  "websiteStatus": "updated",
+  "groupSite": "https://net.cs.uni-bonn.de/wg/audio-signal-processing/",
+  "teaching": [
+    {
+      "title": "Lecture: Foundations of Audio Signal Processing",
+      "code": "MA-INF 2113",
+      "url": "https://net.cs.uni-bonn.de/wg/audio-signal-processing/teaching/wt-202627/foundations-of-audio-signal-processing/",
+      "semester": "Winter Term 2026/27"
+    },
+    {
+      "title": "Seminar: Seminar Audio (online)",
+      "code": "MA-INF 2208",
+      "url": "https://net.cs.uni-bonn.de/wg/audio-signal-processing/teaching/wt-202627/ma-inf-2208-seminar-audio/",
+      "semester": "Winter Term 2026/27"
+    }
+  ],
+  "evidence": "www.fkie.fraunhofer.de root is live (200) but is the institute root; his Bonn work-group page net.cs.uni-bonn.de/wg/audio-signal-processing/ names 'Prof. Dr. Frank Kurth (Fraunhofer FKIE)' as head and links teaching/wt-202627/ with the two courses above (course page for the lecture prints 'Faculty: MA-INF 2113'; seminar URL slug prints ma-inf-2208)."
+}

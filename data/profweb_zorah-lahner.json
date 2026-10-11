@@ -1,0 +1,16 @@
+{
+  "key": "zorah-lahner",
+  "name": "Jun. Prof. Dr. Zorah Lähner",
+  "website": "https://geometryinml.cs.uni-bonn.de/",
+  "websiteStatus": "unchanged",
+  "groupSite": null,
+  "teaching": [
+    { "title": "Lecture Principles of Deep Learning (6CP)", "code": "MA-INF 4118", "url": "https://geometryinml.cs.uni-bonn.de/teaching/ws26/lecture-principles-dl.html", "semester": "Winter Semester 2026" },
+    { "title": "Lab Deep Learning for the Physical Sciences (9CP)", "code": "MA-INF 4244", "url": "https://geometryinml.cs.uni-bonn.de/teaching/ws26/lab-phys-sciences.html", "semester": "Winter Semester 2026" },
+    { "title": "Lab Geometry Processing (9CP)", "code": "MA-INF 2226", "url": "https://geometryinml.cs.uni-bonn.de/teaching/ws26/lab-geoproc.html", "semester": "Winter Semester 2026" },
+    { "title": "Seminar Recent Advances in Geometry Processing (4CP)", "code": "MA-INF 2229", "url": "https://geometryinml.cs.uni-bonn.de/teaching/ws26/seminar-geoproc.html", "semester": "Winter Semester 2026" },
+    { "title": "Seminar Vision and Graphics (Role-Based) (4CP)", "code": "MA-INF 2228", "url": "https://geometryinml.cs.uni-bonn.de/teaching/ws26/seminar-vision-graphics.html", "semester": "Winter Semester 2026" },
+    { "title": "Projektgruppe Geometry Processing (BA module, 9LP)", "code": "BA-INF 051", "url": "https://geometryinml.cs.uni-bonn.de/teaching/ws26/projektgruppe.html", "semester": "Winter Semester 2026" }
+  ],
+  "evidence": "Fetched https://geometryinml.cs.uni-bonn.de/ and https://geometryinml.cs.uni-bonn.de/teaching. The teaching page's top section is headed 'Winter Semester 2026' and lists the courses above with MA-INF codes; all linked ws26 course pages verified HTTP 200 on 2026-10-12."
+}

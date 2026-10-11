@@ -1,0 +1,19 @@
+{
+  "courses": [
+    {
+      "code": "MA-INF 1111",
+      "name": "Fair Division",
+      "type": "Seminar",
+      "track": "AL",
+      "ects": null,
+      "language": "English",
+      "professor": "Dr. Hannaneh Akrami",
+      "group": "Hertz Chair for Algorithms and Optimization (TRA Modelling, chair holder Prof. László Végh)",
+      "website": "https://www.uni-bonn.de/en/research-and-teaching/research-profile/transdisciplinary-research-areas/tra-1-modelling/hertz",
+      "contents": "Course on fair division, offered in Winter 2026/27 under the variable-topic module 'V5C4 Selected Topics in Algorithms and Optimization' (2 SWS, weekly Mon 10:00-12:00, seminar room 1.002, Lennéstraße 2-4). The topic matches the instructor's documented research: algorithmic and game-theoretic fairness notions for allocating indivisible items, in particular envy-freeness up to any item (EFX) and its relaxations, maximin-share guarantees and Nash social welfare. Specific syllabus not published; content areas are inferred from the title and the instructor's publications.",
+      "sourceUrl": "https://basis.uni-bonn.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=20939&periodId=142&navigationPosition=courseoverviewShow",
+      "confidence": "medium",
+      "notes": "VERIFIED (BASIS WS 2026/27 course catalog, unitId 20939): title 'Fair Division' cross-listed as 'V5C4 / MA-INF 1111' under 'V5C4 Sel Top in Algorithms and Optimization'; Lehrsprache Englisch; Verantwortliche Dr. Hannaneh Akrami; weekly Mon 10:00-12:00, 12.10.2026-01.02.2027, seminar room 1.002 Lennéstraße 2-4. VERIFIED (uni-bonn.de): Hannaneh Akrami is affiliated with the Hertz Chair for Algorithms and Optimization (László Végh, inaugurated April 2025); she spoke at the chair's inauguration symposium on 'Epistemic EFX Allocations Exist for Monotone Valuations' and her 2026 papers (e.g. arXiv:2608.08864) list 'Hertz Chair for Algorithms and Optimization, University of Bonn' as affiliation. Her research is fair division (EFX, MMS, Nash social welfare). INFERRED / NOT VERIFIED: exact event type (BASIS shows no type; 2 SWS weekly in a seminar room under a 'Selected Topics' module suggests Seminar/graduate reading course, could also be labelled otherwise); ECTS (not stated anywhere public yet - for reference, the 2023 module handbook convention is 4 ECTS for 30/33 seminars, but this must NOT be taken as the credit for this new module); detailed syllabus. TRACK RATIONALE: 'AL' because the MA-INF 1xxx code range in the 2023 module handbook belongs to the Algorithms/AL Vertiefungsgebiet and the module sits in the Algorithms & Optimization umbrella of the discrete-mathematics/algorithmic-game-theory environment (Végh/Kesselheim area); still a best guess for a module not yet in the handbook."
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "courses": [
+    {
+      "code": "MA-INF 3243",
+      "name": "Tutorenpraktikum Cyber Security",
+      "type": "Lab",
+      "track": "ICM",
+      "ects": null,
+      "language": "English",
+      "professor": "Prof. Dr. Michael Meier",
+      "group": "Department IV 'Security and Networked Systems' (Informatik 4), Institute of Computer Science — jointly run by the IT Security WG (Meier), Communication Systems WG (Martini) and Behavioural Security RG (Smith)",
+      "website": "https://net.cs.uni-bonn.de/work-groups/itsec/",
+      "contents": "Practicum in which students take on varying practical tutoring tasks in the context of cyber security: tutoring exercise sessions for a cyber security course (bachelor or master level), correcting homework, evaluating students' progress, participating in regular tutor meetings, and developing teaching material (e.g. exercise tasks) and demonstrations. Graded as project work; recommended for semesters 2-3 with foundational IT security knowledge as a prerequisite (MA-INF 3236 IT-Security recommended first). The module can be completed in German or English.",
+      "sourceUrl": "https://basis.uni-bonn.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=23752&periodId=142&navigationPosition=courseoverviewShow",
+      "confidence": "medium",
+      "note": "All fields except ECTS verified from the BASIS module description (Nr. 614132430, WiSe 2026/27, periodId 142). BASIS lists the workload strangely as two variants — 'Präsenzstudium 15 + 75' and 'Selbststudium 45 + 135' hours — i.e. ~60h (~2 CP) or ~210h (~7 CP) at 30h/CP; the intended credit value could not be determined from public sources, so ects=null. 'Verantwortliche/-r' is Prof. Dr. Michael Meier; BASIS also lists Dr. Christian Tiefenau (BeSec/Smith group), Dr. Felix Boes and Dr. Matthias Wübbeling (IT Security WG/Meier; Wübbeling also Fraunhofer FKIE), Marc-Philipp Ohm, Dr. Matthias Frank (Communication Systems/Martini), Prof. Dr. Matthew Smith and Prof. Dr. Peter Martini as Lehrende. Type 'Lab' is the schema's closest approximation for a tutoring practicum; exam form is 'Project work'. Track ICM by analogy: all security modules (MA-INF 3236, 3229, 3317, 3319-3321, 3241, 3242, 3246) sit in the ICM (Information and Communication Management) area of the Bonn Informatik master dataset. IMPORTANT: in the BASIS WiSe 2026/27 catalog tree these three 'Cyber Security' modules hang ONLY under the branch 'Master of Science Cyber Security 2023' — unlike the older security set, which hangs under BOTH 'Master of Science Computer Science 2023' and 'Cyber Security 2023'. So these are new modules of the English-language MSc Cyber Security (PO 2023); whether they are also creditable as MSc Informatik (PO 2023) electives could not be verified from the catalog."
+    },
+    {
+      "code": "MA-INF 3244",
+      "name": "Seminar Cyber Security",
+      "type": "Seminar",
+      "track": "ICM",
+      "ects": 4,
+      "language": "English",
+      "professor": "Prof. Dr. Michael Meier",
+      "group": "Department IV 'Security and Networked Systems' (Informatik 4), Institute of Computer Science — IT Security WG (Meier) jointly with Communication Systems WG (Martini) and Behavioural Security RG (Smith)",
+      "website": "https://net.cs.uni-bonn.de/wg/cs/teaching/registration-for-seminars-and-labs/",
+      "contents": "Students work on recent cyber security research topics based on current journal and conference publications, presenting them in writing and in talks to academic standards; the seminar group additionally analyses and discusses current societal and political developments related to cyber security. Graded via oral presentation and written report; 2 SWS, every semester, recommended for semesters 2-3. In the winter term the seminar runs with a kick-off at the beginning of October and the talks en bloc in January (presumably).",
+      "sourceUrl": "https://basis.uni-bonn.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=23756&periodId=142&navigationPosition=courseoverviewShow",
+      "confidence": "high",
+      "note": "Module description from BASIS (Nr. 614132440, WiSe 2026/27): Lehrsprache English, workload 30h presence + 90h self-study = 120h, which at 30h/CP gives 4 ECTS — consistent with every ICM seminar in the 2023 handbook (ICM seminars are universally 4 CP) and with the predecessor module MA-INF 3317 'Seminar Selected Topics in IT Security' (same Meier/Martini instructor pair, 4 CP); the credit value itself is not printed on the fetched overview tab, hence derived rather than directly read. The WiSe 2026/27 event listing (unitId 39215) names the course 'Seminar Cyber Security (Meier/Martini)' with Verantwortliche Meier, Martini, Boes, Ohm, Wübbeling; dates/locations 'nach Vereinbarung, t.b.a.'. Track ICM by analogy with the area assignment of all other security modules in the dataset. Found only under the 'Master of Science Cyber Security 2023' catalog branch (see MA-INF 3243 note)."
+    },
+    {
+      "code": "MA-INF 3245",
+      "name": "Lab Cyber Security",
+      "type": "Lab",
+      "track": "ICM",
+      "ects": 9,
+      "language": "English",
+      "professor": "Prof. Dr. Michael Meier",
+      "group": "Department IV 'Security and Networked Systems' (Informatik 4), Institute of Computer Science — IT Security WG (Meier) jointly with Communication Systems WG (Martini) and Behavioural Security RG (Smith)",
+      "website": "https://net.cs.uni-bonn.de/wg/cs/teaching/registration-for-seminars-and-labs/",
+      "contents": "Individual or small-team project work on selected topics close to current cyber security research, including participation in discussion events announced in the lab. Students design, implement, test and document software and evaluate its performance (measurements, simulation, analysis), presenting and defending their results. Assessment consists of a project, an oral presentation and a written report; offered every semester (winter term labs start at the beginning of October), recommended for semesters 2-3, with foundational IT security knowledge required and MA-INF 3236 IT-Security recommended first.",
+      "sourceUrl": "https://basis.uni-bonn.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=23742&periodId=142&navigationPosition=courseoverviewShow",
+      "confidence": "high",
+      "note": "Module description from BASIS (Nr. 614132450, WiSe 2026/27): Lehrsprache English, workload 60h presence + 210h self-study = 270h = 9 ECTS at 30h/CP, matching the predecessor module MA-INF 3229 'Lab IT-Security' (9 CP, ICM track, same responsible person Prof. Dr. Michael Meier) whose qualification-goals text is nearly identical; the number itself is not printed on the fetched tab, hence derived. Verantwortliche/-r Prof. Dr. Michael Meier; Lehrende additionally: Dr. Christian Tiefenau, Dr. Felix Boes, Marc-Philipp Ohm, Dr. Matthias Frank, Dr. Matthias Wübbeling, Prof. Dr. Matthew Smith, Prof. Dr. Peter Martini. Track ICM by analogy with the dataset's security-module assignments. Found only under the 'Master of Science Cyber Security 2023' catalog branch (see MA-INF 3243 note)."
+    }
+  ]
+}

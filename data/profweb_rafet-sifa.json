@@ -1,0 +1,22 @@
+{
+  "key": "rafet-sifa",
+  "name": "Prof. Dr. Rafet Sifa",
+  "website": "https://appliedmachinelearning-lab.github.io/",
+  "websiteStatus": "updated",
+  "groupSite": "https://www.b-it-center.de/research/applied-machine-learning-lab/",
+  "teaching": [
+    {
+      "title": "Mining Media Data I",
+      "code": "MA-INF 4117",
+      "url": "https://appliedmachinelearning-lab.github.io/teaching/mmdi2627/",
+      "semester": "Wintersemester 2026/27 (site labels it 'MMD I (WS 26/27)'; course page title 'Mining Media Data I WS26')"
+    },
+    {
+      "title": "Lab: Hybrid Learning and Applications",
+      "code": "MA-INF 4240",
+      "url": "https://appliedmachinelearning-lab.github.io/teaching/hla2627/",
+      "semester": "Wintersemester 2026/27 (site labels it 'Lab: HLA (WS 26/27)'; course page schedule runs October 2026 to February 2027)"
+    }
+  ],
+  "evidence": "No website was known beforehand. Fetched: https://appliedmachinelearning-lab.github.io/ (group landing: 'Led by Prof. Dr. Rafet Sifa', Applied Machine Learning Lab at University of Bonn); its nav links to /teaching/ which lists 'MMD I (WS 26/27)' (current) and 'Lab: HLA (WS 26/27)' (current) plus archived iterations: Lab XAI (SS 26), Seminar DSMA (SS 26), and overview text mentioning archived 'Introduction to Learning Systems and Data Science' (WS 2025/2026), 'Mining Media Data II' (SS 2026), 'Theory of Deep Learning' seminar, 'Data Science for Medical Applications' (SS 2026). Fetched both current course pages; MA-INF codes and lecturers printed there. Also fetched https://www.b-it-center.de/research/applied-machine-learning-lab/ (B-IT research group page naming Prof. Dr. Rafet Sifa as group leader) and its /teaching/ page (same course list, no codes printed, no semester heading). Fraunhofer IAIS organization page (iais.fraunhofer.de/en/about-us/organization.html) lists him as responsible for the 'Hybrid Intelligence' area but has no teaching listing."
+}

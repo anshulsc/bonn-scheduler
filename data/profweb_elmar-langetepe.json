@@ -1,0 +1,22 @@
+{
+  "key": "elmar-langetepe",
+  "name": "PD Dr. Elmar Langetepe",
+  "website": "https://tcs.cs.uni-bonn.de/doku.php/staff/elmarlangetepe",
+  "websiteStatus": "updated",
+  "groupSite": "https://tcs.cs.uni-bonn.de/",
+  "teaching": [
+    {
+      "title": "Logik und diskrete Strukturen",
+      "code": "BA-INF 011",
+      "url": "https://tcs.cs.uni-bonn.de/doku.php/teaching/ws2627/vl-luds",
+      "semester": "Wintersemester 2026/27"
+    },
+    {
+      "title": "Randomisierte und approximative Algorithmen (jointly with Thomas Kesselheim)",
+      "code": "BA-INF 104",
+      "url": "https://tcs.cs.uni-bonn.de/doku.php/teaching/ws2627/vl-randalgo",
+      "semester": "Wintersemester 2026/27"
+    }
+  ],
+  "evidence": "The previously listed https://cg.cs.uni-bonn.de/ now serves a JavaScript app (new Uni Bonn CMS for the Computer Graphics group of Prof. Reinhard Klein). Its public API (https://cg.cs.uni-bonn.de/backend/v2/api/courses, fetched with curl) shows the CG group's Wintersemester 2026/27 courses are all taught by Klein/Bernard/Stotko/Spindler staff, with no course by Langetepe (he exists only as a people record without a role there). Langetepe is now listed as 'PD Dr.' under Scientific Staff on https://tcs.cs.uni-bonn.de/doku.php?id=people:start (curl), algorithms-and-complexity dept.; his staff page https://tcs.cs.uni-bonn.de/doku.php/staff/elmarlangetepe returns HTTP 200. Winter 2026/27 teaching verified on https://tcs.cs.uni-bonn.de/doku.php?id=teaching:start and course pages: ws2627/vl-luds ('Dozent ... Elmar Langetepe', start Mo. 12.10) and ws2627/vl-randalgo ('Verantwortlich ... Thomas Kesselheim, Elmar Langetepe', start 13. Okt 2026)."
+}

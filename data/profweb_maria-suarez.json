@@ -1,0 +1,16 @@
+{
+  "key": "maria-suarez",
+  "name": "Prof. Dr. Maria Estela Suarez Garcia",
+  "website": "https://ca.cs.uni-bonn.de/doku.php?id=people:suarez",
+  "websiteStatus": "verified-current",
+  "groupSite": "https://ca.cs.uni-bonn.de/",
+  "teaching": [
+    {
+      "title": "Lecture Introduction to HPC",
+      "code": "MA-INF 1108",
+      "url": "https://ca.cs.uni-bonn.de/doku.php?id=teaching:hpc-lecture",
+      "semester": "Winter Term 2026/27"
+    }
+  ],
+  "evidence": "Group site https://ca.cs.uni-bonn.de/ is live (curl; redirects to /doku.php?id=start). Start page identifies Prof. Dr. Estela Suarez's High Performance Computing Group; personal page https://ca.cs.uni-bonn.de/doku.php?id=people:suarez returns HTTP 200. Teaching page https://ca.cs.uni-bonn.de/doku.php?id=teaching (curl) section 'Winter Term 2026/27' lists exactly one Suarez course: 'MA-INF 1108 - Lecture Introduction to HPC (Suarez)', linked to teaching:hpc-lecture. (Her seminar MA-INF 1322 and lab MA-INF 1225 are listed for Summer Term 2026, not the winter term.)"
+}

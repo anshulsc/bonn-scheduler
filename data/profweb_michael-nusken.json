@@ -1,0 +1,34 @@
+{
+  "key": "michael-nusken",
+  "name": "Dr. Michael Nüsken",
+  "website": "https://crypto.bit.uni-bonn.de/~nuesken/",
+  "websiteStatus": "updated",
+  "groupSite": "https://crypto.bit.uni-bonn.de/",
+  "teaching": [
+    {
+      "title": "Foundations of informatics - a bridging course (with Thomas Noll, RWTH; Martin Hoefer)",
+      "code": null,
+      "url": "https://crypto.bit.uni-bonn.de/teaching/26ws/brico",
+      "semester": "Winter 2026/27"
+    },
+    {
+      "title": "Cryptography",
+      "code": "MA-INF 1103",
+      "url": "https://crypto.bit.uni-bonn.de/teaching/26ws/crypto",
+      "semester": "Winter 2026/27"
+    },
+    {
+      "title": "Seminar Advanced Topics in Cryptography",
+      "code": "MA-INF 1209",
+      "url": "https://crypto.bit.uni-bonn.de/teaching/26ws/satic",
+      "semester": "Winter 2026/27"
+    },
+    {
+      "title": "Lab: Machine learning on encrypted data",
+      "code": "MA-INF 4322",
+      "url": "https://crypto.bit.uni-bonn.de/teaching/26ws/lab",
+      "semester": "Winter 2026/27"
+    }
+  ],
+  "evidence": "https://cosec.bit.uni-bonn.de/ is reachable but states: 'This site is not maintained any more ... may be outdated' (its teaching section stops at Winter 2017). The cosec member page for Nüsken says 'My new homepage is here' and links to https://crypto.bit.uni-bonn.de/~nuesken/ (HTTP 200, TYPO3 site of 'Cryptography @ b-it'). That site's menu 'Students > Teaching > Winter 2026/27' is https://crypto.bit.uni-bonn.de/teaching/26ws, listing the four courses above; MA-INF codes verified on each subpage (crypto -> MA-INF 1103, satic -> MA-INF 1209, lab -> MA-INF 4322; the bridging course prints no MA-INF code). Note: Nüsken also appears as 'Programme management' staff on the Institute of Computer Science examination-office page https://www.informatik.uni-bonn.de/en/studies/examination-office/examination-office (verified live via curl)."
+}

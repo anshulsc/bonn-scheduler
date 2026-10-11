@@ -1,0 +1,28 @@
+{
+  "key": "reinhard-klein",
+  "name": "Prof. Dr. Reinhard Klein",
+  "website": "https://cg.cs.uni-bonn.de",
+  "websiteStatus": "unchanged",
+  "groupSite": null,
+  "teaching": [
+    {
+      "title": "Angewandte Mathematik: Numerik (BSc)",
+      "code": "BA-INF 031/127",
+      "url": "https://ecampus.uni-bonn.de/ilias.php?baseClass=ilrepositorygui&ref_id=4244109",
+      "semester": "WS 2026/27"
+    },
+    {
+      "title": "Advanced Topics in Computer Graphics II",
+      "code": "MA-INF 2310",
+      "url": "https://ecampus.uni-bonn.de//goto.php?target=crs_4244101&client_id=ecampus",
+      "semester": "WS 2026/27"
+    },
+    {
+      "title": "Foundations of 4D/6D Object Capture for Virtual Environments (with Dr. Patrick Stotko)",
+      "code": "MA-INF 2114",
+      "url": "https://ecampus.uni-bonn.de/ilias.php?baseClass=ilrepositorygui&ref_id=4244204",
+      "semester": "WS 2026/27"
+    }
+  ],
+  "evidence": "https://cg.cs.uni-bonn.de (SPA, 200) + Strapi backend https://cg.cs.uni-bonn.de/backend/v2/api/courses?filters[UrlAlias][$startsWith]=ws-2026&populate=* (courses attributed to lecturer 'Reinhard Klein', semester 'WS 2026/27')"
+}

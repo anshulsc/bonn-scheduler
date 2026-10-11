@@ -1,0 +1,34 @@
+{
+  "key": "bjorn-kruger",
+  "name": "Prof. Dr. Björn-Peter Krüger",
+  "website": "https://www.digital-health-bonn.de/",
+  "websiteStatus": "verified-current",
+  "groupSite": null,
+  "teaching": [
+    {
+      "title": "Seminar: Computer Animation",
+      "code": "MA-INF 2210",
+      "url": "https://basis.uni-bonn.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=23328&periodId=142&navigationPosition=studiesOffered,courseoverviewShow",
+      "semester": "Winter Term 2026/2027 (tab on the group's lectures page)"
+    },
+    {
+      "title": "Lab: Computer Animation",
+      "code": "MA-INF 2311",
+      "url": "https://basis.uni-bonn.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=23363&periodId=142&navigationPosition=studiesOffered,courseoverviewShow",
+      "semester": "Winter Term 2026/2027 (tab on the group's lectures page)"
+    },
+    {
+      "title": "Seminar: Human-Centered Sensing and Digital Health",
+      "code": "MA-INF 2320",
+      "url": "https://basis.uni-bonn.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=51347&periodId=142&navigationPosition=studiesOffered,courseoverviewShow",
+      "semester": "Winter Term 2026/2027 (tab on the group's lectures page)"
+    },
+    {
+      "title": "Lab: Human-Centered Sensing and Digital Health",
+      "code": "MA-INF 2319",
+      "url": "https://basis.uni-bonn.de:443/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=51320&periodId=142&navigationPosition=studiesOffered,courseoverviewShow",
+      "semester": "Winter Term 2026/2027 (tab on the group's lectures page)"
+    }
+  ],
+  "evidence": "Fetched https://www.digital-health-bonn.de/ (working group 'Personalized Digital Health and Telemedicine', Department for Epileptology, University Hospital Bonn — confirms the known site is live and current) and https://www.digital-health-bonn.de/lectures/. The lectures page has semester tabs 'Winter Term 2026/2027', 'Summer Term 2026', 'Winter Term 2025/2026', ...; under the Winter Term 2026/2027 tab the 'Master Computer Science' section lists the four entries above (each: '... - Anna Jansen, Melissa Steiniger and Nazila Ahmadi Daryakenari, responsible Prof. Dr. Björn Krüger') with BASIS detail-view links. The same tab's 'Master Neuroscience' section lists 'Lab: Wearable Sensor Lab (WPP 57) - Dr. Johannes Müllers, responsible Prof. Dr. Björn Krüger' (link points to periodId=141) — a neuroscience program item, not MA-INF, so excluded from the MSc teaching list. Older tabs (e.g. Summer Term 2026) also list Lecture Computer Animation MA-INF 2202."
+}

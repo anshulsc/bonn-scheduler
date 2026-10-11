@@ -1,0 +1,22 @@
+{
+  "key": "hermann-blum",
+  "name": "JProf. Dr. Hermann Blum",
+  "website": "https://hermannblum.net",
+  "websiteStatus": "unchanged",
+  "groupSite": "https://rpl.uni-bonn.de/",
+  "teaching": [
+    {
+      "title": "Lab - Perception and Learning for Robotics (MSc course, team research projects with deep learning on robot perception)",
+      "code": null,
+      "url": "https://rpl.uni-bonn.de/lectures/plr/2026",
+      "semester": "winter term 2026 (page lists application deadline Oct 18 and meetings Oct 2026-Feb 2027; no semester name printed)"
+    },
+    {
+      "title": "Self Supervised Learning (advanced MSc course)",
+      "code": null,
+      "url": "https://rpl.uni-bonn.de/lectures/ssl/2026",
+      "semester": "Summer 2026"
+    }
+  ],
+  "evidence": "Fetched https://hermannblum.net (personal page, verified, links to his lab) and the Robot Perception and Learning Lab site https://rpl.uni-bonn.de/ with its /lectures/ index, which links exactly two course pages (both verified HTTP 200 on 2026-10-12): /lectures/plr/2026 and /lectures/ssl/2026. Neither course page prints an MA-INF code; the PLR 2026 page shows winter-term dates (apply by Oct 18, first meeting Oct 22), SSL 2026 explicitly says 'Summer 2026'. Only these two courses are listed on the lectures page."
+}

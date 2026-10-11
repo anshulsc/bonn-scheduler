@@ -3,9 +3,13 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>MSc Informatik — Academic Intelligence System</title>
-  <meta name="description" content="Comprehensive academic planning, scheduling, and research intelligence for MSc Computer Science at the University of Bonn.">
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+  <title>Informatik — Academic Planner · University of Bonn</title>
+  <meta name="description" content="Academic planning, scheduling, and research intelligence for the MSc in Computer Science at the University of Bonn.">
+  <meta name="theme-color" content="#0c0c0e">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%230c0c0e'/%3E%3Cpath d='M20 46V18.5h5.5v3.2h-2.4v21.1h2.4V46H20zm10.5 0v-3.2h2.5V21.7h-2.5v-3.2H36V46h-5.5zm8.3-24.3a2.6 2.6 0 1 1 0-5.2 2.6 2.6 0 0 1 0 5.2z' fill='%23f2f2f0'/%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,300;0,400;0,500;0,600;0,700&family=Instrument+Serif:ital@0;1&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -14,11 +18,9 @@
   <header id="app-header">
     <div class="header-inner">
       <div class="header-left">
-        <div class="logo-mark">🎓</div>
-        <div>
-          <h1>MSc Informatik — Bonn</h1>
-          <p class="subtitle">Summer Semester 2026 · All Tracks · All Courses</p>
-        </div>
+        <span class="wordmark-serif">Informatik</span>
+        <span class="wordmark-divider"></span>
+        <span class="wordmark-sub">MSc Academic Planner<br>University of Bonn · Winter 2026/27</span>
       </div>
       <div class="header-stats">
         <div class="stat-pill">
@@ -41,11 +43,11 @@
   <!-- NAVIGATION TABS -->
   <nav id="main-nav">
     <div class="nav-inner">
-      <button class="nav-tab active" data-tab="explorer" id="nav-explorer">📚 All Courses</button>
-      <button class="nav-tab" data-tab="scheduler" id="nav-scheduler">🗓️ Full Schedule</button>
-      <button class="nav-tab" data-tab="planner" id="nav-planner">📅 My Planner</button>
-      <button class="nav-tab" data-tab="professors" id="nav-professors">👩‍🏫 Professors</button>
-      <button class="nav-tab" data-tab="labs" id="nav-labs">🔬 Labs & Groups</button>
+      <button class="nav-tab active" data-tab="explorer" id="nav-explorer">Courses</button>
+      <button class="nav-tab" data-tab="scheduler" id="nav-scheduler">Schedule</button>
+      <button class="nav-tab" data-tab="planner" id="nav-planner">Planner</button>
+      <button class="nav-tab" data-tab="professors" id="nav-professors">Professors</button>
+      <button class="nav-tab" data-tab="labs" id="nav-labs">Labs</button>
     </div>
   </nav>
 
@@ -54,18 +56,21 @@
 
     <!-- COURSE EXPLORER TAB -->
     <section id="tab-explorer" class="tab-content active">
-      <!-- FILTERS -->
+      <div class="page-title">
+        <h2>All courses</h2>
+        <p class="page-subtitle">Every module across the four tracks of the MSc programme.</p>
+      </div>
       <div class="explorer-filters">
-        <input type="text" id="filter-search" placeholder="Search courses, professors, codes..." autocomplete="off">
+        <input type="text" id="filter-search" placeholder="Search courses, professors, codes…  (press /)" autocomplete="off">
         <div class="filter-pills">
-          <button class="filter-pill active" data-track="all">All Tracks</button>
-          <button class="filter-pill" data-track="AL" style="--pill-color: #f59e0b">Algorithmics</button>
-          <button class="filter-pill" data-track="GVA" style="--pill-color: #06b6d4">GVA</button>
-          <button class="filter-pill" data-track="ICM" style="--pill-color: #10b981">ICM</button>
-          <button class="filter-pill" data-track="IS" style="--pill-color: #6366f1">Intelligent Systems</button>
+          <button class="filter-pill active" data-track="all">All tracks</button>
+          <button class="filter-pill" data-track="AL">Algorithmics</button>
+          <button class="filter-pill" data-track="GVA">GVA</button>
+          <button class="filter-pill" data-track="ICM">ICM</button>
+          <button class="filter-pill" data-track="IS">Intelligent Systems</button>
         </div>
         <div class="filter-pills">
-          <button class="type-pill active" data-type="all">All Types</button>
+          <button class="type-pill active" data-type="all">All types</button>
           <button class="type-pill" data-type="Lecture">Lectures</button>
           <button class="type-pill" data-type="Lab">Labs</button>
           <button class="type-pill" data-type="Seminar">Seminars</button>
@@ -73,7 +78,8 @@
         <div class="filter-toggle">
           <label class="toggle-label">
             <input type="checkbox" id="toggle-offered">
-            <span class="toggle-text">Show only courses offered Summer 2026</span>
+            <span class="toggle-switch"></span>
+            <span class="toggle-text">Only courses offered in Winter 2026/27</span>
           </label>
         </div>
       </div>
@@ -85,21 +91,21 @@
 
     <!-- FULL SEMESTER SCHEDULER TAB -->
     <section id="tab-scheduler" class="tab-content">
+      <div class="page-title">
+        <h2>Semester schedule</h2>
+        <p class="page-subtitle">Winter 2026/27 · everything offered across all tracks.</p>
+      </div>
       <div class="scheduler-top">
-        <div class="scheduler-header">
-          <h2>🗓️ Full Semester Schedule — Summer 2026</h2>
-          <p class="scheduler-subtitle">All courses across all tracks · Visualize how packed your week could be</p>
-        </div>
         <div class="scheduler-controls">
           <div class="scheduler-track-filters">
-            <button class="sched-track-pill active" data-strack="all">All Tracks</button>
-            <button class="sched-track-pill" data-strack="AL" style="--spill-color: #f59e0b">Algorithmics</button>
-            <button class="sched-track-pill" data-strack="GVA" style="--spill-color: #06b6d4">GVA</button>
-            <button class="sched-track-pill" data-strack="ICM" style="--spill-color: #10b981">ICM</button>
-            <button class="sched-track-pill" data-strack="IS" style="--spill-color: #6366f1">Intelligent Systems</button>
+            <button class="sched-track-pill active" data-strack="all">All tracks</button>
+            <button class="sched-track-pill" data-strack="AL">Algorithmics</button>
+            <button class="sched-track-pill" data-strack="GVA">GVA</button>
+            <button class="sched-track-pill" data-strack="ICM">ICM</button>
+            <button class="sched-track-pill" data-strack="IS">Intelligent Systems</button>
           </div>
           <div class="scheduler-type-filters">
-            <button class="sched-type-pill active" data-stype="all">All Types</button>
+            <button class="sched-type-pill active" data-stype="all">All types</button>
             <button class="sched-type-pill" data-stype="Lecture">Lectures</button>
             <button class="sched-type-pill" data-stype="Lab">Labs</button>
             <button class="sched-type-pill" data-stype="Seminar">Seminars</button>
@@ -108,7 +114,7 @@
             <div class="field-group">
               <label for="sched-day-select">Day</label>
               <select id="sched-day-select" class="sched-dropdown">
-                <option value="all">All Days</option>
+                <option value="all">All days</option>
                 <option value="Mon">Monday</option>
                 <option value="Tue">Tuesday</option>
                 <option value="Wed">Wednesday</option>
@@ -117,8 +123,8 @@
               </select>
             </div>
             <div class="field-group">
-              <label for="sched-course-search">Course Filter</label>
-              <input type="text" id="sched-course-search" class="sched-search-input" placeholder="Search course by name or code..." autocomplete="off">
+              <label for="sched-course-search">Course</label>
+              <input type="text" id="sched-course-search" class="sched-search-input" placeholder="Filter by name or code…" autocomplete="off">
             </div>
           </div>
         </div>
@@ -133,44 +139,59 @@
     <!-- PLANNER TAB -->
     <section id="tab-planner" class="tab-content">
       <div class="planner-header">
-        <h2>My Weekly Schedule</h2>
+        <div class="page-title">
+          <h2>My planner</h2>
+          <p class="page-subtitle">Your selected courses on a weekly grid.</p>
+        </div>
         <div class="planner-actions">
-          <button id="btn-clear-planner" class="btn-secondary">Clear All</button>
-          <span class="planner-ects">Selected: <strong id="planner-ects">0</strong> ECTS</span>
+          <span class="planner-ects"><strong id="planner-ects">0</strong> ECTS selected</span>
+          <button id="btn-clear-planner" class="btn-secondary">Clear all</button>
         </div>
       </div>
       <div id="planner-selected" class="planner-selected-list"></div>
+      <div id="planner-conflicts" class="planner-conflicts"></div>
+      <div id="by-arrangement"></div>
       <div id="planner-grid" class="planner-grid"></div>
-      <div id="by-arrangement" style="margin-top:1.5rem"></div>
     </section>
 
     <!-- PROFESSORS TAB -->
     <section id="tab-professors" class="tab-content">
       <div class="section-header">
-        <h2>Professor Directory</h2>
-        <input type="text" id="prof-search" placeholder="Search professors..." autocomplete="off" class="prof-search-input">
+        <div class="page-title">
+          <h2>Professor directory</h2>
+          <p class="page-subtitle">Faculty across the programme's research groups.</p>
+        </div>
+        <input type="text" id="prof-search" placeholder="Search professors…" autocomplete="off" class="prof-search-input">
       </div>
       <div id="professors-grid" class="professors-grid"></div>
     </section>
 
     <!-- LABS TAB -->
     <section id="tab-labs" class="tab-content">
-      <div class="section-header">
-        <h2>Research Labs & Groups</h2>
+      <div class="page-title">
+        <h2>Research labs &amp; groups</h2>
+        <p class="page-subtitle">Where the courses come from — and where theses happen.</p>
       </div>
       <div id="labs-grid" class="labs-grid"></div>
     </section>
   </main>
 
   <!-- MODAL -->
-  <div id="course-modal" class="modal-overlay" style="display:none">
+  <div id="course-modal" class="modal-overlay" style="display:none" role="dialog" aria-modal="true" aria-labelledby="modal-title">
     <div class="modal-content" id="modal-body"></div>
   </div>
 
-  <footer>
-    <div style="text-align: center; padding: 2rem; color: var(--text-muted); font-size: 0.85rem; font-family: var(--font); font-weight: 600; letter-spacing: 0.05em; text-transform: lowercase;">
-      asca
+  <!-- ⌘K PALETTE -->
+  <div id="cmdk" class="cmdk-overlay" hidden>
+    <div class="cmdk-box">
+      <input type="text" id="cmdk-input" placeholder="Jump to a tab, or find a course…" autocomplete="off" aria-label="Quick navigation and course search">
+      <div id="cmdk-results" role="listbox"></div>
     </div>
+  </div>
+
+  <footer>
+    <div class="footer-mark">asca</div>
+    <div class="footer-note">MSc Computer Science · University of Bonn · module handbook &amp; live BASIS data, Winter 2026/27</div>
   </footer>
 
   <script src="app.js"></script>

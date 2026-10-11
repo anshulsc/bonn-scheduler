@@ -1,0 +1,19 @@
+{
+  "courses": [
+    {
+      "code": "MA-INF 4118",
+      "name": "Principles of Deep Learning",
+      "type": "Lecture",
+      "track": "IS",
+      "ects": 6,
+      "language": "English",
+      "professor": "Prof. Dr. Zorah Lähner",
+      "group": "Geometry in Machine Learning Group, Institut für Informatik, University of Bonn",
+      "website": "https://geometryinml.cs.uni-bonn.de/teaching",
+      "contents": "The course covers foundations and principles of deep learning and its uses in the wider artificial intelligence literature. Foundational concepts include the transformer architecture, neural networks, training and optimization, backpropagation, and generalization. Taught as a 2h/week lecture (group size 120) plus 2h/week exercises (group size 30); marked exam is a written exam, admission requires 50% of points on individual exercise sheets.",
+      "sourceUrl": "https://www.informatik.uni-bonn.de/en/studies/master-programs/master-artificial-intelligence/documents/modulhandbuch-msc-ai-2026.pdf",
+      "confidence": "high",
+      "note": "All core fields verified in the official Modulhandbuch M.Sc. Artificial Intelligence 2026 (MA-INF 4118, 180 h workload, 6 CP, every year, compulsory 1st semester; module coordinator and lecturer Prof. Dr. Zorah Lähner). Her group's teaching page (geometryinml.cs.uni-bonn.de/teaching) lists this exact lecture with code MA-INF 4118, 6CP for Winter Semester 2026. Language is English by strong inference: the whole new M.Sc. AI program at Bonn is English-taught and the handbook is entirely in English, but no per-module language field exists. Track inferred as IS (Intelligent Systems): MA-INF 41xx numbers in the Bonn CS catalog are Intelligent-Systems-area lectures, and this is a core AI/ML lecture. Note it is formally a compulsory module of the NEW M.Sc. Artificial Intelligence program, newly cross-listed in the CS (Informatik) catalog for WiSe 2026/27."
+    }
+  ]
+}

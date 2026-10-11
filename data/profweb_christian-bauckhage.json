@@ -1,0 +1,9 @@
+{
+  "key": "christian-bauckhage",
+  "name": "Prof. Dr.-Ing. Christian Bauckhage",
+  "website": "https://www.iais.fraunhofer.de/en/about-us/staff/christian-bauckhage",
+  "websiteStatus": "updated",
+  "groupSite": "https://www.iai.uni-bonn.de/en",
+  "teaching": [],
+  "evidence": "Fetched https://www.iais.fraunhofer.de/ (institute root, works) and the more specific staff profile page https://www.iais.fraunhofer.de/en/about-us/staff/christian-bauckhage (HTTP 200; lists his 2021-2026 publications but no teaching section). Per the Uni Bonn Institute of Computer Science page https://www.informatik.uni-bonn.de/en/research/informationsystems-and-artifical-intelligence, he co-heads the Machine Learning & AI Lab at CS III (Information Systems and AI) and is co-opted at Fraunhofer IAIS; the group's landing page https://www.iai.uni-bonn.de/en was fetched but contains no public teaching listing. Wikipedia (de) confirms him as professor at Uni Bonn, chief scientist at Fraunhofer IAIS and Lamarr director. No publicly reachable teaching page with current-semester courses could be verified, so teaching is []."
+}

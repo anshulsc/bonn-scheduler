@@ -1,0 +1,9 @@
+{
+  "key": "matthias-hullin",
+  "name": "Prof. Dr. Matthias B. Hullin",
+  "website": "https://light.cs.uni-bonn.de",
+  "websiteStatus": "updated",
+  "groupSite": null,
+  "teaching": [],
+  "evidence": "Old page http://cg.cs.uni-bonn.de/hullin/ is absorbed into the CG SPA (no content). His staff record on the CG backend (api/people, 'Digital Material Appearance Group') states: NEW LAB WEBSITE Computational Light Transport https://light.cs.uni-bonn.de/ (resolves to light.informatik.uni-bonn.de, an HTTrack-mirrored static site, no teaching page reachable). No course in the CG chair's WS 2026/27 catalog is attributed to him (api/courses populate=Lecturers checked)."
+}

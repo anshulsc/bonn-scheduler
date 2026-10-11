@@ -1,0 +1,16 @@
+{
+  "key": "nils-goerke",
+  "name": "Dr. Nils Goerke",
+  "website": "https://www.ais.uni-bonn.de/teaching.html",
+  "websiteStatus": "updated",
+  "groupSite": "https://www.ais.uni-bonn.de/",
+  "teaching": [
+    {
+      "title": "Lecture: Technical Neural Nets (course page title: 'Technical Neural Networks' (L2E4))",
+      "code": "MA-INF 4204",
+      "url": "https://www.ais.uni-bonn.de/WS/4204_L_NN.html",
+      "semester": "Wintersemester 2026/27"
+    }
+  ],
+  "evidence": "No website was known beforehand; no personal homepage located for Goerke. He teaches as part of the Autonomous Intelligent Systems group (Computer Science VI, ais.uni-bonn.de). Fetched https://www.ais.uni-bonn.de/teaching.html: its top section 'Wintersemester 2026/27' lists 'Lecture: Technical Neural Nets (L2E2) (MA-INF 4204)' by Dr. Nils Goerke, linking to the eCampus course and the course page; it also lists a Bachelor project group 'Projektgruppe: Mobile Robotik (BA-INF 051)' run by him (not included above since the schema targets MA-INF MSc teaching). Fetched course page https://www.ais.uni-bonn.de/WS/4204_L_NN.html: 'Technical Neural Networks (L2E4) (MA-INF 4204), Dr. Nils Goerke ... There are no prerequisites ... in Winter 2026' (lecture organized as 2h lecture + 2h exercises per week). The former Network group site net.cs.uni-bonn.de (Informatik 4, Communication Systems) was also fetched; its WT 2026/27 teaching page does not list Goerke."
+}

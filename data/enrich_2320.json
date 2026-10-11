@@ -1,0 +1,19 @@
+{
+  "courses": [
+    {
+      "code": "MA-INF 2320",
+      "name": "Seminar Human-Centered Sensing and Digital Health",
+      "type": "Seminar",
+      "track": "GVA",
+      "ects": null,
+      "language": "English",
+      "professor": "Prof. Dr. rer. nat. Björn-Peter Krüger",
+      "group": "Personalized Digital Health and Telemedicine (Uni Bonn, Faculty of Mathematics and Natural Sciences / University Hospital Bonn, Dept. of Epileptology; Institute of Computer Science, Department VIII 'Computational Life & Health')",
+      "website": "https://digital-health-bonn.de/lectures/",
+      "contents": "Master seminar on human-centered sensing and digital health offered by the Personalized Digital Health and Telemedicine group of Prof. Björn Krüger at the University of Bonn. Thematic scope follows the group's research profile: technologies for capturing human data (movement and vital parameters) via wearables and contactless sensing (video, depth and thermal imaging, EMG), and data analysis/machine-learning methods for personalized healthcare, including privacy and security aspects of sensitive health data. Per BASIS (WS 2026/27): 2 SWS, English, organizational intro meeting 06.10.2026 via Zoom; supervised by Anna Jansen, Melissa Steininger and Nazila Ahmadi Daryakenari.",
+      "sourceUrl": "https://digital-health-bonn.de/lectures/",
+      "confidence": "high",
+      "notes": "VERIFIED (group teaching page digital-health-bonn.de/lectures, 'Winter Term 2026/2027'): 'Seminar: Human-Centered Sensing and Digital Health (MA-INF 2320) - Anna Jansen, Melissa Steiniger [sic] and Nazila Ahmadi Daryakenari, responsible Prof. Dr. Björn Krüger'. VERIFIED (BASIS, unitId 51348): Lehrsprache Englisch, SWS 2.0, Verantwortlicher Prof. Dr. Björn-Peter Krüger, intro meeting 06.10.2026 14:00 Zoom. VERIFIED (informatik.uni-bonn.de, Dept. VIII page; ukbonn.de group page): group identity, research focus and Krüger's biography (PhD CS Bonn 2012, postdoc Bonn, Director of Research & Product Development at Gokhale Method Enterprise (Stanford, CA) 2015, Professor at TH Köln 2022, Professor in Bonn since 2023; Associated PI in Lamarr Institute Life Sciences & Health area since 2025). NOT VERIFIED: ECTS (no public module description yet; 2023 handbook convention is 4 ECTS for seminars - 30 of 33 seminar modules - but that is convention, not this module's value); exact paper list/syllabus. TRACK RATIONALE: 'GVA' best inference - MA-INF 23xx codes in the 2023 module handbook belong to GVA (Graphics/Vision/Audio) and Krüger's existing modules (MA-INF 2202/2210/2311 Computer Animation) are GVA; could be reclassified once the module handbook is updated."
+    }
+  ]
+}

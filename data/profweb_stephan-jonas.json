@@ -1,0 +1,9 @@
+{
+  "key": "stephan-jonas",
+  "name": "Prof. Dr. Stephan Michael Jonas",
+  "website": "https://stephan-jonas.de/",
+  "websiteStatus": "updated",
+  "groupSite": null,
+  "teaching": [],
+  "evidence": "No website was known. Found personal site https://stephan-jonas.de/ (HTTP 200): states 'Professor Digital Health, Technical University of Munich' with TUM Garching address and contact jonas[at]in.tum.de; CV lists '2019 to present: Technical University of Munich, Professor Digital Health'. The lab URL it links (health.in.tum.de) does not resolve (DNS) and the site has no teaching section; the publication list ends around 2016, so the page appears stale. Ambiguity: the Bonn MSc module handbook attributes module MA-INF 3110 'Lab Basics of iOS-Development' (digital medicine context) to Prof. Dr. Stephan Jonas, which fits this person's medical-informatics profile, but the site itself does not mention Bonn and no current teaching listing of his could be verified online, so teaching is []."
+}

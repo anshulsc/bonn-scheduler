@@ -1,0 +1,19 @@
+{
+  "courses": [
+    {
+      "code": "MA-INF 4119",
+      "name": "Data, Knowledge, and Context in Machine Learning and AI",
+      "type": "Lecture",
+      "track": "IS",
+      "ects": 2,
+      "language": "English",
+      "professor": "Dr. Brendan Balcerak Jackson (module coordinator; lectures given by rotating Lamarr Institute researchers from University of Bonn and TU Dortmund)",
+      "group": "Lamarr Institute for Machine Learning and Artificial Intelligence, University of Bonn (in cooperation with TU Dortmund)",
+      "website": "https://www.mlai.cs.uni-bonn.de/en/teaching-1/ws25-26",
+      "contents": "Lecture series on cutting-edge research in 'triangular AI', which combines a data-intensive approach with expert knowledge and context as two additional powerful sources of intelligence. Methods are examined for integrating knowledge from sources such as previous experience, informed simulations, mathematical descriptions of physical laws, and explicitly human-provided knowledge, and for exploiting open, variable contexts (active sensing, experimentation, dynamic multimodal interaction with humans). The series surveys core triangular-AI research areas (hybrid and resource-aware ML, human-centered and embodied AI) plus application areas (NLP, physics and life sciences, industry and logistics), and examines ethically informed and trustworthy AI. Lectures by rotating Lamarr Institute researchers, alternating between Bonn and TU Dortmund with live-streaming; graded by written exam.",
+      "sourceUrl": "https://www.informatik.uni-bonn.de/en/studies/master-programs/master-artificial-intelligence/documents/modulhandbuch-msc-ai-2026.pdf",
+      "confidence": "high",
+      "note": "Verified in official Modulhandbuch M.Sc. AI 2026: MA-INF 4119, 60 h workload, 2 CP, lecture only (L3), 1 semester, every year, optional, semesters 1-3; module coordinator Dr. Brendan Balcerak Jackson; individual lecturers announced before semester start. The mlai.cs.uni-bonn.de WS25/26 teaching page hosts this exact course and describes it as the Lamarr Lecture Series; lamarr-institute.org confirms all lectures are held in English with rotating speakers (e.g. Jian-Jia Chen, Sebastian Buschjäger on Resource-Aware ML). No single professor can be named as 'the' lecturer — coordinator attribution only. Track inferred as IS (Intelligent Systems): interdisciplinary ML/AI lecture series by the Lamarr Institute."
+    }
+  ]
+}

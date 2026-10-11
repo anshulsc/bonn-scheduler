@@ -1,0 +1,58 @@
+{
+  "key": "lucie-flek",
+  "name": "Prof. Dr. Lucie Flek",
+  "website": "https://caisa-lab.github.io",
+  "websiteStatus": "updated",
+  "groupSite": "https://www.b-it-center.de/caisa",
+  "teaching": [
+    {
+      "title": "Natural Language Processing Lab",
+      "code": "MA-INF 4237",
+      "url": "https://www.b-it-center.de/caisa/teaching/ma-inf-4237/",
+      "semester": "Summer Semester 2026"
+    },
+    {
+      "title": "AI Safety (Seminar)",
+      "code": "MA-INF 4116",
+      "url": "https://www.b-it-center.de/caisa/teaching/ma-inf-4116/",
+      "semester": "Summer Semester 2026"
+    },
+    {
+      "title": "Foundations of Data Science",
+      "code": "MA-INF 4228",
+      "url": "https://www.b-it-center.de/caisa/teaching/ma-inf-4228/",
+      "semester": "Summer Semester 2026"
+    },
+    {
+      "title": "Dialogue Systems",
+      "code": "MA-INF 4238",
+      "url": "https://www.b-it-center.de/caisa/teaching/ma-inf-4238/",
+      "semester": "Summer Semester 2026"
+    },
+    {
+      "title": "Introduction to Natural Language Processing",
+      "code": "MA-INF 4115",
+      "url": "https://www.b-it-center.de/caisa/teaching/ma-inf-4115/",
+      "semester": "Winter Semester 2025/2026"
+    },
+    {
+      "title": "Seminar: Large Language Models",
+      "code": "MA-INF 4332",
+      "url": "https://www.b-it-center.de/caisa/teaching/ma-inf-4332/",
+      "semester": "Winter Semester 2025/2026"
+    },
+    {
+      "title": "Lab AI Alignment",
+      "code": "MA-INF 4335",
+      "url": "https://www.b-it-center.de/caisa/teaching/ma-inf-4335/",
+      "semester": "Winter Semester 2025/2026"
+    },
+    {
+      "title": "Seminar Selected Topics in Natural Language Processing",
+      "code": "MA-INF 4336",
+      "url": "https://www.b-it-center.de/caisa/teaching/ma-inf-4336/",
+      "semester": "Winter Semester 2025/2026"
+    }
+  ],
+  "evidence": "caisalab.github.io (known site) is dead (GitHub Pages 404). CAISA lab site moved to https://caisa-lab.github.io (confirmed live; states CAISA Lab led by Prof. Lucie Flek; also linked from caisa-lab.github.io footer to b-it teaching). Teaching page https://www.b-it-center.de/caisa/teaching lists courses with MA-INF codes; the newest section shown is Summer Semester 2026, followed by Winter Semester 2025/2026 — no WS 2026/27 section published (checked 2026-10-12)."
+}

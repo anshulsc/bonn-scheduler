@@ -1,0 +1,22 @@
+{
+  "key": "benjamin-kolbe",
+  "name": "Dr. Benedikt Kolbe",
+  "website": "https://hyperbolictilings.wordpress.com/",
+  "websiteStatus": "updated",
+  "groupSite": "https://tcs.cs.uni-bonn.de/",
+  "teaching": [
+    {
+      "title": "Computational Topology",
+      "code": "MA-INF 1323",
+      "url": "https://tcs.cs.uni-bonn.de/doku.php/teaching/ws2425/vl-comptopo",
+      "semester": "listed in his teaching portfolio without semester; linked course page is the WS 24/25 iteration (BASIS lists the course under him again for Wintersemester 2026/27, unitIds 51685/21469/41400, but no WS 26/27 course page exists on the group site yet)"
+    },
+    {
+      "title": "Algorithmic knot theory",
+      "code": "MA-INF 1230/V5D2",
+      "url": "https://tcs.cs.uni-bonn.de/doku.php/teaching/ss26/vl-akt",
+      "semester": "listed in his teaching portfolio without semester; linked course page is the SS 2026 iteration"
+    }
+  ],
+  "evidence": "NAME NOTE: the assigned roster calls him 'Dr. Benjamin Marian Kolbe'; University of Bonn sources identify the lecturer of 'Computational Topology' as Dr. Benedikt Kolbe (ORCID https://orcid.org/0009-0005-0440-4912, Uni Bonn / Lamarr / Hausdorff Center for Mathematics) — presumed same person; name recorded as verified. No website was known beforehand. Found via staff page https://tcs.cs.uni-bonn.de/doku.php/staff/benediktkolbe (Institute of Computer Science, Dept. V 'Theoretical Computer Science / Algorithms and Complexity', office Friedrich-Hirzebruch-Allee 8) whose Teaching portfolio links the two courses above and links his personal homepage https://hyperbolictilings.wordpress.com/ (fetched; states he works in the research groups Algorithms and Complexity, Computational Analytics, Information Systems and AI at Uni Bonn, employed at Lamarr Institute). Fetched https://tcs.cs.uni-bonn.de/doku.php/teaching/start: its 'Winter Term 2026/27' block lists MA-INF 1218, MA-INF 1203, MA-INF 1219, MA-INF 1205/S4C1 etc. but NOT Computational Topology (course page not yet created for WS 26/27), so his portfolio/rollup listing was used."
+}

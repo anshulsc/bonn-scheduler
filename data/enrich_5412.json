@@ -1,0 +1,19 @@
+{
+  "courses": [
+    {
+      "code": "MA-INF 5412",
+      "name": "Seminar Sustainable Entrepreneurship and Venturing",
+      "type": "Seminar",
+      "track": null,
+      "ects": 6,
+      "language": "English",
+      "professor": "Prof. Dr. Denise Fischer-Kreer",
+      "group": "Professur für Entrepreneurial Behaviour, Institut für Entrepreneurship (IES), Agrar-, Ernährungs- und Ingenieurwissenschaftliche Fakultät, Universität Bonn",
+      "website": "https://www.ies.uni-bonn.de/",
+      "contents": "The module is designed for students interested in start-ups and how entrepreneurship may help foster urgent sustainability transformations. It provides an overview of the entrepreneurial process of discovering, evaluating, and implementing new business ideas and models to promote sustainable development. Students explore sustainable entrepreneurship (fundamentals of entrepreneurship, sustainable business models, entrepreneurial tools for sustainability) and work in teams to develop a sustainable business idea, turning it into a business model and learning how to present it.",
+      "sourceUrl": "https://bamainfo.informatik.uni-bonn.de/public/pa/Module-Handbook-MSc-Artificial-Intelligence.pdf",
+      "confidence": "high",
+      "note": "Cross-faculty elective: the event is run as ARTS-BC08 [780750101] by the Faculty of Agriculture, Nutrition and Engineering Sciences (Institut für Entrepreneurship, chair 'Entrepreneurial Behaviour') and cross-listed into the new M.Sc. Artificial Intelligence (2026) as MA-INF 5412 ('General Electives' section of the MSc AI 2026 module handbook, 30 Sep 2026). 6 CP / 180 h, block seminar (6 block days Thu 9-17h, Rotationsgebäude Endenich), max 25 participants, exam = seminar talk + written paper. NOT listed in the MSc Computer Science (2023) module handbook (checked the WS 2026/27 edition), so M.Sc. CS students could presumably only take it after individual approval by the CS examination board. track set to null: it maps to no CS research track (AL/GVA/ICM/IS) - it is an interdisciplinary general elective. BASIS detail: https://basis.uni-bonn.de/qisserver/pages/startFlow.xhtml?_flowId=detailView-flow&unitId=5238&periodId=142&navigationPosition=courseoverviewShow ; uni-bonn news on the chair holder: https://www.uni-bonn.de/de/neues/181-2026 and https://www.uni-bonn.de/de/neues/neue-professur-fuer-entrepreneurial-behaviour"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "key": "michael-meier",
+  "name": "Prof. Dr. Michael Meier",
+  "website": "https://net.cs.uni-bonn.de/wg/itsec/",
+  "websiteStatus": "updated",
+  "groupSite": "https://net.cs.uni-bonn.de/wg/itsec/",
+  "teaching": [
+    {
+      "title": "Lecture: IT Security (MSc Informatik / Cyber Security, English)",
+      "code": null,
+      "url": "https://net.cs.uni-bonn.de/wg/itsec/teaching/wt-202627/",
+      "semester": "Winter Term 2026/27"
+    },
+    {
+      "title": "Lecture: Elliptic Curves and their Applications in Cryptography (MSc)",
+      "code": null,
+      "url": "https://net.cs.uni-bonn.de/wg/itsec/teaching/wt-202627/",
+      "semester": "Winter Term 2026/27"
+    },
+    {
+      "title": "Lecture: Side Channel Attacks (MSc)",
+      "code": null,
+      "url": "https://net.cs.uni-bonn.de/wg/itsec/teaching/wt-202627/",
+      "semester": "Winter Term 2026/27"
+    },
+    {
+      "title": "Seminar: Selected Topics in IT Security (MSc)",
+      "code": null,
+      "url": "https://net.cs.uni-bonn.de/wg/itsec/teaching/wt-202627/",
+      "semester": "Winter Term 2026/27"
+    },
+    {
+      "title": "Lab Course: IT Security (MSc, semester course; IPEC block course Feb-Mar 2026 per page)",
+      "code": null,
+      "url": "https://net.cs.uni-bonn.de/wg/itsec/teaching/wt-202627/",
+      "semester": "Winter Term 2026/27"
+    },
+    {
+      "title": "Lecture: Algorithmen und Programmierung (BSc)",
+      "code": null,
+      "url": "https://net.cs.uni-bonn.de/wg/itsec/teaching/wt-202627/",
+      "semester": "Winter Term 2026/27"
+    },
+    {
+      "title": "Lecture: IT-Sicherheit (BSc)",
+      "code": null,
+      "url": "https://net.cs.uni-bonn.de/wg/itsec/teaching/wt-202627/",
+      "semester": "Winter Term 2026/27"
+    },
+    {
+      "title": "Lecture: Grundlagen der offensiven IT-Sicherheit (BSc)",
+      "code": null,
+      "url": "https://net.cs.uni-bonn.de/wg/itsec/teaching/wt-202627/",
+      "semester": "Winter Term 2026/27"
+    },
+    {
+      "title": "Lecture: Informationssicherheits-Managementsysteme (BSc)",
+      "code": null,
+      "url": "https://net.cs.uni-bonn.de/wg/itsec/teaching/wt-202627/",
+      "semester": "Winter Term 2026/27"
+    },
+    {
+      "title": "Lecture: Moderne Kryptographie und ihre Anwendung (BSc, online)",
+      "code": null,
+      "url": "https://net.cs.uni-bonn.de/wg/itsec/teaching/wt-202627/",
+      "semester": "Winter Term 2026/27"
+    },
+    {
+      "title": "Project Group: IT-Sicherheit / Sichere IT-Systeme / Cyber Security (BSc)",
+      "code": null,
+      "url": "https://net.cs.uni-bonn.de/wg/itsec/teaching/wt-202627/",
+      "semester": "Winter Term 2026/27"
+    }
+  ],
+  "evidence": "https://itsec.cs.uni-bonn.de returns 200 but placeholder 'Hier finden Sie keine Webseite' — host abandoned. IT Security work group (leader Prof. Dr. Michael Meier) per net.cs.uni-bonn.de start page and wg/itsec/ + work-groups/itsec/ pages; teaching list wg/itsec/teaching/wt-202627/ (last changed Sept 2026). No MA-INF codes printed on the page."
+}

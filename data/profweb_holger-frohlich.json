@@ -1,0 +1,9 @@
+{
+  "key": "holger-frohlich",
+  "name": "Dr. Holger Fröhlich (listed as Prof. Dr. Holger Fröhlich on his institution pages)",
+  "website": "https://www.b-it-center.de/research-groups/biomedical-data-science/",
+  "websiteStatus": "updated",
+  "groupSite": "https://www.scai.fraunhofer.de/en/business-research-areas/bioinformatics.html",
+  "teaching": [],
+  "evidence": "No website was known beforehand. Fetched https://www.b-it-center.de/research-groups/biomedical-data-science/ — B-IT (Bonn-Aachen International Center for Information Technology) research-group page 'Biomedical Data Science' naming Prof. Dr. Holger Fröhlich as Group Leader, research focus 'AI for precision medicine / AI for early drug discovery and system medicine'. The page contains no teaching section and no course links, hence teaching is empty. Also fetched https://www.scai.fraunhofer.de/en/business-research-areas/bioinformatics.html (Fraunhofer SCAI), which shows his business card/contact (holger.froehlich@scai.fraunhofer.de) but no teaching listing. BASIS (Wintersemester 2026/27, unitId 41472) lists a 'Lab Biomedical Data Science' under his name, but no live linked course page on his group's website was found, so it is not included per the verified-content rule."
+}

@@ -1,0 +1,20 @@
+{
+  "key": "sven-behnke",
+  "name": "Prof. Dr. Sven Behnke",
+  "website": "https://www.ais.uni-bonn.de/",
+  "websiteStatus": "unchanged",
+  "groupSite": null,
+  "teaching": [
+    { "title": "Vorlesung: Grundlagen der Robotik (2V+2Ü) - taught by Prof. Behnke (BA module)", "code": "BA-INF 132", "url": "https://ecampus.uni-bonn.de/ilias.php?baseClass=ilrepositorygui&cmd=infoScreenGoto&ref_id=4243969.html", "semester": "Wintersemester 2026/27" },
+    { "title": "Lecture: Technical Neural Nets (L2E2, lecturer: Dr. Nils Goerke)", "code": "MA-INF 4204", "url": "https://www.ais.uni-bonn.de/WS/4204_L_NN.html", "semester": "Wintersemester 2026/27" },
+    { "title": "Lecture: Cognitive Robotics (L2E2, with Prof. Maren Bennewitz)", "code": "MA-INF 4113", "url": "https://ecampus.uni-bonn.de/ilias.php?baseClass=ilrepositorygui&cmd=infoScreenGoto&ref_id=4243287.html", "semester": "Wintersemester 2026/27" },
+    { "title": "Lab Vision Systems: Cuda Vision: Learning Computer Vision on GPUs", "code": "MA-INF 4308", "url": "https://www.ais.uni-bonn.de/WS/P_CudaVision.html", "semester": "Wintersemester 2026/27" },
+    { "title": "Seminar Vision Systems", "code": "MA-INF 4208", "url": "https://www.ais.uni-bonn.de/WS/4208_Sem_Vision_Systems.html", "semester": "Wintersemester 2026/27" },
+    { "title": "Seminar: Cognitive Robotics", "code": "MA-INF 4211", "url": "https://www.ais.uni-bonn.de/WS/S_Cognitive_Robotics.html", "semester": "Wintersemester 2026/27" },
+    { "title": "Lab: Cognitive Robotics", "code": "MA-INF 4304", "url": "https://www.ais.uni-bonn.de/WS/P_Cognitive_Robotics.html", "semester": "Wintersemester 2026/27" },
+    { "title": "Begleitseminar zu Abschlussarbeiten AIS / Accompanying Seminar", "code": "MA-INF 0402 (also BA-INF 061)", "url": "https://www.ais.uni-bonn.de/WS/Begleitseminar.html", "semester": "Wintersemester 2026/27" },
+    { "title": "Projektgruppe: Kognitive Robotik (BA module)", "code": "BA-INF 051", "url": "https://www.ais.uni-bonn.de/WS/PG_Kognitive_Robotik.html", "semester": "Wintersemester 2026/27" },
+    { "title": "Projektgruppe: Mobile Robotik (BA module, lecturer: Dr. Nils Goerke)", "code": "BA-INF 051", "url": "https://www.ais.uni-bonn.de/WS/PG_Mobile_Robotik.html", "semester": "Wintersemester 2026/27" }
+  ],
+  "evidence": "Fetched https://www.ais.uni-bonn.de/ and https://www.ais.uni-bonn.de/teaching.html (teaching page headed 'Wintersemester 2026/27' at top). All WS/*.html course-page URLs on that page verified HTTP 200 on 2026-10-12. Chair site is the personal/group landing page (Autonomous Intelligent Systems, CS VI, University of Bonn)."
+}

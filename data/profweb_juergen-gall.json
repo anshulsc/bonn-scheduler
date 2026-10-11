@@ -1,0 +1,28 @@
+{
+  "key": "juergen-gall",
+  "name": "Prof. Dr. Jürgen Gall",
+  "website": "https://pages.iai.uni-bonn.de/gall_juergen/",
+  "websiteStatus": "verified-current",
+  "groupSite": null,
+  "teaching": [
+    {
+      "title": "Computer Vision",
+      "code": "MA-INF 2201/MA-MORO-M04",
+      "url": "https://pages.iai.uni-bonn.de/gall_juergen/teaching/Lectures/cv26.html",
+      "semester": "WS26/27 (as shown on his page)"
+    },
+    {
+      "title": "Seminar Vision: Selected Topics in Computer Vision",
+      "code": "MA-INF 2206/MA-MORO-E10",
+      "url": "https://pages.iai.uni-bonn.de/gall_juergen/teaching/Lectures/seminarWS2627.html",
+      "semester": "WS26/27 (as shown on his page)"
+    },
+    {
+      "title": "Lab Vision",
+      "code": "MA-INF 2307/MA-MORO-E07",
+      "url": "https://pages.iai.uni-bonn.de/gall_juergen/teaching/Lectures/labWS2627.html",
+      "semester": "WS26/27 (as shown on his page)"
+    }
+  ],
+  "evidence": "Fetched https://pages.iai.uni-bonn.de/gall_juergen/ with FetchURL (live, publications up to 2026) and re-fetched raw HTML with curl to extract the Teaching-section links. The Teaching section lists 'BA-INF 062 ... SS26', 'MA-INF 2201/MA-MORO-M04 - Computer Vision, ... WS25/26, WS26/27' -> teaching/Lectures/cv26.html, 'MA-INF 2206/MA-MORO-E10 - Seminar Vision ... WS25/26, SS26, WS26/27' -> teaching/Lectures/seminarWS2627.html, and 'MA-INF 2307/MA-MORO-E07 - Lab Vision ... SS26, WS26/27' -> teaching/Lectures/labWS2627.html. All three WS26/27 course pages return HTTP 200 (curl). No separate chair site beyond this page (it identifies him as head of the Computer Vision Group, Dept. of Information Systems and AI)."
+}
