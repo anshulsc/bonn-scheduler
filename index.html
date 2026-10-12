@@ -48,6 +48,7 @@
       <button class="nav-tab" data-tab="planner" id="nav-planner">Planner</button>
       <button class="nav-tab" data-tab="professors" id="nav-professors">Professors</button>
       <button class="nav-tab" data-tab="labs" id="nav-labs">Labs</button>
+      <button class="nav-tab" data-tab="rules" id="nav-rules">Rules</button>
     </div>
   </nav>
 
@@ -173,6 +174,28 @@
         <p class="page-subtitle">Where the courses come from — and where theses happen.</p>
       </div>
       <div id="labs-grid" class="labs-grid"></div>
+    </section>
+
+    <!-- DEGREE RULES TAB -->
+    <section id="tab-rules" class="tab-content">
+      <div class="section-header">
+        <div class="page-title">
+          <h2>Degree rules</h2>
+          <p class="page-subtitle">MSc Computer Science · Prüfungsordnung 2023 · checked live against your planner.</p>
+        </div>
+        <label class="rules-major">
+          <span>Major track</span>
+          <select id="rules-major" aria-label="Major track">
+            <option value="IS">Intelligent Systems</option>
+            <option value="AL">Algorithmics</option>
+            <option value="GVA">Graphics, Vision &amp; Audio</option>
+            <option value="ICM">Information &amp; Communication Mgmt</option>
+          </select>
+        </label>
+      </div>
+      <div id="rules-check" class="rules-check"></div>
+      <div id="rules-split" class="rules-split"></div>
+      <div id="rules-reference" class="rules-reference"></div>
     </section>
   </main>
 

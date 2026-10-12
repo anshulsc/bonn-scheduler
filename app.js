@@ -5,6 +5,24 @@
 
 let DB = {};
 let selectedCourses = new Set();
+
+/* Modules already passed — fixed transcript, counted by the Rules tab and
+   shown as done everywhere. Add a semester here once its results are in. */
+const COMPLETED_SEMESTERS = [
+  {
+    label: 'Summer 2026',
+    courses: [
+      { id: 'MA-INF-4235', code: 'MA-INF 4235', name: 'Reinforcement Learning', type: 'Lecture', track: 'IS', ects: 6 },
+      { id: 'MA-INF-4242', code: 'MA-INF 4242', name: 'Self-supervised Learning', type: 'Lecture', track: 'IS', ects: 6 },
+      { id: 'MA-INF-4116', code: 'MA-INF 4116', name: 'Seminar AI Safety', type: 'Seminar', track: 'IS', ects: 4 },
+      { id: 'MA-INF-4228', code: 'MA-INF 4228', name: 'Foundations of Data Science', type: 'Lecture', track: 'IS', ects: 9 }
+    ]
+  }
+];
+const COMPLETED_IDS = new Set(COMPLETED_SEMESTERS.flatMap(s => s.courses.map(c => c.id)));
+function completedIn(id) {
+  return COMPLETED_SEMESTERS.find(s => s.courses.some(c => c.id === id))?.label || null;
+}
 let currentTrack = 'all';
 let currentType = 'all';
 let showOnlyOffered = false;
@@ -58,7 +76,7 @@ async function init() {
 
   const saved = localStorage.getItem('selectedCourses');
   if (saved) {
-    try { selectedCourses = new Set(JSON.parse(saved)); } catch (e) {}
+    try { selectedCourses = new Set(JSON.parse(saved).filter(id => !COMPLETED_IDS.has(id))); } catch (e) {}
   }
 
   renderCourses(true);
@@ -66,6 +84,7 @@ async function init() {
   renderScheduler();
   renderProfessors();
   renderLabs();
+  renderRules();
   updateStats();
   bindEvents();
 }
@@ -102,6 +121,9 @@ function bindEvents() {
   window.addEventListener('popstate', applyHashTab);
   applyHashTab();
 
+  // Degree rules — major track picker
+  document.getElementById('rules-major').addEventListener('change', e => setMajor(e.target.value));
+
   // Search — no entrance animation on text-level re-renders
   document.getElementById('filter-search').addEventListener('input', () => renderCourses(false));
 
@@ -137,11 +159,11 @@ function bindEvents() {
     const snapshot = [...selectedCourses];
     selectedCourses.clear();
     saveSelections();
-    renderCourses(false); renderPlanner(); renderScheduler(); updateStats();
+    renderCourses(false); renderPlanner(); renderScheduler(); renderRules(); updateStats();
     showToast('Planner cleared', 'Undo', () => {
       selectedCourses = new Set(snapshot);
       saveSelections();
-      renderCourses(false); renderPlanner(); renderScheduler(); updateStats();
+      renderCourses(false); renderPlanner(); renderScheduler(); renderRules(); updateStats();
     });
   });
 
@@ -275,6 +297,7 @@ function renderCourses(animate = false) {
 
   grid.innerHTML = filtered.map(c => {
     const isSelected = selectedCourses.has(c.id);
+    const doneIn = completedIn(c.id);
     const schedStr = c.schedule && c.schedule.length > 0
       ? c.schedule.map(s => `${s.day} ${s.time}`).join(' · ')
       : 'Schedule to be determined';
@@ -282,7 +305,7 @@ function renderCourses(animate = false) {
     const hasContent = c.contents && c.contents.length > 10;
 
     return `
-      <div class="course-card ${isSelected ? 'selected' : ''}" style="--card-track-color: ${tc}">
+      <div class="course-card ${isSelected ? 'selected' : ''} ${doneIn ? 'done' : ''}" style="--card-track-color: ${tc}">
         <button type="button" class="card-open" onclick="openModal('${c.id}')" aria-label="Open details: ${escAttr(c.name)}">
           <div class="card-top">
             <span class="card-code">${c.code}</span>
@@ -300,9 +323,9 @@ function renderCourses(animate = false) {
             <span class="card-badge type">${c.type}</span>
           </span>
         </button>
-        <button type="button" class="card-add-btn" onclick="toggleCourse('${c.id}')">
-          ${isSelected ? 'Remove' : 'Add'}
-        </button>
+        ${doneIn
+          ? `<span class="card-done-badge" title="Completed in ${doneIn}">✓ Done</span>`
+          : `<button type="button" class="card-add-btn" onclick="toggleCourse('${c.id}')">${isSelected ? 'Remove' : 'Add'}</button>`}
       </div>
     `;
   }).join('');
@@ -342,6 +365,7 @@ function toggleCourse(id) {
   renderCourses(false);
   renderPlanner();
   renderScheduler();
+  renderRules();
   updateStats();
 }
 
@@ -481,9 +505,11 @@ function openModal(id) {
       </ul>
     </div>` : ''}
 
-    <button type="button" class="modal-add-btn ${isSelected ? 'remove' : ''}" onclick="toggleCourseFromModal('${c.id}')">
+    ${completedIn(c.id)
+      ? `<div class="modal-done">✓ Completed in ${completedIn(c.id)}</div>`
+      : `<button type="button" class="modal-add-btn ${isSelected ? 'remove' : ''}" onclick="toggleCourseFromModal('${c.id}')">
       ${isSelected ? 'Remove from planner' : 'Add to planner'}
-    </button>
+    </button>`}
   `;
 
   const modal = document.getElementById('course-modal');
@@ -928,6 +954,32 @@ function renderPlanner() {
   });
   conflictPairs.sort((x, y) => days.indexOf(x.day) - days.indexOf(y.day) || x.oStart - y.oStart);
 
+  /* Exercise slots are interchangeable within a course — when a collision
+     involves an Exercise, look for another slot of the same course that
+     collides with nothing, and surface it as a resolution. */
+  const flatSelected = days.flatMap(d => dayEvents[d].map(ev => ({ day: d, ...ev })));
+  function findAltExerciseSlot(ev) {
+    if (ev.slot.type !== 'Exercise') return null;
+    const alts = (ev.course.schedule || []).filter(s =>
+      s !== ev.slot && s.type === 'Exercise' && days.includes(s.day));
+    for (const alt of alts) {
+      const t = parseTime(alt.time);
+      if (!t) continue;
+      /* Only one exercise slot of a course is attended — ignore that
+         course's other exercise slots when testing the candidate. */
+      const clash = flatSelected.some(other =>
+        other.slot !== ev.slot &&
+        !(other.course.id === ev.course.id && other.slot.type === 'Exercise') &&
+        other.day === alt.day && other.start < t.end && t.start < other.end);
+      if (!clash) return { course: ev.course.code, day: alt.day, time: alt.time };
+    }
+    return null;
+  }
+  conflictPairs.forEach(p => {
+    p.fix = findAltExerciseSlot(p.a) || findAltExerciseSlot(p.b);
+  });
+  const resolvable = conflictPairs.filter(p => p.fix).length;
+
   const conflictCount = conflictPairs.length;
   document.getElementById('stat-conflicts').textContent = conflictCount;
   const pill = document.querySelector('.stat-pill.accent');
@@ -944,12 +996,13 @@ function renderPlanner() {
   const conflictsEl = document.getElementById('planner-conflicts');
   if (conflictsEl) {
     conflictsEl.innerHTML = conflictPairs.length === 0 ? '' : `
-      <div class="planner-conflict-title">Scheduling conflicts — ${conflictPairs.length} collision${conflictPairs.length !== 1 ? 's' : ''}</div>
+      <div class="planner-conflict-title">Scheduling conflicts — ${conflictPairs.length} collision${conflictPairs.length !== 1 ? 's' : ''}${resolvable > 0 ? ` · ${resolvable} resolvable by switching an exercise slot` : ''}</div>
       ${conflictPairs.map(p => `
         <div class="planner-conflict-row">
           <span class="pcr-slot">${p.day} · ${fmtMin(p.oStart)}–${fmtMin(p.oEnd)}</span>
           <span class="pcr-names">${p.a.course.name} × ${p.b.course.name}</span>
           <span class="pcr-mins ${p.full ? 'pcr-full' : ''}">${p.mins} min overlap${p.full ? '' : ' (partial)'}</span>
+          ${p.fix ? `<span class="pcr-fix">→ pick ${p.fix.course} exercise at ${p.fix.day} ${p.fix.time} instead</span>` : ''}
         </div>`).join('')}
     `;
   }
@@ -1018,6 +1071,230 @@ function renderPlanner() {
             <span class="sba-badge">${c.type}</span>
           </button>`).join('')}
       </div>`;
+  }
+}
+
+// ============ DEGREE RULES ============
+
+/* Source: Prüfungsordnung Master Computer Science 2023 (§4 Abs. 4, Anlage 1)
+   and the module handbook (revised 30 Sep 2025). Numbers below are the
+   regulation's — change them here if the PO is amended. */
+const RULES = {
+  total: 120, electives: 88, thesis: 30, thesisSeminar: 2,
+  majorMin: 31, majorMax: 61,
+  otherMin: 27, otherMax: 57, otherTracksNeeded: 2, otherTrackMin: 6,
+  seminarMax: 10, labMax: 18,
+  thesisStartMin: 60
+};
+const TRACK_KEYS = ['AL', 'GVA', 'ICM', 'IS'];
+const THESIS_CODES = ['MA-INF 0401', 'MA-INF 0402'];
+
+const RULE_SOURCES = [
+  { label: 'Prüfungsordnung Master 2023 (PDF)', url: 'https://www.informatik.uni-bonn.de/de/studium/pruefungsamt/dokumente/po_master_2023.pdf' },
+  { label: 'Module handbook WiSe 2025 (PDF)', url: 'https://www.informatik.uni-bonn.de/de/studium/pruefungsamt/dokumente/modulhandbuch-master-computer-science-wise2025.pdf' },
+  { label: 'MSc CS programme page', url: 'https://www.informatik.uni-bonn.de/en/studies/master-programs/master-computer-science/msc-cs' }
+];
+
+const RULE_REFERENCE = [
+  { title: 'Programme structure', ref: '§4', items: [
+    '120 ECTS in total: 88 ECTS of elective modules + 32 ECTS compulsory (Master Thesis 30 + Master Seminar 2).',
+    'No compulsory lectures — every course module is an elective from one of the four tracks.',
+    'Standard duration: 4 semesters full-time (6 part-time). Modules are meant for semesters 1–3; semester 4 is the thesis.',
+    'Teaching and exams are in English.',
+    'You pick one track as your major. It can be changed on justified request to the exam board, but only before the thesis topic is issued.'
+  ]},
+  { title: 'Major track', ref: 'Anlage 1', items: [
+    'At least 31 and at most 61 ECTS from your major track.',
+    'Must include at least one seminar module and one lab module from the major.'
+  ]},
+  { title: 'Other tracks', ref: 'Anlage 1', items: [
+    'The remaining 27–57 ECTS come from the three non-major tracks.',
+    'At least two of those three tracks need at least 6 ECTS each. Meeting the 6 + 6 alone is not enough — the 27 ECTS minimum still applies.'
+  ]},
+  { title: 'Labs & seminars', ref: '§4 Abs. 4', items: [
+    'Seminars: at most 10 ECTS count, across all tracks (e.g. 4 + 6 or 4 + 4 — not 6 + 6).',
+    'Labs: at most 18 ECTS count, across all tracks (two 9-ECTS labs).',
+    'The 2-ECTS Master Seminar belongs to the thesis and does not use this budget.',
+    'Labs and seminars have compulsory attendance (marked * in the module plan): at most 30% absence, sickness included.',
+    'A failed seminar or lab cannot be retaken in the same semester — the whole module must be repeated.'
+  ]},
+  { title: 'Exams', ref: '§12–14, §21', items: [
+    'Register for every exam electronically within the published period — registration deadlines are hard cut-offs.',
+    'Deregister without reason up to one week before a written or oral exam; for seminars and labs, at least one week before topics are handed out.',
+    'Many lectures require coursework (e.g. 50% on exercise sheets) before you are admitted to the exam.',
+    'Written and oral exams have two dates per semester: after the lecture period and shortly before the next semester.',
+    'A failed exam may be retaken at most twice (three attempts in total).',
+    'Failing an elective three times loses that module — you compensate with a different elective. Running out of options means final failure.',
+    'Missing an exam or withdrawing after the deregistration deadline without a valid reason (e.g. medical certificate) counts as failed.'
+  ]},
+  { title: 'Grade improvement', ref: '§14 Abs. 4', items: [
+    'Passed exams cannot normally be retaken.',
+    'Exception: within your first three semesters, if you passed a written/oral exam on the first date, you may sit the second date in the same semester; the better grade counts.',
+    'This grade-improvement option can be used at most three times during the degree.'
+  ]},
+  { title: 'Master thesis', ref: '§19–20', items: [
+    'You can only start once you have at least 60 ECTS from other modules.',
+    'Register with the exam board; the Master Seminar must be registered together with the thesis.',
+    'Topics are usually issued after the lecture period of the 3rd semester.',
+    'Duration: at most 6 months (9 part-time). An extension of up to 6 weeks is possible on justified request.',
+    'You may hand back the topic once, within the first two months, without it counting as an attempt.',
+    'Text part: 25–100 pages. Graded by two examiners; a third is brought in if their grades differ by 2.0 or more.',
+    'A failed thesis can be repeated once, with a substantially different topic.'
+  ]},
+  { title: 'Final grade', ref: '§24', items: [
+    'ECTS-weighted average of all graded modules (thesis included).',
+    'Truncated, not rounded, to one decimal place.',
+    'Bands: ≤1.5 sehr gut · 1.6–2.5 gut · 2.6–3.5 befriedigend · 3.6–4.0 ausreichend.',
+    '"Mit Auszeichnung" (with distinction): overall ≤1.3 and thesis graded 1.0.'
+  ]},
+  { title: 'Extra modules', ref: '§30', items: [
+    'Up to 15 ECTS of additional modules beyond the regular programme, on request.',
+    'They can appear on the transcript but do not count toward the final grade.',
+    'The exam board may approve further elective modules each semester.'
+  ]}
+];
+
+function getMajor() {
+  try { return localStorage.getItem('majorTrack') || 'IS'; } catch (e) { return 'IS'; }
+}
+
+function setMajor(t) {
+  try { localStorage.setItem('majorTrack', t); } catch (e) {}
+  renderRules();
+}
+
+/* Pure evaluation of a course list against RULES — returns per-rule status */
+function evaluateRules(courses, major) {
+  const ects = c => c.ects || 0;
+  const electives = courses.filter(c => TRACK_KEYS.includes(c.track) && !THESIS_CODES.includes(c.code));
+  const sum = list => list.reduce((s, c) => s + ects(c), 0);
+  const byTrack = {};
+  TRACK_KEYS.forEach(t => { byTrack[t] = sum(electives.filter(c => c.track === t)); });
+
+  const majorList = electives.filter(c => c.track === major);
+  const majorEcts = byTrack[major];
+  const otherEcts = sum(electives.filter(c => c.track !== major));
+  const otherTracksMet = TRACK_KEYS.filter(t => t !== major && byTrack[t] >= RULES.otherTrackMin).length;
+  const seminarEcts = sum(electives.filter(c => c.type === 'Seminar'));
+  const labEcts = sum(electives.filter(c => c.type === 'Lab'));
+  const electiveEcts = sum(electives);
+
+  return {
+    byTrack, electiveEcts, majorEcts, otherEcts, seminarEcts, labEcts,
+    checks: [
+      { label: 'Electives', value: electiveEcts, target: RULES.electives, kind: 'min',
+        note: `${RULES.electives} ECTS of course modules needed` },
+      { label: 'Major track', value: majorEcts, target: RULES.majorMin, max: RULES.majorMax, kind: 'range',
+        note: `${RULES.majorMin}–${RULES.majorMax} ECTS` },
+      { label: 'Lab in major', value: majorList.filter(c => c.type === 'Lab').length, target: 1, kind: 'min', unit: '',
+        note: 'at least one' },
+      { label: 'Seminar in major', value: majorList.filter(c => c.type === 'Seminar').length, target: 1, kind: 'min', unit: '',
+        note: 'at least one' },
+      { label: 'Other tracks', value: otherEcts, target: RULES.otherMin, max: RULES.otherMax, kind: 'range',
+        note: `${RULES.otherMin}–${RULES.otherMax} ECTS outside the major` },
+      { label: 'Breadth', value: otherTracksMet, target: RULES.otherTracksNeeded, kind: 'min', unit: '',
+        note: `${RULES.otherTracksNeeded} other tracks with ≥${RULES.otherTrackMin} ECTS each` },
+      { label: 'Seminar cap', value: seminarEcts, target: RULES.seminarMax, kind: 'max',
+        note: `at most ${RULES.seminarMax} ECTS count` },
+      { label: 'Lab cap', value: labEcts, target: RULES.labMax, kind: 'max',
+        note: `at most ${RULES.labMax} ECTS count` },
+      { label: 'Thesis eligibility', value: electiveEcts, target: RULES.thesisStartMin, kind: 'min',
+        note: `${RULES.thesisStartMin} ECTS before starting the thesis` }
+    ]
+  };
+}
+
+/* ok = satisfied, over = cap exceeded (hard violation), todo = not reached yet */
+function checkStatus(ch) {
+  if (ch.kind === 'max') return ch.value <= ch.target ? 'ok' : 'over';
+  if (ch.kind === 'range' && ch.value > ch.max) return 'over';
+  return ch.value >= ch.target ? 'ok' : 'todo';
+}
+
+function renderRules() {
+  const checkEl = document.getElementById('rules-check');
+  if (!checkEl || !DB.courses) return;
+  const major = getMajor();
+  const select = document.getElementById('rules-major');
+  if (select) select.value = major;
+
+  /* Completed modules count first; a planned course already taken isn't double-counted */
+  const completed = COMPLETED_SEMESTERS.flatMap(s => s.courses);
+  const planned = DB.courses.filter(c => selectedCourses.has(c.id) && !COMPLETED_IDS.has(c.id));
+  const res = evaluateRules([...completed, ...planned], major);
+  const doneEcts = evaluateRules(completed, major).electiveEcts;
+
+  checkEl.innerHTML = `
+    <div class="rules-check-head">
+      <h3 class="sched-section-title">Your progress vs. the rules</h3>
+      <span class="rules-check-hint">${completed.length} completed (${doneEcts} ECTS) + ${planned.length} planned in your planner (${res.electiveEcts - doneEcts} ECTS).</span>
+    </div>
+    ${COMPLETED_SEMESTERS.length ? `
+      <div class="rules-done">
+        ${COMPLETED_SEMESTERS.map(sem => `
+          <div class="rules-done-sem">
+            <span class="rules-done-label">${sem.label} · completed</span>
+            <div class="rules-done-list">
+              ${sem.courses.map(c => `
+                <span class="rules-done-chip" style="--chip-color:${trackColor(c.track)}">✓ ${c.code} — ${c.name} <em>${c.type} · ${c.ects} ECTS</em></span>`).join('')}
+            </div>
+          </div>`).join('')}
+      </div>` : ''}
+    <div class="rules-check-grid">
+      ${res.checks.map(ch => {
+        const st = checkStatus(ch);
+        const unit = ch.unit === undefined ? ' ECTS' : ch.unit;
+        const cap = ch.kind === 'range' ? ch.max : ch.target;
+        const pct = Math.min(100, cap ? (ch.value / cap) * 100 : 0);
+        const minPct = ch.kind === 'range' ? (ch.target / ch.max) * 100 : null;
+        return `
+          <div class="rule-card is-${st}">
+            <div class="rule-card-top">
+              <span class="rule-label">${ch.label}</span>
+              <span class="rule-status">${st === 'ok' ? '✓' : st === 'over' ? 'Over limit' : 'Open'}</span>
+            </div>
+            <div class="rule-value"><strong>${ch.value}</strong><span> / ${ch.kind === 'range' ? `${ch.target}–${ch.max}` : ch.target}${unit}</span></div>
+            <div class="rule-bar"><div class="rule-bar-fill" style="width:${pct}%"></div>${minPct !== null ? `<div class="rule-bar-min" style="left:${minPct}%"></div>` : ''}</div>
+            <div class="rule-note">${ch.note}</div>
+          </div>`;
+      }).join('')}
+    </div>`;
+
+  /* ECTS split by track — major highlighted */
+  const splitEl = document.getElementById('rules-split');
+  const totalTracked = TRACK_KEYS.reduce((s, t) => s + res.byTrack[t], 0) || 1;
+  splitEl.innerHTML = `
+    <h3 class="sched-section-title">ECTS by track</h3>
+    <div class="rules-split-bar" role="img" aria-label="ECTS split by track">
+      ${TRACK_KEYS.filter(t => res.byTrack[t] > 0).map(t =>
+        `<div style="flex:${res.byTrack[t]}; background:${trackColor(t)}" title="${DB.tracks[t]?.name || t}: ${res.byTrack[t]} ECTS"></div>`).join('')}
+    </div>
+    <div class="rules-split-legend">
+      ${TRACK_KEYS.map(t => `
+        <span class="rules-split-item ${t === major ? 'is-major' : ''}">
+          <span class="rules-dot" style="background:${trackColor(t)}"></span>
+          ${DB.tracks[t]?.name || t}${t === major ? ' (major)' : ''}
+          <strong>${res.byTrack[t]}</strong>
+          <span class="rules-split-pct">${Math.round((res.byTrack[t] / totalTracked) * 100)}%</span>
+        </span>`).join('')}
+    </div>`;
+
+  /* Static reference — only rendered once */
+  const refEl = document.getElementById('rules-reference');
+  if (!refEl.dataset.ready) {
+    refEl.innerHTML = `
+      <h3 class="sched-section-title">The full rulebook</h3>
+      <div class="rules-ref-grid">
+        ${RULE_REFERENCE.map(sec => `
+          <div class="rules-ref-card">
+            <div class="rules-ref-head"><h4>${sec.title}</h4><span class="rules-ref-tag">${sec.ref}</span></div>
+            <ul>${sec.items.map(i => `<li>${i}</li>`).join('')}</ul>
+          </div>`).join('')}
+      </div>
+      <p class="rules-sources">Summarised from: ${RULE_SOURCES.map(s =>
+        `<a href="${s.url}" target="_blank" rel="noopener">${s.label}</a>`).join(' · ')}.
+        The German PO text is legally binding — confirm edge cases with the Prüfungsamt.</p>`;
+    refEl.dataset.ready = '1';
   }
 }
 
@@ -1151,7 +1428,8 @@ const CMDK_VIEWS = [
   { label: 'Schedule', hint: 'Full semester timetable', tab: 'scheduler' },
   { label: 'Planner', hint: 'Your weekly plan & conflicts', tab: 'planner' },
   { label: 'Professors', hint: 'Faculty directory', tab: 'professors' },
-  { label: 'Labs', hint: 'Research groups', tab: 'labs' }
+  { label: 'Labs', hint: 'Research groups', tab: 'labs' },
+  { label: 'Rules', hint: 'Degree requirements & credit check', tab: 'rules' }
 ];
 
 function openCmdk() {
